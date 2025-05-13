@@ -1,0 +1,701 @@
+
+==================================================
+Source URL: https://lifesciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2bd-kskz
+
+==================================================
+Metadata date:
+  - (Dutch forest reserves database and network, 2019-04-11)
+  - T
+Metadata language:
+  - (Dutch forest reserves database and network, English)
+  - T
+Responsible organization metadata:
+  - (Dutch forest reserves database and network, Wageningen University & Research)
+  - T
+Landing page:
+  - (Dutch forest reserves database and network, https://doi.org/10.17026/dans-2bd-kskz)
+  - T
+Title:
+  - (Dutch forest reserves database and network, Dutch forest reserves database and network)
+  - T
+Description:
+  - (Dutch forest reserves database and network, The Dutch forest reserves network encompasses about 60 forest reserves representing all major forest types in the Netherlands.)
+  - ?
+Unique Identifier:
+  - (Dutch forest reserves database and network, doi:10.17026/dans-2bd-kskz)
+  - T
+Resource type:
+  - (Dutch forest reserves database and network, Database)
+Keywords:
+  - (Dutch forest reserves database and network, forest reserve, monitoring, database, non-intervention dynamics)
+  - T
+Data creator:
+  - (Dutch forest reserves database and network, R.J. Bijlsma; A.P.P.M. Clerkx)
+  - T
+Data contact point:
+  - (Dutch forest reserves database and network, Data Librarian (Wageningen UR))
+  - ?
+Data publisher:
+  - (Dutch forest reserves database and network, Wageningen University & Research)
+  - ?
+Spatial coverage:
+  - (Dutch forest reserves database and network, Netherlands)
+  - T
+Spatial resolution:
+  - (Dutch forest reserves database and network, Not specified)
+  - T
+Spatial reference system:
+  - (Dutch forest reserves database and network, Not specified)
+  - T
+Temporal coverage:
+  - (Dutch forest reserves database and network, 1982-2005)
+  - T
+Temporal resolution:
+  - (Dutch forest reserves database and network, Not specified)
+  - T
+License:
+  - (Dutch forest reserves database and network, DANS Licence)
+  - T
+Access rights:
+  - (Dutch forest reserves database and network, Restricted)
+Distribution access URL:
+  - (Dutch forest reserves database and network, https://lifesciences.datastations.nl/api/access/datafile/)
+  - F
+Distribution format:
+  - (Dutch forest reserves database and network, ZIP)
+  - T
+Distribution byte size:
+  - (Dutch forest reserves database and network, 209.7 MB)
+  - ?
+
+==================================================
+Source URL: https://www.gbif.org/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e
+
+==================================================
+Title:
+  - (EOD – eBird Observation Dataset, This is the title of the dataset, which is managed by the Cornell Lab of Ornithology.)
+  - (EOD – eBird Observation Dataset, This is the title of the dataset.)
+  - T
+Description:
+  - (EOD – eBird Observation Dataset, The dataset is a collective enterprise that takes a novel approach to citizen science by developing cooperative partnerships among experts in a wide range of fields. It aims to increase data quantity through participant recruitment and engagement globally, and to quantify and control for data quality issues.)
+  - (Data description, This is a description of the data.)
+  - T
+Responsible organization metadata:
+  - (Cornell Lab of Ornithology, This is the organization responsible for the creation and management of the dataset.)
+  - (Cornell Lab of Ornithology, The Cornell Lab of Ornithology is the organization responsible for the metadata.)
+  - T
+Data creator:
+  - (Cornell Lab of Ornithology, This is the organization that created the dataset.)
+  - (Jeremy Smith, Jeremy Smith is one of the originators at the Cornell Lab of Ornithology.)
+  - (Andrew Stillman, Andrew Stillman is one of the originators at the Cornell Lab of Ornithology.)
+  - (Matt Strimas-Mackey, Matt Strimas-Mackey is one of the originators at the Cornell Lab of Ornithology.)
+  - (Brian Sullivan, Brian Sullivan is one of the originators at the Cornell Lab of Ornithology.)
+  - (Drew Weber, Drew Weber is one of the originators at the Cornell Lab of Ornithology.)
+  - (Heather Wolf, Heather Wolf is one of the originators at the Cornell Lab of Ornithology.)
+  - (Christopher Wood, Christopher Wood is the Director of eBird and Engineering at the Cornell Lab of Ornithology.)
+  - ?
+Data contact point:
+  - (Cornell Lab of Ornithology, This is the organization that can be contacted for more information about the dataset.)
+  - (Jasdev Imani, Jasdev Imani is the administrative point of contact at the Cornell Lab of Ornithology.)
+  - T
+Data publisher:
+  - (Cornell Lab of Ornithology, This is the organization that published the dataset.)
+  - T
+Landing page:
+  - (https://ebird.org/home, This is the landing page for the dataset, where users can access and download the data.)
+  - T
+Unique Identifier:
+  - (DOI10.15468/aomfnb, This is the unique identifier for the dataset, which can be used to cite the dataset in academic papers.)
+  - (DOI10.15468/aomfnb, This is the unique identifier (DOI) for the data.)
+  - T
+Resource type:
+  - (Occurrence, This indicates that the dataset is an occurrence dataset, which records the presence of species at a specific time and place.)
+  - (Cornell Lab of Ornithology Data, This is the type of resource.)
+  - ?
+Keywords:
+  - (Birds, Ornithology, Citizen Science, These are the keywords associated with the dataset, indicating its main themes.)
+  - T
+Spatial coverage:
+  - (Worldwide, This indicates that the dataset covers occurrences from all over the world.)
+  - (159 Sapsucker Woods Road, This is the location of the Cornell Lab of Ornithology.)
+  - F
+Spatial resolution:
+  - (Not specified, The spatial resolution of the dataset is not specified in the provided text.)
+  - T
+Spatial reference system:
+  - (Not specified, The spatial reference system of the dataset is not specified in the provided text.)
+  - T
+Temporal resolution:
+  - (Not specified, The temporal resolution of the dataset is not specified in the provided text.)
+  - T
+Access rights:
+  - (Not specified, The access rights for the dataset are not specified in the provided text.)
+  - T
+Distribution format:
+  - (Not specified, The format of the dataset is not specified in the provided text.)
+  - T
+Distribution byte size:
+  - (Not specified, The size of the dataset is not specified in the provided text.)
+  - T
+Temporal coverage:
+  - (January 1, 1800 - December 31, 2023, This indicates the time period covered by the dataset.)
+  - T
+License:
+  - (CC BY 4.0, This is the license under which the dataset is made available.)
+  - T
+Distribution access URL:
+  - (https://ebird.org/data/download, This is the URL where the dataset can be accessed and downloaded.)
+  - (https://hosted-datasets.gbif.org/eBird/2023-eBird-dwca-1.0.zip, This is one of the URLs where the data can be accessed.)
+  - T
+Metadata language:
+  - (English, The metadata language is English.)
+  - T
+Metadata date:
+  - (September 16, 2010, This is the date the metadata was registered.)
+  - T
+
+==================================================
+Source URL: https://www.gbif.org/dataset/74196cd9-7ebc-4b20-bc27-3c2d22e31ed7
+
+==================================================
+Metadata date:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, July 4, 2024)
+  - T
+Metadata language:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, English)
+  - T
+Responsible organization metadata:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, University of Amsterdam / IBED)
+  - T
+Landing page:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, https://ipt.nlbif.nl/archive.do?r=awd_pilot1)
+  - T
+Title:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1)
+  - T
+Description:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, This camera trap pilot 1 was primarily focused on testing camera deployment, data accumulation and data transmission (4G coverage) in a remote dune location of the Netherlands.)
+  - T
+Unique Identifier:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, DOI10.15468/pg338w)
+  - T
+Resource type:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Occurrence dataset)
+  - ?
+Keywords:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Camera trap, pilot study, Amsterdamse Waterleidingduinen)
+  - ?
+Data creator:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Evans J, Zilber R, Kissling W D)
+  - T
+Data contact point:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Julian Evans, Rotem Zilber, W. Daniel Kissling)
+  - T
+Data publisher:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, University of Amsterdam / IBED)
+  - T
+Spatial coverage:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Amsterdamse Waterleidingduinen, Netherlands)
+  - T
+Spatial resolution:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Not specified)
+  - T
+Spatial reference system:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Not specified)
+Temporal coverage:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, August 13th 2021 to August 2023)
+  - T
+Temporal resolution:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Not specified)
+License:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, CC BY 4.0)
+  - T
+Access rights:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Not specified)
+Distribution access URL:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, https://ipt.nlbif.nl/archive.do?r=awd_pilot1)
+  - T
+Distribution format:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Camera Trap Data Package)
+  - F
+Distribution byte size:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Not specified)
+  - T
+==================================================
+Source URL: https://www.gbif.org/dataset/74196cd9-7ebc-4b20-bc27-3c2d22e31ed7
+
+==================================================
+Metadata date:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, July 4, 2024)
+  - T
+Metadata language:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, English)
+  - T
+Responsible organization metadata:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, University of Amsterdam / IBED)
+  - T
+Landing page:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, https://ipt.nlbif.nl/archive.do?r=awd_pilot1)
+  - F
+Title:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1)
+  - T
+Description:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, This camera trap pilot 1 was primarily focused on testing camera deployment, data accumulation and data transmission (4G coverage) in a remote dune location of the Netherlands.)
+  - ?
+Unique Identifier:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, DOI10.15468/pg338w)
+  - T
+Resource type:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Occurrence dataset)
+  - ?
+Keywords:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Camera trap, pilot study, Amsterdamse Waterleidingduinen)
+  - ?
+Data creator:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Evans J, Zilber R, Kissling W D)
+  - T
+Data contact point:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Julian Evans, Rotem Zilber, W. Daniel Kissling)
+  - F
+Data publisher:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, University of Amsterdam / IBED)
+  - T
+Spatial coverage:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Amsterdamse Waterleidingduinen, Netherlands)
+  - T
+Spatial resolution:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Not specified)
+  - T
+Spatial reference system:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Not specified)
+  - T
+Temporal coverage:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, August 13th 2021 to August 2023)
+  - T
+Temporal resolution:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Not specified)
+  - T
+License:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, CC BY 4.0)
+  - T
+Access rights:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Not specified)
+  - T
+Distribution access URL:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, https://ipt.nlbif.nl/archive.do?r=awd_pilot1)
+  - T
+Distribution format:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Camera Trap Data Package)
+  - T
+Distribution byte size:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1, Not specified)
+  - T
+
+==================================================
+Source URL: https://www.gbif.org/dataset/bc0acb9a-131f-4085-93ae-a46e08564ac5
+
+==================================================
+Metadata date:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 3, July 4, 2024)
+  - T
+Metadata language:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 3, English)
+  - T
+Title:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 3, The title of the data is 'Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 3)
+  - T
+Description:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 3, The data is about a camera trapping pilot test conducted in the Amsterdamse Waterleidingduinen, testing the effect of lens angle and camera height.)
+  - ?
+Keywords:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 3, Camera trap, pilot study, Amsterdamse Waterleidingduinen, lens angle, camera height)
+  - F
+Spatial resolution:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 3, The spatial resolution of the data is not specified in the text)
+  - T
+Spatial reference system:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 3, The spatial reference system of the data is not specified in the text)
+  - T
+Temporal resolution:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 3, The temporal resolution of the data is not specified in the text)
+  - T
+Access rights:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 3, The access rights of the data are not specified in the text)
+  - T
+Distribution byte size:
+  - (Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 3, The distribution byte size of the data is not specified in the text)
+  - T
+Responsible organization metadata:
+  - (University of Amsterdam / IBED, The organization responsible for the data is the University of Amsterdam / IBED)
+  - T
+Data publisher:
+  - (University of Amsterdam / IBED, The publisher of the data is the University of Amsterdam / IBED)
+  - T
+Landing page:
+  - (https://ipt.nlbif.nl/archive.do?r=awd_pilot3, The landing page for the data is https://ipt.nlbif.nl/archive.do?r=awd_pilot3)
+  - F
+Distribution access URL:
+  - (https://ipt.nlbif.nl/archive.do?r=awd_pilot3, The distribution access URL for the data is https://ipt.nlbif.nl/archive.do?r=awd_pilot3)
+  - T
+Unique Identifier:
+  - (DOI10.15468/u88x5y, The unique identifier for the data is DOI10.15468/u88x5y)
+  - T
+Resource type:
+  - (Camera Trap Data Package, The resource type of the data is a 'Camera Trap Data Package)
+  - ?
+Distribution format:
+  - (Camera Trap Data Package, The distribution format of the data is a 'Camera Trap Data Package)
+  - ?
+Data creator:
+  - (Julian Evans, Rotem Zilber, W. Daniel Kissling, The creators of the data are Julian Evans, Rotem Zilber, and W. Daniel Kissling from the University of Amsterdam)
+  - T
+Data contact point:
+  - (Julian Evans, Rotem Zilber, W. Daniel Kissling, The contact points for the data are Julian Evans, Rotem Zilber, and W. Daniel Kissling from the University of Amsterdam)
+  - F
+Spatial coverage:
+  - (Amsterdam Water Supply Dunes, The spatial coverage of the data is the Amsterdam Water Supply Dunes)
+  - ?
+Temporal coverage:
+  - (1st March 2023 to 31st of March 2023, The temporal coverage of the data is from 1st March 2023 to 31st of March 2023)
+  - T
+License:
+  - (CC BY 4.0, The license of the data is CC BY 4.0)
+  - T
+
+==================================================
+Source URL: https://zenodo.org/records/11440456
+
+==================================================
+Metadata date:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, Published June 3, 2024)
+  - T
+Metadata language:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, English)
+  - T
+Responsible organization metadata:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, Zenodo)
+  - F
+Landing page:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, https://doi.org/10.5281/zenodo.11440456)
+  - T
+Title:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen)
+  - T
+Description:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, This is a repository of data collected from three camera trap pilot studies conducted in the Amsterdamse Waterleidingduinen. The data includes images and observations of various species and is intended for the development of AI algorithms for species detection.)
+  - ?
+Unique Identifier:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, DOI: 10.5281/zenodo.11440456)
+  - T
+Resource type:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, Dataset)
+  - T
+Keywords:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, ecology, camera trapping, dunes)
+  - T
+Data creator:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, Evans, Julian C.; Zilber, Rotem; Kissling, W. Daniel)
+  - T
+Data contact point:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, Kissling, W. Daniel)
+  - T
+Data publisher:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, Zenodo)
+  - F
+Spatial coverage:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, Amsterdamse Waterleidingduinen)
+  - T
+Spatial resolution:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, Not specified)
+  - T
+Spatial reference system:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, Not specified)
+  - T
+Temporal coverage:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, 2021–2023)
+  - T
+Temporal resolution:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, Not specified)
+  - T
+License:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, Creative Commons Attribution 4.0 International)
+  - T
+Access rights:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, Open access)
+  - T
+Distribution access URL:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, https://doi.org/10.5281/zenodo.11440456)
+  - T
+Distribution format:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, .zip)
+  - T
+Distribution byte size:
+  - (Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen, 21.6 GB)
+  - T
+
+==================================================
+Source URL: https://stac.ecodatacube.eu/blue_glad.landsat.ard2.seasconv.m.yearly/collection.json
+
+==================================================
+Metadata date:
+  - (EcoDataCube, The metadata date is not explicitly mentioned in the text.)
+  - T
+Metadata language:
+  - (EcoDataCube, The metadata language is English.)
+  - T
+Responsible organization metadata:
+  - (EcoDataCube, The responsible organization for the metadata is not explicitly mentioned in the text.)
+  - T
+Landing page:
+  - (EcoDataCube, The landing page is not explicitly mentioned in the text.)
+  - T
+Title:
+  - (EcoDataCube, The title is 'Cloud-free reconstructed Landsat yearly blue band'.)
+  - T
+Description:
+  - (EcoDataCube, The description is 'Blue band aggregated yearly from 30-m bi-monthly gapfilled GLAD Landsat ARD blue band from 2000 to 2022'.)
+  - T
+Unique Identifier:
+  - (EcoDataCube, The unique identifier is not explicitly mentioned in the text.)
+  - F
+Resource type:
+  - (EcoDataCube, The resource type is 'imagery'.)
+  - T
+Keywords:
+  - (EcoDataCube, The keywords are 'landsat', 'blue', and '30-m'.)
+  - ?
+Data creator:
+  - (EcoDataCube, The data creator is not explicitly mentioned in the text.)
+  - T
+Data contact point:
+  - (EcoDataCube, The data contact point is Leandro Parente with the email leandro.parente@opengeohub.org.)
+  - T
+Data publisher:
+  - (EcoDataCube, The data publisher is 'opengeohub'.)
+  - T
+Spatial coverage:
+  - (EcoDataCube, The spatial coverage is not explicitly mentioned in the text.)
+  - T
+Spatial resolution:
+  - (EcoDataCube, The spatial resolution is 30-m.)
+  - T
+Spatial reference system:
+  - (EcoDataCube, The spatial reference system is not explicitly mentioned in the text.)
+  - T
+Temporal coverage:
+  - (EcoDataCube, The temporal coverage is from 2000-01-01 00:00:00 UTC to 2022-12-31 00:00:00 UTC.)
+  - T
+Temporal resolution:
+  - (EcoDataCube, The temporal resolution is not explicitly mentioned in the text.)
+  - F
+License:
+  - (EcoDataCube, The license is CC-BY-SA-4.0.)
+  - T
+Access rights:
+  - (EcoDataCube, The access rights are not explicitly mentioned in the text.)
+  - T
+Distribution access URL:
+  - (EcoDataCube, The distribution access URL is not explicitly mentioned in the text.)
+  - T
+Distribution format:
+  - (EcoDataCube, The distribution format is COG.)
+  - ?
+Distribution byte size:
+  - (EcoDataCube, The distribution byte size is not explicitly mentioned in the text.)
+  - T
+
+==================================================
+Source URL: https://stac.ecodatacube.eu/green_glad.landsat.ard2.seasconv.m.yearly/collection.json
+
+==================================================
+Metadata date:
+  - (EcoDataCube, The metadata date is not explicitly mentioned in the text.)
+  - T
+Metadata language:
+  - (EcoDataCube, The metadata language is English.)
+  - T
+Responsible organization metadata:
+  - (EcoDataCube, The responsible organization for the metadata is not explicitly mentioned in the text.)
+  - T
+Landing page:
+  - (EcoDataCube, The landing page is not explicitly mentioned in the text.)
+  - T
+Title:
+  - (EcoDataCube, The title is 'Cloud-free reconstructed Landsat yearly green band'.)
+  - T
+Description:
+  - (EcoDataCube, The description is 'Green band aggregated yearly from 30-m bi-monthly gapfilled GLAD Landsat ARD green band from 2000 to 2022'.)
+  - T
+Unique Identifier:
+  - (EcoDataCube, The unique identifier is not explicitly mentioned in the text.)
+  - F
+Resource type:
+  - (EcoDataCube, The resource type is 'imagery'.)
+  - T
+Keywords:
+  - (EcoDataCube, The keywords are 'landsat', 'green', and '30-m'.)
+  - T
+Data creator:
+  - (EcoDataCube, The data creator is not explicitly mentioned in the text.)
+  - F
+Data contact point:
+  - (EcoDataCube, The data contact point is Leandro Parente with the email leandro.parente@opengeohub.org.)
+  - T
+Data publisher:
+  - (EcoDataCube, The data publisher is opengeohub.)
+  - T
+Spatial coverage:
+  - (EcoDataCube, The spatial coverage is not explicitly mentioned in the text.)
+  - T
+Spatial resolution:
+  - (EcoDataCube, The spatial resolution is 30-m.)
+  - T
+Spatial reference system:
+  - (EcoDataCube, The spatial reference system is not explicitly mentioned in the text.)
+  - T
+Temporal coverage:
+  - (EcoDataCube, The temporal coverage is from 2000-01-01 00:00:00 UTC to 2022-12-31 00:00:00 UTC.)
+  - T
+Temporal resolution:
+  - (EcoDataCube, The temporal resolution is not explicitly mentioned in the text.)
+  - F
+License:
+  - (EcoDataCube, The license is CC-BY-SA-4.0.)
+  - T
+Access rights:
+  - (EcoDataCube, The access rights are not explicitly mentioned in the text.)
+  - T
+Distribution access URL:
+  - (EcoDataCube, The distribution access URL is not explicitly mentioned in the text.)
+  - T
+Distribution format:
+  - (EcoDataCube, The distribution format is COG.)
+  - ?
+Distribution byte size:
+  - (EcoDataCube, The distribution byte size is not explicitly mentioned in the text.)
+  - T
+
+==================================================
+Source URL: https://datahuiswadden.openearth.nl/geonetwork/srv/api/records/A0h06_NlSEuNlium5OO3FA
+
+==================================================
+Metadata date:
+  - (Waddenregister, The metadata date for Waddenregister is not explicitly mentioned in the text.)
+  - F
+Metadata language:
+  - (Waddenregister, The metadata language for Waddenregister is Nederlands; Vlaams.)
+  - T
+Responsible organization metadata:
+  - (Waddenregister, The responsible organization for the metadata of Waddenregister is Wageningen Marine Research.)
+  - T
+Landing page:
+  - (Waddenregister, The landing page for Waddenregister is not explicitly mentioned in the text.)
+  - T
+Title:
+  - (Waddenregister, The title of the entity is 'WMR - TMAP: Ecotopenkaart'.)
+  - T
+Description:
+  - (Waddenregister, Waddenregister is a resource providing insights into changes in ecosystems and landscapes, particularly in the Waddenzee area, through ecotope maps.)
+  - T
+Unique Identifier:
+  - (Waddenregister, The unique identifier for Waddenregister is 'A0h06_NlSEuNlium5OO3FA'.)
+  - T
+Resource type:
+  - (Waddenregister, The resource type for Waddenregister is not explicitly mentioned in the text.)
+  - T
+Keywords:
+  - (Waddenregister, The keywords related to Waddenregister include TMAP, Trilaterale Waddenzee, UNESCO Werelderfgoed, Natuurwaarde, and Ecotopen.)
+  - T
+Data creator:
+  - (Waddenregister, The data creator for Waddenregister is not explicitly mentioned in the text.)
+  - T
+Data contact point:
+  - (Waddenregister, The data contact point for Waddenregister is Wageningen Marine Research.)
+  - T
+Data publisher:
+  - (Waddenregister, The data publisher for Waddenregister is Wageningen Marine Research.)
+  - T
+Spatial coverage:
+  - (Waddenregister, The spatial coverage for Waddenregister is not explicitly mentioned in the text.)
+  - T
+Spatial resolution:
+  - (Waddenregister, The spatial resolution for Waddenregister is not explicitly mentioned in the text.)
+  - T
+Spatial reference system:
+  - (Waddenregister, The spatial reference system for Waddenregister is not explicitly mentioned in the text.)
+  - T
+Temporal coverage:
+  - (Waddenregister, The temporal coverage for Waddenregister is not explicitly mentioned in the text.)
+  - T
+Temporal resolution:
+  - (Waddenregister, The temporal resolution for Waddenregister is not explicitly mentioned in the text.)
+  - T
+License:
+  - (Waddenregister, The license for Waddenregister is not explicitly mentioned in the text.)
+  - T
+Access rights:
+  - (Waddenregister, The access rights for Waddenregister are under copyright.)
+  - T
+Distribution access URL:
+  - (Waddenregister, The distribution access URL for Waddenregister is not explicitly mentioned in the text.)
+  - T
+Distribution format:
+  - (Waddenregister, The distribution format for Waddenregister is gml+xml (3.2.1).)
+  - T
+Distribution byte size:
+  - (Waddenregister, The distribution byte size for Waddenregister is not explicitly mentioned in the text.)
+  - T
+
+==================================================
+Source URL: https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/L-mHomzGRuKAHGMkUPjY9g
+
+==================================================
+Title:
+  - (Ecotopenkaart Waddenzee (2017), The title of the dataset is 'Ecotopenkaart Waddenzee (2017)'.)
+  - T
+Description:
+  - (Ecotopenkaart Waddenzee 2017, Ecotopenkaart Waddenzee 2017 is a dataset that represents an ecomorphological, landscape mappable unit. The ecotope system is divided based on the criteria of height, flow speed, wave height, dry fall duration, geomorphology, salinity, and sediment composition.)
+  - ?
+Responsible organization metadata:
+  - (Rijkswaterstaat, The organization responsible for the metadata is Rijkswaterstaat.)
+  - T
+Data creator:
+  - (Rijkswaterstaat, The creator of the data is Rijkswaterstaat.)
+  - T
+Data contact point:
+  - (Rijkswaterstaat, The contact point for the data is Rijkswaterstaat.)
+  - F
+Data publisher:
+  - (Rijkswaterstaat, The publisher of the data is Rijkswaterstaat.)
+  - T
+Landing page:
+  - (https://viewer.openearth.nl/wadden-viewer/?folders=93790295%2C93793330%2C107902964&layers=100230540&layerNames=Ecotopenkaart+Waddenzee+%282017%29, The landing page for the dataset is located at https://viewer.openearth.nl/wadden-viewer/?folders=93790295%2C93793330%2C107902964&layers=100230540&layerNames=Ecotopenkaart+Waddenzee+%282017%29.)
+  - T
+Unique Identifier:
+  - (L-mHomzGRuKAHGMkUPjY9g, The unique identifier for the dataset is 'L-mHomzGRuKAHGMkUPjY9g'.)
+  - T
+Resource type:
+  - (vector, The resource type of the dataset is 'vector'.)
+  - ?
+Keywords:
+  - (Abiotisch, Morfologie, Ecotopenkaart, Zoute Ecotopenkaart, MWTL, Intergetijdengebied, Ecotopen, The keywords associated with the dataset are 'Abiotisch', 'Morfologie', 'Ecotopenkaart', 'Zoute Ecotopenkaart', 'MWTL', 'Intergetijdengebied', 'Ecotopen'.)
+  - ?
+Spatial coverage:
+  - (Waddenzee, The spatial coverage of the data is the Waddenzee area.)
+  - T
+Spatial reference system:
+  - (EPSG:28992, The spatial reference system used for the data is 'EPSG:28992'.)
+  - T
+Temporal coverage:
+  - (2017-01-31, The temporal coverage of the data is from the year 2017.)
+  - T
+Access rights:
+  - (Geen beperkingen, The access rights for the data are 'Geen beperkingen' (No restrictions).)
+  - T
+Distribution access URL:
+  - (https://viewer.openearth.nl/wadden-viewer/download/geoserver?layers=100230540, The distribution access URL for the data is 'https://viewer.openearth.nl/wadden-viewer/download/geoserver?layers=100230540'.)
+  - T
+Distribution format:
+  - (WMS, WFS, The distribution format of the data is 'WMS, WFS'.)
+  - T
