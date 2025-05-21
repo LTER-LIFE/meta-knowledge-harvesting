@@ -111,7 +111,7 @@ def annotate_with_app(file_path = "outputs/2025-05-20entity_type_map.txt"):
     """
     metadata_blocks = read_metadata_file(file_path)
     n_datasets = len(metadata_blocks)
-    options = ['T', 'F', '?', 'M']
+    options = ['T', 'F', '?']
     results = []
 
     ## create alphabetically sorted list of metadata fields
@@ -129,7 +129,13 @@ def annotate_with_app(file_path = "outputs/2025-05-20entity_type_map.txt"):
     for i_url, (url, metadata) in enumerate(metadata_blocks):
         st.markdown(f"### Dataset {i_url + 1} of {n_datasets}")
         st.markdown(f"**Source URL:** {url}")
-        for field, values in metadata.items():
+        # for field, values in metadata.items():
+        for field in metadata_fields:
+            if field not in metadata:
+                st.markdown(f"**{field}**: _Not available_")
+                results.append({"url": url, "i_url": i_url, "name_dataset": None, "field": field, "value": None, "i_value": None, "evaluation": 'M'})
+                continue
+            values = metadata[field]
             for i_v, v in enumerate(values):
                 assert len(v) == 2, "Expected a tuple of (name ds, description)"
                 name_ds, desc = v
@@ -139,7 +145,7 @@ def annotate_with_app(file_path = "outputs/2025-05-20entity_type_map.txt"):
                 choice = st.radio("Select an option:", options, key=entry_key, index=None)
                 results.append({"url": url, "i_url": i_url, "name_dataset": name_ds, "field": field, "value": desc, "i_value": i_v, "evaluation": choice})
                 st.markdown("---")
-
+    
     if st.button("Export Results"):
         df = pd.DataFrame(results)
         current_timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
