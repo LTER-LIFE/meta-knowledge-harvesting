@@ -1,3 +1,7 @@
+import streamlit as st
+import pandas as pd
+from datetime import datetime
+
 def parse_metadata_block(text: str) -> tuple[str, dict]:
     """
     Parse a metadata block and return the source URL and a dictionary of metadata fields.
@@ -83,16 +87,68 @@ def read_metadata_file(file_path: str) -> list[tuple[str, dict]]:
     
     return results
 
-# Example usage:
-file_path = "outputs/2025-05-20entity_type_map.txt"
-metadata_blocks = read_metadata_file(file_path)
+def display_metadata(file_path = "outputs/2025-05-20entity_type_map.txt"):
+    # Example usage:
+    metadata_blocks = read_metadata_file(file_path)
 
-# Print example of first block
-if metadata_blocks:
-    url, metadata = metadata_blocks[0]
-    print(f"Source URL: {url}")
-    print("\nExample fields:")
-    for field, values in list(metadata.items())[:3]:  # Show first 3 fields
-        print(f"\n{field}:")
-        for value, desc in values:
-            print(f"  - {value}: {desc}")
+    # Print example of first block
+    if metadata_blocks:
+        print(f'Number of metadata blocks: {len(metadata_blocks)}')
+        url, metadata = metadata_blocks[0]
+        print(f"Source URL: {url}")
+        print("\nExample fields:")
+        for field, values in list(metadata.items())[:3]:  # Show first 3 fields
+            print(f"\n{field}:")
+            for value, desc in values:
+                print(f"  - {value}: {desc}")
+
+def annotate_with_app(file_path = "outputs/2025-05-20entity_type_map.txt"):
+    """
+    Annotate the metadata with Streamlit app.
+    
+    Args:
+        file_path (str): Path to the metadata file
+    """
+    metadata_blocks = read_metadata_file(file_path)
+    n_datasets = len(metadata_blocks)
+    options = ['T', 'F', '?', 'M']
+    results = []
+
+    ## create alphabetically sorted list of metadata fields
+    metadata_fields = set()
+    for _, metadata in metadata_blocks:
+        for field in metadata.keys():
+            metadata_fields.add(field)
+    metadata_fields = sorted(metadata_fields)
+    print(f"Metadata fields: {metadata_fields}")
+
+    # Create a Streamlit app to display metadata
+    st.title("Metadata Viewer")
+
+
+    for i_url, (url, metadata) in enumerate(metadata_blocks):
+        st.markdown(f"### Dataset {i_url + 1} of {n_datasets}")
+        st.markdown(f"**Source URL:** {url}")
+        for field, values in metadata.items():
+            for i_v, v in enumerate(values):
+                assert len(v) == 2, "Expected a tuple of (name ds, description)"
+                name_ds, desc = v
+                entry_key = f'{i_url}_{field}_{i_v}'
+                st.markdown(f"**{field}**: {desc}")
+                st.markdown(f"**Dataset name**: _{name_ds}_")
+                choice = st.radio("Select an option:", options, key=entry_key, index=None)
+                results.append({"url": url, "i_url": i_url, "name_dataset": name_ds, "field": field, "value": desc, "i_value": i_v, "evaluation": choice})
+                st.markdown("---")
+
+    if st.button("Export Results"):
+        df = pd.DataFrame(results)
+        current_timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
+        filename = file_path.split("/")[-1].split(".")[0]
+        new_filename = f"outputs/{filename}_{current_timestamp}_verification_results.csv"
+        df.to_csv(new_filename, index=False)
+        st.success("Saved to " + new_filename)
+        st.balloons()
+
+if __name__ == "__main__":
+    # display_metadata()
+    annotate_with_app()
