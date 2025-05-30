@@ -1,675 +1,645 @@
-https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSS30_v002:
-  Unique Identifier:
-  - null
-  Resource type:
-  - null
-  Metadata language:
-  - null
-  Title:
-  - null
-  Data publisher:
-  - null
-  Access rights:
-  - null
-  Temporal coverage:
-  - null
-  Data creator:
-  - null
-  Landing page:
-  - null
-  Keywords:
-  - null
-  Distribution byte size:
-  - null
-  Spatial coverage:
-  - null
-  Distribution access URL:
-  - null
-  Spatial reference system:
-  - null
-  Description:
-  - null
-  Spatial resolution:
-  - null
-  License:
-  - null
-  Data contact point:
-  - null
-  Responsible organization metadata:
-  - null
-  Temporal resolution:
-  - null
-  Metadata date:
-  - null
-  Distribution format:
-  - null
-https://lpdaac.usgs.gov/products/mod09a1v061/:
-  Unique Identifier:
-  - null
-  Resource type:
-  - null
-  Metadata language:
-  - null
-  Title:
-  - null
-  Data publisher:
-  - null
-  Access rights:
-  - null
-  Temporal coverage:
-  - null
-  Data creator:
-  - null
-  Landing page:
-  - null
-  Keywords:
-  - null
-  Distribution byte size:
-  - null
-  Spatial coverage:
-  - null
-  Distribution access URL:
-  - null
-  Spatial reference system:
-  - null
-  Description:
-  - null
-  Spatial resolution:
-  - null
-  License:
-  - null
-  Data contact point:
-  - null
-  Responsible organization metadata:
-  - null
-  Temporal resolution:
-  - null
-  Metadata date:
-  - null
-  Distribution format:
-  - null
-https://stac.ecodatacube.eu/veg_quercus.robur_anv.eml/collection.json?.language=en:
-  Unique Identifier:
-  - null
-  Resource type:
-  - null
-  Metadata language:
-  - null
-  Title:
-  - null
-  Data publisher:
-  - null
-  Access rights:
-  - null
-  Temporal coverage:
-  - null
-  Data creator:
-  - null
-  Landing page:
-  - null
-  Keywords:
-  - null
-  Distribution byte size:
-  - null
-  Spatial coverage:
-  - null
-  Distribution access URL:
-  - null
-  Spatial reference system:
-  - null
-  Description:
-  - null
-  Spatial resolution:
-  - null
-  License:
-  - null
-  Data contact point:
-  - null
-  Responsible organization metadata:
-  - null
-  Temporal resolution:
-  - null
-  Metadata date:
-  - null
-  Distribution format:
-  - null
-https://stac.ecodatacube.eu/ndvi_glad.landsat.ard2.seasconv/collection.json?.language=en:
-  Unique Identifier:
-  - null
-  Resource type:
-  - null
-  Metadata language:
-  - null
-  Title:
-  - null
-  Data publisher:
-  - null
-  Access rights:
-  - null
-  Temporal coverage:
-  - null
-  Data creator:
-  - null
-  Landing page:
-  - null
-  Keywords:
-  - null
-  Distribution byte size:
-  - null
-  Spatial coverage:
-  - null
-  Distribution access URL:
-  - null
-  Spatial reference system:
-  - null
-  Description:
-  - null
-  Spatial resolution:
-  - null
-  License:
-  - null
-  Data contact point:
-  - null
-  Responsible organization metadata:
-  - null
-  Temporal resolution:
-  - null
-  Metadata date:
-  - null
-  Distribution format:
-  - null
-https://zenodo.org/records/8319440:
-  Unique Identifier:
-  - null
-  Resource type:
-  - null
-  Metadata language:
-  - null
-  Title:
-  - null
-  Data publisher:
-  - null
-  Access rights:
-  - null
-  Temporal coverage:
-  - null
-  Data creator:
-  - null
-  Landing page:
-  - null
-  Keywords:
-  - null
-  Distribution byte size:
-  - null
-  Spatial coverage:
-  - null
-  Distribution access URL:
-  - null
-  Spatial reference system:
-  - null
-  Description:
-  - null
-  Spatial resolution:
-  - null
-  License:
-  - null
-  Data contact point:
-  - null
-  Responsible organization metadata:
-  - null
-  Temporal resolution:
-  - null
-  Metadata date:
-  - null
-  Distribution format:
-  - null
-https://lifesciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2bd-kskz:
-  Unique Identifier:
-  - null
-  Resource type:
-  - null
-  Metadata language:
-  - null
-  Title:
-  - null
-  Data publisher:
-  - null
-  Access rights:
-  - null
-  Temporal coverage:
-  - null
-  Data creator:
-  - null
-  Landing page:
-  - null
-  Keywords:
-  - null
-  Distribution byte size:
-  - null
-  Spatial coverage:
-  - null
-  Distribution access URL:
-  - null
-  Spatial reference system:
-  - null
-  Description:
-  - null
-  Spatial resolution:
-  - null
-  License:
-  - null
-  Data contact point:
-  - null
-  Responsible organization metadata:
-  - null
-  Temporal resolution:
-  - null
-  Metadata date:
-  - null
-  Distribution format:
-  - null
-https://www.gbif.org/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e:
-  Unique Identifier:
-  - null
-  Resource type:
-  - null
-  Metadata language:
-  - null
-  Title:
-  - null
-  Data publisher:
-  - null
-  Access rights:
-  - null
-  Temporal coverage:
-  - null
-  Data creator:
-  - null
-  Landing page:
-  - null
-  Keywords:
-  - null
-  Distribution byte size:
-  - null
-  Spatial coverage:
-  - null
-  Distribution access URL:
-  - null
-  Spatial reference system:
-  - null
-  Description:
-  - null
-  Spatial resolution:
-  - null
-  License:
-  - null
-  Data contact point:
-  - null
-  Responsible organization metadata:
-  - null
-  Temporal resolution:
-  - null
-  Metadata date:
-  - null
-  Distribution format:
-  - null
-https://www.gbif.org/dataset/74196cd9-7ebc-4b20-bc27-3c2d22e31ed7:
-  Unique Identifier:
-  - null
-  Resource type:
-  - null
-  Metadata language:
-  - null
-  Title:
-  - null
-  Data publisher:
-  - null
-  Access rights:
-  - null
-  Temporal coverage:
-  - null
-  Data creator:
-  - null
-  Landing page:
-  - null
-  Keywords:
-  - null
-  Distribution byte size:
-  - null
-  Spatial coverage:
-  - null
-  Distribution access URL:
-  - null
-  Spatial reference system:
-  - null
-  Description:
-  - null
-  Spatial resolution:
-  - null
-  License:
-  - null
-  Data contact point:
-  - null
-  Responsible organization metadata:
-  - null
-  Temporal resolution:
-  - null
-  Metadata date:
-  - null
-  Distribution format:
-  - null
-https://www.gbif.org/dataset/bc0acb9a-131f-4085-93ae-a46e08564ac5:
-  Unique Identifier:
-  - null
-  Resource type:
-  - null
-  Metadata language:
-  - null
-  Title:
-  - null
-  Data publisher:
-  - null
-  Access rights:
-  - null
-  Temporal coverage:
-  - null
-  Data creator:
-  - null
-  Landing page:
-  - null
-  Keywords:
-  - null
-  Distribution byte size:
-  - null
-  Spatial coverage:
-  - null
-  Distribution access URL:
-  - null
-  Spatial reference system:
-  - null
-  Description:
-  - null
-  Spatial resolution:
-  - null
-  License:
-  - null
-  Data contact point:
-  - null
-  Responsible organization metadata:
-  - null
-  Temporal resolution:
-  - null
-  Metadata date:
-  - null
-  Distribution format:
-  - null
-https://zenodo.org/records/11440456:
-  Unique Identifier:
-  - null
-  Resource type:
-  - null
-  Metadata language:
-  - null
-  Title:
-  - null
-  Data publisher:
-  - null
-  Access rights:
-  - null
-  Temporal coverage:
-  - null
-  Data creator:
-  - null
-  Landing page:
-  - null
-  Keywords:
-  - null
-  Distribution byte size:
-  - null
-  Spatial coverage:
-  - null
-  Distribution access URL:
-  - null
-  Spatial reference system:
-  - null
-  Description:
-  - null
-  Spatial resolution:
-  - null
-  License:
-  - null
-  Data contact point:
-  - null
-  Responsible organization metadata:
-  - null
-  Temporal resolution:
-  - null
-  Metadata date:
-  - null
-  Distribution format:
-  - null
-https://stac.ecodatacube.eu/blue_glad.landsat.ard2.seasconv.m.yearly/collection.json:
-  Unique Identifier:
-  - null
-  Resource type:
-  - null
-  Metadata language:
-  - null
-  Title:
-  - null
-  Data publisher:
-  - null
-  Access rights:
-  - null
-  Temporal coverage:
-  - null
-  Data creator:
-  - null
-  Landing page:
-  - null
-  Keywords:
-  - null
-  Distribution byte size:
-  - null
-  Spatial coverage:
-  - null
-  Distribution access URL:
-  - null
-  Spatial reference system:
-  - null
-  Description:
-  - null
-  Spatial resolution:
-  - null
-  License:
-  - null
-  Data contact point:
-  - null
-  Responsible organization metadata:
-  - null
-  Temporal resolution:
-  - null
-  Metadata date:
-  - null
-  Distribution format:
-  - null
-https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/L-mHomzGRuKAHGMkUPjY9g:
-  Unique Identifier:
-  - null
-  Resource type:
-  - null
-  Metadata language:
-  - null
-  Title:
-  - null
-  Data publisher:
-  - null
-  Access rights:
-  - null
-  Temporal coverage:
-  - null
-  Data creator:
-  - null
-  Landing page:
-  - null
-  Keywords:
-  - null
-  Distribution byte size:
-  - null
-  Spatial coverage:
-  - null
-  Distribution access URL:
-  - null
-  Spatial reference system:
-  - null
-  Description:
-  - null
-  Spatial resolution:
-  - null
-  License:
-  - null
-  Data contact point:
-  - null
-  Responsible organization metadata:
-  - null
-  Temporal resolution:
-  - null
-  Metadata date:
-  - null
-  Distribution format:
-  - null
-https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/0fe7e64b-50b3-4cee-b64a-02659fc2b6c7:
-  Unique Identifier:
-  - null
-  Resource type:
-  - null
-  Metadata language:
-  - null
-  Title:
-  - null
-  Data publisher:
-  - null
-  Access rights:
-  - null
-  Temporal coverage:
-  - null
-  Data creator:
-  - null
-  Landing page:
-  - null
-  Keywords:
-  - null
-  Distribution byte size:
-  - null
-  Spatial coverage:
-  - null
-  Distribution access URL:
-  - null
-  Spatial reference system:
-  - null
-  Description:
-  - null
-  Spatial resolution:
-  - null
-  License:
-  - null
-  Data contact point:
-  - null
-  Responsible organization metadata:
-  - null
-  Temporal resolution:
-  - null
-  Metadata date:
-  - null
-  Distribution format:
-  - null
-https://stac.ecodatacube.eu/green_glad.landsat.ard2.seasconv.m.yearly/collection.json:
-  Unique Identifier:
-  - null
-  Resource type:
-  - null
-  Metadata language:
-  - null
-  Title:
-  - null
-  Data publisher:
-  - null
-  Access rights:
-  - null
-  Temporal coverage:
-  - null
-  Data creator:
-  - null
-  Landing page:
-  - null
-  Keywords:
-  - null
-  Distribution byte size:
-  - null
-  Spatial coverage:
-  - null
-  Distribution access URL:
-  - null
-  Spatial reference system:
-  - null
-  Description:
-  - null
-  Spatial resolution:
-  - null
-  License:
-  - null
-  Data contact point:
-  - null
-  Responsible organization metadata:
-  - null
-  Temporal resolution:
-  - null
-  Metadata date:
-  - null
-  Distribution format:
-  - null
 https://datahuiswadden.openearth.nl/geonetwork/srv/api/records/A0h06_NlSEuNlium5OO3FA:
-  Unique Identifier:
-  - null
-  Resource type:
-  - null
-  Metadata language:
-  - null
-  Title:
-  - null
-  Data publisher:
-  - null
   Access rights:
-  - null
-  Temporal coverage:
-  - null
-  Data creator:
-  - null
-  Landing page:
-  - null
-  Keywords:
-  - null
-  Distribution byte size:
-  - null
-  Spatial coverage:
-  - null
-  Distribution access URL:
-  - null
-  Spatial reference system:
-  - null
-  Description:
-  - null
-  Spatial resolution:
-  - null
-  License:
-  - null
+  - Copyright, no user limitations
   Data contact point:
-  - null
-  Responsible organization metadata:
-  - null
-  Temporal resolution:
-  - null
-  Metadata date:
-  - null
+  - Wageningen Marine Research
+  Data creator:
+  - Wageningen Marine Research
+  Data publisher:
+  - Wageningen Marine Research
+  Description:
+  - 'For the proper management of areas such as the Wadden Sea, a consistent and unambiguous insight into the changes in the various landscape units is of great importance. One of the ways to make changes in ecosystems and landscapes visible is with ecotope maps. Ecotopes are “spatially delimited ecological units, the composition and development of which are determined by abiotic, biotic and anthropogenic conditions on site. An ecotope is a recognizable, more or less homogeneous landscape unit.” (Bouma et al., 2005). Ecotope maps are derived from a number of underlying maps of mainly physical factors, which together determine the characteristics of an ecotope. In the Netherlands, the RijksWateren-EcotopenStelsel (RWES) developed by Rijkswaterstaat is used, which has been elaborated for salt waters in the Zoute wateren EcotopenStelsel.'
+  Distribution access URL:
+  - https://viewer.openearth.nl/wadden-viewer/download/geoserver?layers=93966870
+  Distribution byte size:
+  - N/A
   Distribution format:
-  - null
+  - gml+xml ( 3.2.1 )
+  Keywords:
+  - Biotic, water bottom
+  License:
+  - N/A
+  Metadata date:
+  - 2024-09-03
+  Metadata language:
+  - Dutch, Flemish
+  Resource type:
+  - Dataset
+  Responsible organization metadata:
+  - Wageningen Marine Research
+  Spatial coverage:
+  - Wadden Sea
+  Spatial reference system:
+  - N/A
+  Spatial resolution:
+  - N/A
+  Temporal coverage:
+  - 2016-11-01
+  Temporal resolution:
+  - N/A
+  Title:
+  - 'WMR - TMAP: Ecotopenkaart'
+  Unique Identifier:
+  - A0h06_NlSEuNlium5OO3FA
+https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/0fe7e64b-50b3-4cee-b64a-02659fc2b6c7:
+  Access rights:
+  - No user limitations
+  Data contact point:
+  - Het PON & Telos, info@hetpon-telos.nl
+  Data creator:
+  - Het Pon & Telos
+  Data publisher:
+  - Datahuis Wadden
+  Description:
+  - 'The three Wadden provinces – North Holland, Friesland and Groningen – jointly present the Wadden Balance 2024. This periodic socio-economic monitor provides an up-to-date picture of the broad prosperity and economic activities in the Wadden area. The results show that the broad prosperity in the region differs between the Wadden Islands, port municipalities and coastal municipalities. The Wadden Balance focuses on 14 municipalities in the Wadden area with a total of more than 460,000 inhabitants. The monitor was drawn up by Het PON & Telos, commissioned by the Wadden provinces and in consultation with the Wadden municipalities and the Ministry of LVVN. The monitor uses reliable, regularly available data. Themes such as health, income, well-being, mobility and social cohesion are made clear and compared with national trends for the Wadden area.'
+  Distribution access URL:
+  - https://www.investeringskaderwaddengebied.nl/wp-content/uploads/2025/04/Waddenbalans-2024.def_.pdf
+  Distribution byte size:
+  - N/A
+  Distribution format:
+  - N/A
+  Keywords:
+  - Human co-use, Wadden balance, Wadden provinces, Broad prosperity, Economy
+  License:
+  - N/A
+  Metadata date:
+  - 2025-04-11
+  Metadata language:
+  - Dutch
+  Resource type:
+  - N/A
+  Responsible organization metadata:
+  - Het Pon & Telos
+  Spatial coverage:
+  - Wadden area
+  Spatial reference system:
+  - N/A
+  Spatial resolution:
+  - N/A
+  Temporal coverage:
+  - '2024'
+  Temporal resolution:
+  - N/A
+  Title:
+  - Waddenbalans 2024
+  Unique Identifier:
+  - 0fe7e64b-50b3-4cee-b64a-02659fc2b6c7
+https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/L-mHomzGRuKAHGMkUPjY9g:
+  Access rights:
+  - No limitations
+  Data contact point:
+  - Rijkswaterstaat, servicedesk-data@rws.nl
+  Data creator:
+  - Rijkswaterstaat
+  Data publisher:
+  - Rijkswaterstaat
+  Description:
+  - An ecotope is an ecomorphological, landscape mappable unit. The ecotope system is classified based on the criteria height, current velocity, wave height, drying period, geomorphology, salinity and sediment composition. With the ecotope classification, gradual transitions in these variables are converted into discrete, mappable units. Changes in ecologically relevant changes in current velocity etc. are thus clearly quantifiable and can be used for explorations, planning studies and evaluations of construction and management.
+  Distribution access URL:
+  - https://viewer.openearth.nl/wadden-viewer/download/geoserver?layers=100230540
+  Distribution byte size:
+  - N/A
+  Distribution format:
+  - vector
+  Keywords:
+  - Ecotope map, salt ecotope map, MWTL, intertidal zone, ecotopes, abiotic, morphology
+  License:
+  - N/A
+  Metadata date:
+  - 2017-01-31
+  Metadata language:
+  - Dutch
+  Resource type:
+  - N/A
+  Responsible organization metadata:
+  - Rijkswaterstaat, servicedesk-data@rws.nl
+  Spatial coverage:
+  - Wadden sea
+  Spatial reference system:
+  - EPSG:28992
+  Spatial resolution:
+  - N/A
+  Temporal coverage:
+  - '2017'
+  Temporal resolution:
+  - N/A
+  Title:
+  - Ecotopenkaart Waddenzee (2017)
+  Unique Identifier:
+  - L-mHomzGRuKAHGMkUPjY9g
+https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSS30_v002:
+  Access rights:
+  - NASA promotes the full and open sharing of all data with research and applications communities, private industry, academia, and the general public.
+  Data contact point:
+  - N/A
+  Data creator:
+  - NASA LP DAAC
+  Data publisher:
+  - NASA LP DAAC and Google Earth Engine
+  Description:
+  - 'The Harmonized Landsat Sentinel-2 (HLS) project provides consistent surface reflectance data from the Operational Land Imager (OLI) aboard the joint NASA/USGS Landsat 8 satellite and the Multi-Spectral Instrument (MSI) aboard Europes Copernicus Sentinel-2A satellites. The combined measurement enables global observations of the land every 2-3 days at 30-meter (m) spatial resolution. The HLS project uses a set of algorithms to obtain seamless products from OLI and MSI that include atmospheric correction, cloud and cloud-shadow masking, spatial co-registration and common gridding, illumination and view angle normalization, and spectral bandpass adjustment. The HLS project distributes data as two separate products: HLSL30 (Landsat 8/9) and HLSS30 (Sentinel-2 A/B). They both provide 30m Nadir Bidirectional Reflectance Distribution Function (BRDF), Adjusted Reflectance (NBAR).'
+  Distribution access URL:
+  - https://doi.org/10.5067/HLS/HLSS30.002
+  Distribution byte size:
+  - N/A
+  Distribution format:
+  - N/A
+  Keywords:
+  - landsat, nasa, satellite-imagery, sentinel, usgs
+  License:
+  - N/A
+  Metadata date:
+  - N/A
+  Metadata language:
+  - English
+  Resource type:
+  - N/A
+  Responsible organization metadata:
+  - NASA
+  Spatial coverage:
+  - Global
+  Spatial reference system:
+  - N/A
+  Spatial resolution:
+  - 30m
+  Temporal coverage:
+  - 2015-11-28T00:00:00Z–2025-05-12T23:58:01Z
+  Temporal resolution:
+  - Daily
+  Title:
+  - 'HLSS30: HLS Sentinel-2 Multi-spectral Instrument Surface Reflectance Daily Global 30m'
+  Unique Identifier:
+  - NASA/HLS/HLSS30/v002
+https://lifesciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2bd-kskz:
+  Access rights:
+  - N/A
+  Data contact point:
+  - Data Librarian (Wageningen University & Research), Jacobs, S. (Wageningen University & Research), Roest, E. (Wageningen University & Research)
+  Data creator:
+  - R.J. Bijlsma (Wageningen Environmental Research, Wageningen University & Research) and A.P.P.M. Clerkx (Wageningen Environmental Research, Wageningen University & Research)
+  Data publisher:
+  - Wageningen University & Research
+  Description:
+  - The Dutch forest reserves network encompasses about 60 forest reserves representing all major forest types in the Netherlands. The reserves were designated between 1983 and 2000. The present Access-database presents all measurements (mostly between 1982 and 2005) on trees and regeneration in circular sample plots throughout the reserves and in a one ha rectangular core area in each reserve. The data set also includes map data at the reserve level (such as reserve boundaries, samples plots and core areas) and of GIS files derived from tree measurements in the core area.
+  Distribution access URL:
+  - https://doi.org/10.17026/dans-2bd-kskz
+  Distribution byte size:
+  - N/A
+  Distribution format:
+  - Currently, the files are only accessible in ArcGIS shapefiles. In may 2019 a conversion of MapInfo (mif/mid) will be added to the dataset.
+  Keywords:
+  - forest reserve, monitoring, database, non-intervention dynamics
+  License:
+  - DANS Licence
+  Metadata date:
+  - 2019-04-11
+  Metadata language:
+  - English
+  Resource type:
+  - N/A
+  Responsible organization metadata:
+  - Wageningen University & Research
+  Spatial coverage:
+  - Netherlands
+  Spatial reference system:
+  - N/A
+  Spatial resolution:
+  - N/A
+  Temporal coverage:
+  - 1982-2005
+  Temporal resolution:
+  - N/A
+  Title:
+  - Dutch forest reserves database and network
+  Unique Identifier:
+  - 'doi:10.17026/dans-2bd-kskz, DANS-KNAW: easy-dataset:117939'
+https://lpdaac.usgs.gov/products/mod09a1v061/:
+  Access rights:
+  - N/A
+  Data contact point:
+  - N/A
+  Data creator:
+  - Eric Vermote
+  Data publisher:
+  - LP DAAC
+  Description:
+  - The Moderate Resolution Imaging Spectroradiometer (MODIS) Terra MOD09A1 Version 6.1 product provides an estimate of the surface spectral reflectance of Terra MODIS Bands 1 through 7 corrected for atmospheric conditions such as gasses, aerosols, and Rayleigh scattering. Along with the seven 500 meter (m) reflectance bands are two quality layers and four observation bands. For each pixel, a value is selected from all the acquisitions within the 8-day composite period. The criteria for the pixel choice include cloud and solar zenith. When several acquisitions meet the criteria the pixel with the minimum channel 3 (blue) value is used.
+  Distribution access URL:
+  - https://e4ftl01.cr.usgs.gov/MOLT/MOD09A1.061/, https://search.earthdata.nasa.gov/search?q=C2343111356-LPCLOUD&_gl=1*sr1x61*_ga*MTc5MjA4NzI0OC4xNzQ3ODE0MDg2*_ga_0YWDZEJ295*czE3NDg1OTg5NzAkbzUkZzEkdDE3NDg1OTg5NzAkajYwJGwwJGgw 
+  Distribution byte size:
+  - 59 MB
+  Distribution format:
+  - HDF
+  Keywords:
+  - N/A
+  License:
+  - N/A
+  Metadata date:
+  - N/A
+  Metadata language:
+  - English
+  Resource type:
+  - N/A
+  Responsible organization metadata:
+  - N/A
+  Spatial coverage:
+  - western United States
+  Spatial reference system:
+  - Sinusoidal
+  Spatial resolution:
+  - 500 m
+  Temporal coverage:
+  - October 31 - November 7, 2020
+  Temporal resolution:
+  - 8-Day
+  Title:
+  - MOD09A1 v061 MODIS/Terra Surface Reflectance 8-Day L3 Global 500 m SIN Grid
+  Unique Identifier:
+  - 10.5067/MODIS/MOD09A1.061
+https://stac.ecodatacube.eu/blue_glad.landsat.ard2.seasconv.m.yearly/collection.json:
+  Access rights:
+  - N/A
+  Data contact point:
+  - Leandro Parente, leandro.parente@opengeohub.org
+  Data creator:
+  - N/A
+  Data publisher:
+  - EcoDataCube
+  Description:
+  - Blue band aggregated yearly from 30-m bi-monthly gapfilled GLAD Landsat ARD blue band from 2000 to 2022.
+  Distribution access URL:
+  - https://doi.org/10.5281/zenodo.10851081
+  Distribution byte size:
+  - N/A
+  Distribution format:
+  - N/A
+  Keywords:
+  - landsat, blue, 30m
+  License:
+  - CC-BY-SA-4.0
+  Metadata date:
+  - N/A
+  Metadata language:
+  - English
+  Resource type:
+  - imagery
+  Responsible organization metadata:
+  - N/A
+  Spatial coverage:
+  - N/A
+  Spatial reference system:
+  - N/A
+  Spatial resolution:
+  - 30-m
+  Temporal coverage:
+  - '2000-01-01 00:00:00 UTC - 2022-12-31 00:00:00 UTC'
+  Temporal resolution:
+  - bi-monthly
+  Title:
+  - Cloud-free reconstructed Landsat yearly blue band
+  Unique Identifier:
+  - https://doi.org/10.5281/zenodo.10851081
+https://stac.ecodatacube.eu/green_glad.landsat.ard2.seasconv.m.yearly/collection.json:
+  Access rights:
+  - N/A
+  Data contact point:
+  - Leandro Parente, leandro.parente@opengeohub.org
+  Data creator:
+  - N/A
+  Data publisher:
+  - EcoDataCube
+  Description:
+  - Green band aggregated yearly from 30-m bi-monthly gapfilled GLAD Landsat ARD green band from 2000 to 2022.
+  Distribution access URL:
+  - https://doi.org/10.5281/zenodo.10851081
+  Distribution byte size:
+  - N/A
+  Distribution format:
+  - N/A
+  Keywords:
+  - landsat, green, 30m
+  License:
+  - CC-BY-SA-4.0
+  Metadata date:
+  - N/A
+  Metadata language:
+  - English
+  Resource type:
+  - imagery
+  Responsible organization metadata:
+  - N/A
+  Spatial coverage:
+  - N/A
+  Spatial reference system:
+  - N/A
+  Spatial resolution:
+  - 30-m
+  Temporal coverage:
+  - '2000-01-01 00:00:00 UTC - 2022-12-31 00:00:00 UTC'
+  Temporal resolution:
+  - bi-monthly
+  Title:
+  - Cloud-free reconstructed Landsat yearly green band
+  Unique Identifier:
+  - https://doi.org/10.5281/zenodo.10851081
+https://stac.ecodatacube.eu/ndvi_glad.landsat.ard2.seasconv/collection.json?.language=en:
+  Access rights:
+  - N/A
+  Data contact point:
+  - Xuemeng Tian, xuemeng.tian@opengeohub.org
+  Data creator:
+  - N/A
+  Data publisher:
+  - EcoDataCube
+  Description:
+  - '[NDVI](Tucker, 1979) quantifies vegetation greenness, computed from 30-m bi-monthly aggregated and gapfilled GLAD Landsat ARD from 2000 to 2022.'
+  Distribution access URL:
+  - https://doi.org/10.5281/zenodo.10884235
+  Distribution byte size:
+  - N/A
+  Distribution format:
+  - N/A
+  Keywords:
+  - landsat, ndvi, 30m
+  License:
+  - CC-BY-SA-4.0
+  Metadata date:
+  - N/A
+  Metadata language:
+  - English
+  Resource type:
+  - imagery
+  Responsible organization metadata:
+  - N/A
+  Spatial coverage:
+  - N/A
+  Spatial reference system:
+  - N/A
+  Spatial resolution:
+  - N/A
+  Temporal coverage:
+  - '2000-01-01 00:00:00 UTC - 2022-12-31 00:00:00 UTC'
+  Temporal resolution:
+  - Bi-monthly
+  Title:
+  - Cloud-free reconstructed Landsat bimonthly Normalized Difference Vegetation Index (NDVI)
+  Unique Identifier:
+  - https://doi.org/10.5281/zenodo.10884235
+https://stac.ecodatacube.eu/veg_quercus.robur_anv.eml/collection.json?.language=en:
+  Access rights:
+  - N/A
+  Data contact point:
+  - Carmelo Bonannella, carmelo.bonannella@opengeohub.org
+  Data creator:
+  - N/A
+  Data publisher:
+  - EcoDataCube
+  Description:
+  - 'Actual Natural Vegetation (ANV): probability of occurrence for the Pedunculate oak in its realized environment for the period 2000 - 2033'
+  Distribution access URL:
+  - https://doi.org/10.5281/zenodo.5887415
+  Distribution byte size:
+  - N/A
+  Distribution format:
+  - N/A
+  Keywords:
+  - species distribution model, tree species, landsat
+  License:
+  - CC-BY-SA-4.0
+  Metadata date:
+  - N/A
+  Metadata language:
+  - English
+  Resource type:
+  - N/A
+  Responsible organization metadata:
+  - N/A
+  Spatial coverage:
+  - N/A
+  Spatial reference system:
+  - N/A
+  Spatial resolution:
+  - N/A
+  Temporal coverage:
+  - 2000-01-01 00:00:00 UTC - 2020-12-31 00:00:00 UTC
+  Temporal resolution:
+  - N/A
+  Title:
+  - Actual probability distribution for Quercus robur (2000–2020)
+  Unique Identifier:
+  - https://doi.org/10.5281/zenodo.5887415
+https://www.gbif.org/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e:
+  Access rights:
+  - N/A
+  Data contact point:
+  - Auer T Barker S Barry J Charnoky M Curtis J Davies I Davis C Downie I Fink D Fredericks T Ganger J Gerbracht J Hanks C Hochachka W Iliff M Imani J Jordan A Levatich T Ligocki S Long M T Morris W Morrow S Oldham L Padilla Obregon F Robinson O Rodewald A Ruiz-Gutierrez V Schloss M Smith A Smith J Stillman A Strimas-Mackey M Sullivan B Weber D Wolf H Wood C, ebird@cornell.edu
+  Data creator:
+  - Auer T Barker S Barry J Charnoky M Curtis J Davies I Davis C Downie I Fink D Fredericks T Ganger J Gerbracht J Hanks C Hochachka W Iliff M Imani J Jordan A Levatich T Ligocki S Long M T Morris W Morrow S Oldham L Padilla Obregon F Robinson O Rodewald A Ruiz-Gutierrez V Schloss M Smith A Smith J Stillman A Strimas-Mackey M Sullivan B Weber D Wolf H Wood C
+  Data publisher:
+  - Cornell Lab of Ornithology
+  Description:
+  - 'eBird is a collective enterprise that takes a novel approach to citizen science by developing cooperative partnerships among experts in a wide range of fields: population ecologists, conservation biologists, quantitative ecologists, statisticians, computer scientists, GIS and informatics specialists, application developers, and data administrators. Managed by the Cornell Lab of Ornithology eBird’s goal is to increase data quantity through participant recruitment and engagement globally, but also to quantify and control for data quality issues such as observer variability, imperfect detection of species, and both spatial and temporal bias in data collection. eBird data are openly available and used by a broad spectrum of students, teachers, scientists, NGOs, government agencies, land managers, and policy makers. The result is that eBird has become a major source of biodiversity data, increasing our knowledge of the dynamics of species distributions, and having a direct impact on the conservation of birds and their habitats.''
+  Distribution access URL:
+  - https://hosted-datasets.gbif.org/eBird/2023-eBird-dwca-1.0.zip
+  Distribution byte size:
+  - N/A
+  Distribution format:
+  - Darwin Core Archive
+  Keywords:
+  - N/A
+  License:
+  - CC BY 4.0
+  Metadata date:
+  - September 27, 2024
+  Metadata language:
+  - English
+  Resource type:
+  - Occurrence dataset 
+  Responsible organization metadata:
+  - Cornell Lab of Ornithology
+  Spatial coverage:
+  - Worldwide
+  Spatial reference system:
+  - N/A
+  Spatial resolution:
+  - N/A
+  Temporal coverage:
+  - January 1, 1800 - December 31, 2023
+  Temporal resolution:
+  - N/A
+  Title:
+  - EOD – eBird Observation Dataset
+  Unique Identifier:
+  - DOI10.15468/aomfnb, CLOEODMETADATA.05192014.1
+https://www.gbif.org/dataset/74196cd9-7ebc-4b20-bc27-3c2d22e31ed7:
+  Access rights:
+  - N/A
+  Data contact point:
+  - Julian Evans, jevansbio@gmail.com, Rotem Zilber, r.kadanzilber@uva.nl, W. Daniel Kissling, wdkissling@gmail.com
+  Data creator:
+  - Evans J Zilber R Kissling W D
+  Data publisher:
+  - Netherlands Biodiversity Information Facility (NLBIF)
+  Description:
+  - This camera trap pilot 1 was primarily focused on testing camera deployment, data accumulation and data transmission (4G coverage) in a remote dune location of the Netherlands. Three Snyper Commander cameras were deployed from August 13th 2021 to August 2023 (approx. 747 days). The three cameras were placed within exclosures (locations Zilkerpad, van Limburgstirum Vallei and Wolfsveld in the Amsterdam Water Supply Dunes), at 30 cm above the ground. All images from 14th of August 2021 until 31st of December 2022 were annotated, with a total of 30,464 images over 505 days from the three cameras. A detailed description of the dataset can be found in a data paper published in the journal Data in Brief (Evans et al. 2024, https://doi.org/10.1016/j.dib.2024.110544).
+  Distribution access URL:
+  - https://ipt.nlbif.nl/archive.do?r=awd_pilot1 
+  Distribution byte size:
+  - N/A
+  Distribution format:
+  - Camera Trap Data Package
+  Keywords:
+  - N/A
+  License:
+  - CC BY 4.0
+  Metadata date:
+  - July 5, 2024
+  Metadata language:
+  - English
+  Resource type:
+  - Occurrence dataset 
+  Responsible organization metadata:
+  - Netherlands Biodiversity Information Facility (NLBIF)
+  Spatial coverage:
+  - locations Zilkerpad, van Limburgstirum Vallei and Wolfsveld in the Amsterdam Water Supply Dunes
+  Spatial reference system:
+  - N/A
+  Spatial resolution:
+  - N/A
+  Temporal coverage:
+  - August 13th 2021 to August 2023
+  Temporal resolution:
+  - N/A
+  Title:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 1
+  Unique Identifier:
+  - DOI10.15468/pg338w
+https://www.gbif.org/dataset/bc0acb9a-131f-4085-93ae-a46e08564ac5:
+  Access rights:
+  - N/A
+  Data contact point:
+  - Julian Evans, jevansbio@gmail.com, Rotem Zilber, r.kadanzilber@uva.nl, W. Daniel Kissling, wdkissling@gmail.com
+  Data creator:
+  - Evans J Zilber R Kissling W D
+  Data publisher:
+  - Netherlands Biodiversity Information Facility (NLBIF)
+  Description:
+  - Camera trapping pilot 3 was a test of the effect of lens angle, as well as a test of the influence of camera height and being deployed outside herbivore exclosures (security, herbivore damage, more varied habitat types). At each of three locations (all in the area Westweg of the Amsterdam Water Supply Dunes), both a regular lens Snyper Commander camera (52°) and a wide lens Wilsus Tradenda camera (100°) were deployed (n = 6 cameras). The cameras were placed at different heights at each location (30 cm, 40 cm and 50 cm above the ground). A month of data from this pilot was annotated, from 1st March 2023 to 31st of March 2023. This led to a total of 16,020 annotated images over 31 days from six cameras. A detailed description of the dataset can be found in a data paper published in the journal Data in Brief (Evans et al. 2024, https://doi.org/10.1016/j.dib.2024.110544).
+  Distribution access URL:
+  - https://ipt.nlbif.nl/archive.do?r=awd_pilot3
+  Distribution byte size:
+  - N/A
+  Distribution format:
+  - Camera Trap Data Package
+  Keywords:
+  - N/A
+  License:
+  - CC BY 4.0
+  Metadata date:
+  - July 4, 2024
+  Metadata language:
+  - English
+  Resource type:
+  - Occurrence dataset 
+  Responsible organization metadata:
+  - Netherlands Biodiversity Information Facility (NLBIF)
+  Spatial coverage:
+  - The area Westweg of the Amsterdam Water Supply Dunes
+  Spatial reference system:
+  - N/A
+  Spatial resolution:
+  - N/A
+  Temporal coverage:
+  - 1st March 2023 to 31st of March 2023
+  Temporal resolution:
+  - N/A
+  Title:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 3
+  Unique Identifier:
+  - DOI10.15468/u88x5y
+https://zenodo.org/records/11440456:
+  Access rights:
+  - The data are freely available
+  Data contact point:
+  - Kissling, W. Daniel
+  Data creator:
+  - Evans, Julian C. and Zilber, Rotem and Kissling, W. Daniel
+  Data publisher:
+  - Zenodo
+  Description:
+  - Three camera trap data packages (https://camtrap-dp.tdwg.org/) of data collected as part of pilot studies carried out in the  Amsterdamse Waterleidingduinen. The pilots were aimed at determining how different types of camera deployment (e.g. regular vs. wide lens, various heights, inside/outside exclosures) might influence species detections, and how to deploy autonomous wildlife monitoring networks. Two pilots were conducted in herbivore exclosures and mainly detected European rabbits (Oryctolagus cuniculus) and red fox (Vulpes vulpes). The third pilot was conducted outside exclosures, with the European fallow deer (Dama dama) being most prevalent. Across all three pilots, a total of 47,597 images were annotated using the Agouti platform. All annotations were verified and quality-checked by a human expert. A total of 2,779 observations of 20 different species (including humans) were observed using 11 wildlife cameras during 2021–2023. The raw image files (excluding humans), image metadata, deployment metadata and observations from each pilot are shared using the Camtrap DP open standard and the extended data publishing capabilities of GBIF to increase the findability, accessibility, interoperability, and reusability of this data. The data are freely available and can be used for developing artificial intelligence (AI) algorithms that automatically detect and identify species from wildlife camera images.
+  Distribution access URL:
+  - https://doi.org/10.5281/zenodo.11440456
+  Distribution byte size:
+  - 21.6 GB
+  Distribution format:
+  - Camtrap DP format
+  Keywords:
+  - ecology, camera trapping, dunes
+  License:
+  - Creative Commons Attribution 4.0 International
+  Metadata date:
+  - June 11, 2024
+  Metadata language:
+  - English
+  Resource type:
+  - Dataset
+  Responsible organization metadata:
+  - N/A
+  Spatial coverage:
+  - Amsterdamse Waterleidingduinen
+  Spatial reference system:
+  - N/A
+  Spatial resolution:
+  - N/A
+  Temporal coverage:
+  - 2021–2023
+  Temporal resolution:
+  - N/A
+  Title:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse Waterleidingduinen
+  Unique Identifier:
+  - https://doi.org/10.5281/zenodo.11440456
+https://zenodo.org/records/8319440:
+  Access rights:
+  - N/A
+  Data contact point:
+  - N/A
+  Data creator:
+  - Parinaz Rashidi, Sopan D. Patil, Aafke M. Schipper, Rob Alkemade, Isabel Rosa
+  Data publisher:
+  - Zenodo
+  Description:
+  - 'This dataset comprises high-resolution land use data downscaled from LUH2 scenarios for Belgium at both 10 m and 100 m resolutions. These datasets were generated based on research conducted by Rashidi et al. in 2023 and published in the Land Journal. We employed the GLOBIO land allocation routine to downscale fractional land use data, originally at a 0.25° resolution (approximately 25 km), into discrete land use maps at 10 m and 100 m resolutions. This process utilized three distinct reference land cover maps: ESA WorldCover at 10 m resolution, ESA WorldCover upscaled to 100 m resolution, and CORINE land cover at 100 m resolution. During the downsizing process, we considered three SSP-RCP scenarios to model land use trends for both the present and the year 2050 on a national scale in Belgium. Key components of the model included regional land use demand, an assessment of grid cells suitability for various land use types, and a reference land cover map. It is important to note that the classification system used in the reference maps differs from that of LUH2. To ensure comparability for land use simulations, we conducted a reclassification process following the methodologies outlined by Pérez-Hoyos et al. (2012), Dong et al. (2018), and Liao et al. (2020). This reclassification consolidated land use classes, except for water, into seven general categories: 1) urban, 2) cropland, 3) pasture, 4) forestry, 5) secondary vegetation, 6) undefined, and 7) natural. The raw data consists of three folders corresponding to the three reference maps, each containing four TIFF files (.tif), one for each scenario type.'
+  Distribution access URL:
+  - https://doi.org/10.5281/zenodo.8319440
+  Distribution byte size:
+  - 196.3 MB
+  Distribution format:
+  - .tif
+  Keywords:
+  - spatial downscaling; GLOBIO land use allocation model; land use projection; Socio-economic Pathway (SSP); Representative Concentration Pathways (RCP); scenarios
+  License:
+  - Creative Commons Attribution 4.0 International
+  Metadata date:
+  - September 6, 2023
+  Metadata language:
+  - English
+  Resource type:
+  - Dataset
+  Responsible organization metadata:
+  - N/A
+  Spatial coverage:
+  - Belgium
+  Spatial reference system:
+  - N/A
+  Spatial resolution:
+  - 10 m and 100 m
+  Temporal coverage:
+  - N/A
+  Temporal resolution:
+  - N/A
+  Title:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium (10 m and 100 m)
+  Unique Identifier:
+  - https://doi.org/10.5281/zenodo.8319440
