@@ -2,6 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 from xml.etree import ElementTree as ET
 
+import asyncio
+from playwright.async_api import async_playwright
+
+
 def readWebContent(url: str) -> BeautifulSoup:
     """
     Reads the content of a webpage and returns a BeautifulSoup object.
@@ -32,3 +36,19 @@ def downloadAndParseXML(url):
     root = ET.fromstring(xml_str)
     
     return xml_str, root
+
+async def extract_full_page_text(url: str) -> str:
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        page = await browser.new_page()
+
+        
+        await page.goto(url, wait_until='networkidle')
+
+        await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+        await page.wait_for_timeout(2000)
+
+        full_text = await page.inner_text("body")
+        await browser.close()
+
+        return full_text
