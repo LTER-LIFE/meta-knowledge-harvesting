@@ -1,0 +1,813 @@
+https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSS30_v002:
+  Access rights:
+  - Free to use for research, education, and nonprofit use; The dataset is free to
+    use for research, education, and nonprofit use.
+  Data creator:
+  - NASA; NASA is the creator of the dataset.
+  Data publisher:
+  - NASA LP DAAC; NASA LP DAAC is the publisher of the dataset.
+  Description:
+  - The Harmonized Landsat Sentinel-2 (HLS) project provides consistent surface reflectance
+    data from the Operational Land Imager (OLI) aboard the joint NASA/USGS Landsat
+    8 satellite and the Multi-Spectral Instrument (MSI) aboard Europe's Copernicus
+    Sentinel-2A satellites.; This is a description of the dataset.
+  Keywords:
+  - landsat nasa satellite-imagery sentinel usgs; These are the keywords associated
+    with the dataset.
+  Landing page:
+  - https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSS30; This
+    is the landing page for the dataset.
+  Metadata language:
+  - English; The metadata language is English.
+  Resource type:
+  - Dataset; The resource type is a dataset.
+  Responsible organization metadata:
+  - NASA; NASA is the organization responsible for the metadata.
+  Spatial coverage:
+  - Global; The dataset has global spatial coverage.
+  Spatial resolution:
+  - 30-meter (m) spatial resolution; The dataset has a spatial resolution of 30 meters.
+  Temporal coverage:
+  - 2015-11-28T00:00:00Z–2025-05-06T23:38:31Z; The dataset covers the period from
+    2015-11-28T00:00:00Z to 2025-05-06T23:38:31Z.
+  Title:
+  - 'HLSS30: HLS Sentinel-2 Multi-spectral Instrument Surface Reflectance Daily Global
+    30m; This is the title of the dataset provided by NASA LP DAAC.'
+  Unique Identifier:
+  - NASA/HLS/HLSS30/v002; This is the unique identifier for the dataset.
+https://lpdaac.usgs.gov/products/mod09a1v061/:
+  Access rights:
+  - Not specified; The access rights for the data set
+  Data contact point:
+  - LP DAAC; The point of contact for the data set
+  Data creator:
+  - Eric Vermote; The creator of the data set
+  Data publisher:
+  - LP DAAC; The publisher of the data set
+  Description:
+  - MOD09A1; The Moderate Resolution Imaging Spectroradiometer (MODIS) Terra MOD09A1
+    Version 6.1 product provides an estimate of the surface spectral reflectance of
+    Terra MODIS Bands 1 through 7 corrected for atmospheric conditions such as gasses,
+    aerosols, and Rayleigh scattering.
+  Distribution access URL:
+  - https://lpdaac.usgs.gov/products/mod09a1v006/; The URL where the data set can
+    be accessed
+  Distribution byte size:
+  - 59 MB; The size of the data set
+  Distribution format:
+  - HDF; The format in which the data set is distributed
+  Keywords:
+  - MODIS, Terra, Surface Reflectance; The keywords associated with the data set
+  Landing page:
+  - https://lpdaac.usgs.gov/products/mod09a1v006/; The webpage where the data set
+    can be accessed
+  License:
+  - Not specified; The license under which the data set is distributed
+  Resource type:
+  - MOD09A1; A data set providing an estimate of the surface spectral reflectance
+    of Terra MODIS Bands 1 through 7
+  Responsible organization metadata:
+  - LP DAAC; The organization responsible for the metadata
+  Spatial coverage:
+  - Global; The spatial coverage of the data set
+  Spatial reference system:
+  - Sinusoidal; The spatial reference system used in the data set
+  Spatial resolution:
+  - 500 m; The spatial resolution of the data set
+  Temporal coverage:
+  - 2000-02-18 to Present; The temporal coverage of the data set
+  Temporal resolution:
+  - 8-Day; The temporal resolution of the data set
+  Title:
+  - MOD09A1; MODIS/Terra Surface Reflectance 8-Day L3 Global 500 m SIN Grid
+  Unique Identifier:
+  - 10.5067/MODIS/MOD09A1.061; The unique identifier for the data set
+https://stac.ecodatacube.eu/veg_quercus.robur_anv.eml/collection.json?.language=en:
+  Data contact point:
+  - EcoDataCube; The data contact point is Carmelo Bonannella, who can be reached
+    at carmelo.bonannella@opengeohub.org.
+  Data creator:
+  - EcoDataCube; The data creator is opengeohub.
+  Description:
+  - EcoDataCube; The data represents the actual natural vegetation probability of
+    occurrence for the Pedunculate oak in its realized environment for the period
+    2000 - 2033.
+  Distribution format:
+  - EcoDataCube; The distribution format of the data is COG.
+  Keywords:
+  - EcoDataCube; The keywords associated with the data are 'species distribution model',
+    'tree species', and 'landsat'.
+  License:
+  - EcoDataCube; The license for the data is CC-BY-SA-4.0.
+  Metadata language:
+  - EcoDataCube; The metadata language for EcoDataCube is English.
+  Temporal coverage:
+  - EcoDataCube; The temporal coverage of the data is from 2000-01-01 00:00:00 UTC
+    to 2020-12-31 00:00:00 UTC.
+  Title:
+  - EcoDataCube; The title of the data is 'Actual probability distribution for Quercus
+    robur (2000–2020)'.
+  Unique Identifier:
+  - EcoDataCube; The unique identifier for the data is https://doi.org/10.5281/zenodo.5887415.
+https://stac.ecodatacube.eu/ndvi_glad.landsat.ard2.seasconv/collection.json?.language=en:
+  Access rights:
+  - COG; The access rights of the entity are not specified in the text.
+  Data contact point:
+  - COG; The data contact point for the entity is not specified in the text.
+  Data creator:
+  - COG; The data creator of the entity is not specified in the text.
+  Data publisher:
+  - COG; The data publisher of the entity is not specified in the text.
+  Description:
+  - COG; The description of the entity is not specified in the text.
+  Distribution access URL:
+  - COG; The distribution access URL of the entity is not specified in the text.
+  Distribution byte size:
+  - COG; The distribution byte size of the entity is not specified in the text.
+  Distribution format:
+  - COG; The distribution format of the entity is not specified in the text.
+  Keywords:
+  - COG; The keywords related to the entity are not specified in the text.
+  Landing page:
+  - COG; The landing page for the entity is not specified in the text.
+  License:
+  - COG; The license of the entity is not specified in the text.
+  Metadata date:
+  - COG; The metadata date for the entity is 2022-07-01 00:00:00 UTC to 2022-08-31
+    00:00:00 UTC.
+  Metadata language:
+  - COG; The metadata language for the entity is not specified in the text.
+  Resource type:
+  - COG; The resource type of the entity is not specified in the text.
+  Responsible organization metadata:
+  - COG; The responsible organization for the metadata is not specified in the text.
+  Spatial coverage:
+  - COG; The spatial coverage of the entity is not specified in the text.
+  Spatial reference system:
+  - COG; The spatial reference system of the entity is not specified in the text.
+  Spatial resolution:
+  - COG; The spatial resolution of the entity is not specified in the text.
+  Temporal coverage:
+  - COG; The temporal coverage for the entity is 2022-09-01 00:00:00 UTC to 2022-10-31
+    00:00:00 UTC.
+  Temporal resolution:
+  - COG; The temporal resolution of the entity is not specified in the text.
+  Title:
+  - COG; The title of the entity is not specified in the text.
+  Unique Identifier:
+  - COG; The unique identifier for the entity is not specified in the text.
+https://zenodo.org/records/8319440:
+  Access rights:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The access rights are not explicitly mentioned in the text
+  Data contact point:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The data contact point is not explicitly mentioned in the text
+  Data creator:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The creators of the data are Parinaz Rashidi, Sopan D. Patil,
+    Aafke M. Schipper, Rob Alkemade, Isabel Rosa
+  Data publisher:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The data publisher is Zenodo
+  Description:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The dataset comprises high-resolution land use data downscaled
+    from LUH2 scenarios for Belgium at both 10 m and 100 m resolutions
+  Distribution access URL:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The distribution access URL is https://doi.org/10.5281/zenodo.8319440
+  Distribution byte size:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The distribution byte size of the data is 196.3 MB
+  Distribution format:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The distribution format of the data is .zip and .tif
+  Keywords:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The keywords associated with the dataset are spatial downscaling,
+    GLOBIO land use allocation model, land use projection, Socio-economic Pathway
+    (SSP), Representative Concentration Pathways (RCP), scenarios
+  Landing page:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The landing page is not explicitly mentioned in the text
+  License:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The license for the data is Creative Commons Attribution 4.0
+    International
+  Metadata date:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); Published on September 5, 2023
+  Metadata language:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The language of the metadata is English
+  Resource type:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The resource type is a Dataset
+  Responsible organization metadata:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The responsible organization for the metadata is Zenodo
+  Spatial coverage:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The spatial coverage of the data is Belgium
+  Spatial reference system:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The spatial reference system is not explicitly mentioned in
+    the text
+  Spatial resolution:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The spatial resolution of the data is 10 m and 100 m
+  Temporal coverage:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The temporal coverage of the data includes the present and the
+    year 2050
+  Temporal resolution:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The temporal resolution is not explicitly mentioned in the text
+  Title:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The title of the dataset is 'High spatial resolution dataset
+    of downscaled LUH2 land use scenarios for Belgium (10 m and 100 m)
+  Unique Identifier:
+  - 'High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The unique identifier for the dataset is DOI: 10.5281/zenodo.8319440'
+https://lifesciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2bd-kskz:
+  Access rights:
+  - Dutch forest reserves database and network; The access rights are not explicitly
+    mentioned in the text.
+  Data contact point:
+  - DANS Data Station Life Sciences; The data contact point is DANS Data Station Life
+    Sciences.
+  Data creator:
+  - R.J. Bijlsma; A.P.P.M. Clerkx; The data creators are R.J. Bijlsma and A.P.P.M.
+    Clerkx.
+  Data publisher:
+  - DANS Data Station Life Sciences; The data publisher is DANS Data Station Life
+    Sciences.
+  Description:
+  - Dutch forest reserves database and network; The Dutch forest reserves network
+    encompasses about 60 forest reserves representing all major forest types in the
+    Netherlands. The reserves were designated between 1983 and 2000.
+  Distribution access URL:
+  - https://doi.org/10.17026/dans-2bd-kskz; The distribution access URL for the dataset
+    is https://doi.org/10.17026/dans-2bd-kskz.
+  Distribution byte size:
+  - Dutch forest reserves database and network; The distribution byte size is not
+    explicitly mentioned in the text.
+  Distribution format:
+  - Dutch forest reserves database and network; The distribution format is not explicitly
+    mentioned in the text, but it is mentioned that the files are accessible in ArcGIS
+    shapefiles.
+  Keywords:
+  - Dutch forest reserves database and network; The keywords associated with the dataset
+    are 'forest reserve', 'monitoring', 'database', 'non-intervention dynamics'.
+  Landing page:
+  - https://doi.org/10.17026/dans-2bd-kskz; The landing page for the dataset is https://doi.org/10.17026/dans-2bd-kskz.
+  License:
+  - DANS Licence; The license for the dataset is the DANS Licence.
+  Metadata date:
+  - Dutch forest reserves database and network; The metadata date is not explicitly
+    mentioned in the text.
+  Metadata language:
+  - Dutch forest reserves database and network; The metadata language is English.
+  Resource type:
+  - Dutch forest reserves database and network; The resource type is a database and
+    network of Dutch forest reserves.
+  Responsible organization metadata:
+  - DANS Data Station Life Sciences; DANS Data Station Life Sciences is the organization
+    responsible for the metadata.
+  Spatial coverage:
+  - Netherlands; The spatial coverage of the dataset is the Netherlands.
+  Spatial reference system:
+  - Dutch forest reserves database and network; The spatial reference system is not
+    explicitly mentioned in the text.
+  Spatial resolution:
+  - Dutch forest reserves database and network; The spatial resolution is not explicitly
+    mentioned in the text.
+  Temporal coverage:
+  - 1983 and 2000; The temporal coverage of the dataset is between 1983 and 2000.
+  Temporal resolution:
+  - Dutch forest reserves database and network; The temporal resolution is not explicitly
+    mentioned in the text.
+  Title:
+  - Dutch forest reserves database and network; The title of the dataset is 'Dutch
+    forest reserves database and network'.
+  Unique Identifier:
+  - https://doi.org/10.17026/dans-2bd-kskz; The unique identifier for the dataset
+    is https://doi.org/10.17026/dans-2bd-kskz.
+https://www.gbif.org/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e:
+  Access rights:
+  - EOD – eBird Observation Dataset; The access rights for this entity are not specified
+    in the source text.
+  Data contact point:
+  - Jasdev Imani; The administrative point of contact at the Cornell Lab of Ornithology.
+  Data creator:
+  - Christopher Wood; The Director of eBird and Engineering at the Cornell Lab of
+    Ornithology.
+  Data publisher:
+  - EOD – eBird Observation Dataset; The data publisher for this entity is the Cornell
+    Lab of Ornithology.
+  Description:
+  - EOD – eBird Observation Dataset; EOD – eBird Observation Dataset is a collective
+    enterprise that takes a novel approach to citizen science by developing cooperative
+    partnerships among experts in a wide range of fields. It is managed by the Cornell
+    Lab of Ornithology with the goal to increase data quantity through participant
+    recruitment and engagement globally.
+  Distribution access URL:
+  - https://hosted-datasets.gbif.org/eBird/2023-eBird-dwca-1.0.zip; The URL for accessing
+    the distributed data.
+  Distribution byte size:
+  - EOD – eBird Observation Dataset; The distribution byte size for this entity is
+    not specified in the source text.
+  Distribution format:
+  - EOD – eBird Observation Dataset; The distribution format for this entity is not
+    specified in the source text.
+  Keywords:
+  - EOD – eBird Observation Dataset; The keywords for this entity include 'eBird',
+    'Observation Dataset', 'Cornell Lab of Ornithology', 'citizen science', 'data
+    quantity', 'participant recruitment', 'engagement globally'.
+  Landing page:
+  - EOD – eBird Observation Dataset; The landing page for this entity is the home
+    page of the EOD – eBird Observation Dataset.
+  License:
+  - EOD – eBird Observation Dataset; The license for this entity is CC BY 4.0.
+  Metadata date:
+  - EOD – eBird Observation Dataset; The metadata for this entity was last modified
+    on September 27, 2024.
+  Metadata language:
+  - English; The language used for the metadata of the data.
+  Resource type:
+  - EOD – eBird Observation Dataset; The resource type for this entity is a dataset.
+  Responsible organization metadata:
+  - Cornell Lab of Ornithology; The organization responsible for the data.
+  Spatial coverage:
+  - Sapsucker Woods Road; A location in Ithaca, NY, United States of America where
+    the Cornell Lab of Ornithology is located.
+  Spatial reference system:
+  - EOD – eBird Observation Dataset; The spatial reference system for this entity
+    is not specified in the source text.
+  Spatial resolution:
+  - EOD – eBird Observation Dataset; The spatial resolution for this entity is not
+    specified in the source text.
+  Temporal coverage:
+  - EOD – eBird Observation Dataset; The temporal coverage for this entity is from
+    January 1, 1800 to December 31, 2023.
+  Temporal resolution:
+  - EOD – eBird Observation Dataset; The temporal resolution for this entity is not
+    specified in the source text.
+  Title:
+  - EOD – eBird Observation Dataset; The title of this entity is 'EOD – eBird Observation
+    Dataset'.
+  Unique Identifier:
+  - DOI10.15468/aomfnb; The unique identifier for the data.
+https://www.gbif.org/dataset/74196cd9-7ebc-4b20-bc27-3c2d22e31ed7:
+  Access rights:
+  - Public; The access rights to the data are public
+  Data contact point:
+  - Julian Evans, Rotem Zilber, W. Daniel Kissling; The contact points for the data
+    are Julian Evans, Rotem Zilber, and W. Daniel Kissling from the University of
+    Amsterdam
+  Data creator:
+  - Julian Evans, Rotem Zilber, W. Daniel Kissling; The creators of the data are Julian
+    Evans, Rotem Zilber, and W. Daniel Kissling from the University of Amsterdam
+  Data publisher:
+  - University of Amsterdam / IBED; The publisher of the data is University of Amsterdam
+    / IBED
+  Description:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+    - pilot 1; This dataset is primarily focused on testing camera deployment, data
+    accumulation and data transmission in a remote dune location of the Netherlands
+  Distribution access URL:
+  - https://ipt.nlbif.nl/archive.do?r=awd_pilot1; The distribution access URL for
+    the data is https://ipt.nlbif.nl/archive.do?r=awd_pilot1
+  Distribution byte size:
+  - 30,464 images; The distribution byte size of the data is 30,464 images
+  Distribution format:
+  - Camera Trap Data Package; The distribution format of the data is a Camera Trap
+    Data Package
+  Keywords:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+    - pilot 1; Keywords associated with the dataset include 'camera trap', 'pilot
+    study', 'Amsterdamse Waterleidingduinen
+  Landing page:
+  - https://ipt.nlbif.nl/archive.do?r=awd_pilot1; The landing page for the dataset
+    is https://ipt.nlbif.nl/archive.do?r=awd_pilot1
+  License:
+  - CC BY 4.0; The license for the data is CC BY 4.0
+  Metadata date:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+    - pilot 1; Metadata last modified on July 5, 2024
+  Metadata language:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+    - pilot 1; The metadata language is English
+  Resource type:
+  - Camera Trap Data Package; The resource type is a Camera Trap Data Package
+  Responsible organization metadata:
+  - University of Amsterdam / IBED; The organization responsible for the metadata
+    is University of Amsterdam / IBED
+  Spatial coverage:
+  - Amsterdamse Waterleidingduinen; The spatial coverage of the data is the Amsterdamse
+    Waterleidingduinen in the Netherlands
+  Spatial reference system:
+  - Amsterdam Water Supply Dunes; The spatial reference system is the Amsterdam Water
+    Supply Dunes
+  Spatial resolution:
+  - 30 cm above the ground; The spatial resolution of the data is 30 cm above the
+    ground
+  Temporal coverage:
+  - August 13th 2021 to August 2023; The temporal coverage of the data is from August
+    13th 2021 to August 2023
+  Temporal resolution:
+  - 747 days; The temporal resolution of the data is 747 days
+  Title:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+    - pilot 1; The title of the dataset is 'Camera trap data recorded during pilot
+    studies in the Amsterdamse Waterleidingduinen - pilot 1
+  Unique Identifier:
+  - DOI10.15468/pg338w; The unique identifier for the dataset is DOI10.15468/pg338w
+https://www.gbif.org/dataset/bc0acb9a-131f-4085-93ae-a46e08564ac5:
+  Access rights:
+  - Not specified; The access rights for the data are not specified in the text.
+  Data contact point:
+  - Julian Evans, Rotem Zilber, W. Daniel Kissling; The contact points for the data
+    are Julian Evans, Rotem Zilber, and W. Daniel Kissling.
+  Data creator:
+  - Julian Evans, Rotem Zilber, W. Daniel Kissling; The creators of the data are Julian
+    Evans, Rotem Zilber, and W. Daniel Kissling.
+  Data publisher:
+  - University of Amsterdam / IBED; The publisher of the data is the University of
+    Amsterdam / IBED.
+  Description:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+    - pilot 3; The dataset is a test of the effect of lens angle, camera height and
+    being deployed outside herbivore exclosures.
+  Distribution access URL:
+  - https://ipt.nlbif.nl/archive.do?r=awd_pilot3; The distribution access URL for
+    the data is https://ipt.nlbif.nl/archive.do?r=awd_pilot3.
+  Distribution byte size:
+  - Not specified; The distribution byte size of the data is not specified in the
+    text.
+  Distribution format:
+  - Not specified; The distribution format of the data is not specified in the text.
+  Keywords:
+  - Camera trap, lens angle, camera height, herbivore exclosures; The keywords associated
+    with the dataset are 'Camera trap, lens angle, camera height, herbivore exclosures'.
+  Landing page:
+  - https://ipt.nlbif.nl/archive.do?r=awd_pilot3; The landing page for the dataset
+    is https://ipt.nlbif.nl/archive.do?r=awd_pilot3.
+  License:
+  - CC BY 4.0; The license for the data is CC BY 4.0.
+  Metadata date:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+    - pilot 3; The metadata was last modified on July 4, 2024.
+  Metadata language:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+    - pilot 3; The metadata language is English.
+  Resource type:
+  - Camera Trap Data Package; The resource type is a 'Camera Trap Data Package'.
+  Responsible organization metadata:
+  - University of Amsterdam / IBED; The University of Amsterdam / IBED is responsible
+    for the metadata.
+  Spatial coverage:
+  - Amsterdam Water Supply Dunes; The spatial coverage of the data is the Amsterdam
+    Water Supply Dunes.
+  Spatial reference system:
+  - Not specified; The spatial reference system of the data is not specified in the
+    text.
+  Spatial resolution:
+  - Not specified; The spatial resolution of the data is not specified in the text.
+  Temporal coverage:
+  - 1st March 2023 to 31st of March 2023; The temporal coverage of the data is from
+    1st March 2023 to 31st of March 2023.
+  Temporal resolution:
+  - Not specified; The temporal resolution of the data is not specified in the text.
+  Title:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+    - pilot 3; The title of the dataset is 'Camera trap data recorded during pilot
+    studies in the Amsterdamse Waterleidingduinen - pilot 3'.
+  Unique Identifier:
+  - DOI10.15468/u88x5y; The unique identifier for the dataset is DOI10.15468/u88x5y.
+https://zenodo.org/records/11440456:
+  Access rights:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The data are freely available and can be used for developing
+    artificial intelligence (AI) algorithms that automatically detect and identify
+    species from wildlife camera images.
+  Data contact point:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The data contact person is Kissling, W. Daniel
+  Data creator:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The data creators are Evans, Julian C., Zilber, Rotem, and
+    Kissling, W. Daniel
+  Data publisher:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The data publisher is Zenodo
+  Description:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The dataset contains camera trap data from three pilot studies
+    conducted in the Amsterdamse Waterleidingduinen, with a total of 47,597 images
+    annotated using the Agouti platform.
+  Distribution access URL:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The distribution access URL is https://doi.org/10.5281/zenodo.11440456
+  Distribution byte size:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The distribution byte size is 21.6 GB
+  Distribution format:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The distribution format is .zip files
+  Keywords:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The keywords are ecology, camera trapping, dunes
+  Landing page:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The landing page is https://doi.org/10.5281/zenodo.11440456
+  License:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The license is Creative Commons Attribution 4.0 International
+  Metadata date:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; Published on June 3, 2024
+  Metadata language:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The metadata language is English
+  Resource type:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The resource type is Dataset
+  Responsible organization metadata:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The responsible organization is Zenodo
+  Spatial coverage:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The spatial coverage is the Amsterdamse Waterleidingduinen
+  Spatial reference system:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The spatial reference system is not specified in the text
+  Spatial resolution:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The spatial resolution is not specified in the text
+  Temporal coverage:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The temporal coverage is from 2021 to 2023
+  Temporal resolution:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The temporal resolution is not specified in the text
+  Title:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The title of the dataset is 'Repository of camera trap data
+    recorded during three pilot studies of the Amsterdamse Waterleidingduinen
+  Unique Identifier:
+  - 'Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; The unique identifier is DOI: 10.5281/zenodo.11440456'
+https://stac.ecodatacube.eu/blue_glad.landsat.ard2.seasconv.m.yearly/collection.json:
+  Access rights:
+  - EcoDataCube; The access rights are not explicitly mentioned in the text.
+  Data contact point:
+  - EcoDataCube; The data contact point is Leandro Parente with the email leandro.parente@opengeohub.org.
+  Data creator:
+  - EcoDataCube; The data creator is not explicitly mentioned in the text.
+  Data publisher:
+  - EcoDataCube; The data publisher is 'opengeohub'.
+  Description:
+  - EcoDataCube; The description is 'Blue band aggregated yearly from 30-m bi-monthly
+    gapfilled GLAD Landsat ARD blue band from 2000 to 2022'.
+  Distribution access URL:
+  - EcoDataCube; The distribution access URL is not explicitly mentioned in the text.
+  Distribution byte size:
+  - EcoDataCube; The distribution byte size is not explicitly mentioned in the text.
+  Distribution format:
+  - EcoDataCube; The distribution format is COG.
+  Keywords:
+  - EcoDataCube; The keywords are 'landsat', 'blue', and '30-m'.
+  Landing page:
+  - EcoDataCube; The landing page is not explicitly mentioned in the text.
+  License:
+  - EcoDataCube; The license is CC-BY-SA-4.0.
+  Metadata date:
+  - EcoDataCube; The metadata date is not explicitly mentioned in the text.
+  Metadata language:
+  - EcoDataCube; The metadata language is English.
+  Resource type:
+  - EcoDataCube; The resource type is 'imagery'.
+  Responsible organization metadata:
+  - EcoDataCube; The responsible organization for the metadata is not explicitly mentioned
+    in the text.
+  Spatial coverage:
+  - EcoDataCube; The spatial coverage is not explicitly mentioned in the text.
+  Spatial reference system:
+  - EcoDataCube; The spatial reference system is not explicitly mentioned in the text.
+  Spatial resolution:
+  - EcoDataCube; The spatial resolution is 30-m.
+  Temporal coverage:
+  - EcoDataCube; The temporal coverage is from 2000-01-01 00:00:00 UTC to 2022-12-31
+    00:00:00 UTC.
+  Temporal resolution:
+  - EcoDataCube; The temporal resolution is not explicitly mentioned in the text.
+  Title:
+  - EcoDataCube; The title is 'Cloud-free reconstructed Landsat yearly blue band'.
+  Unique Identifier:
+  - EcoDataCube; The unique identifier is not explicitly mentioned in the text.
+https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/L-mHomzGRuKAHGMkUPjY9g:
+  Access rights:
+  - Not mentioned; The access rights are not explicitly mentioned in the text.
+  Data contact point:
+  - Rijkswaterstaat; The data contact point is Rijkswaterstaat, reachable at servicedesk-data@rws.nl.
+  Data creator:
+  - Rijkswaterstaat; The data creator is Rijkswaterstaat.
+  Data publisher:
+  - Rijkswaterstaat; The data publisher is Rijkswaterstaat.
+  Description:
+  - Ecotopenkaart Waddenzee 2017; Ecotopenkaart Waddenzee 2017 is a map that represents
+    ecological, landscape units based on criteria such as height, flow speed, wave
+    height, dry fall duration, geomorphology, salinity, and sediment composition.
+  Distribution access URL:
+  - https://viewer.openearth.nl/wadden-viewer/download/geoserver?layers=100230540;
+    The distribution access URL is 'https://viewer.openearth.nl/wadden-viewer/download/geoserver?layers=100230540'.
+  Distribution byte size:
+  - Not mentioned; The distribution byte size is not explicitly mentioned in the text.
+  Distribution format:
+  - WMS, WFS; The distribution formats available are WMS and WFS.
+  Keywords:
+  - Abiotisch, Morfologie; The keywords associated with the data are 'Abiotisch' and
+    'Morfologie'.
+  Landing page:
+  - Wadden viewer; The landing page for the data can be accessed via the Wadden viewer.
+  License:
+  - Geen beperkingen; The license for the data is 'Geen beperkingen', which means
+    'No restrictions' in Dutch.
+  Metadata date:
+  - Waddenregister; The metadata date is not explicitly mentioned in the text.
+  Metadata language:
+  - Waddenregister; The metadata language is Dutch (Nederlands).
+  Resource type:
+  - Ecotopenkaart; The resource type is a 'Ecotopenkaart', an ecological map.
+  Responsible organization metadata:
+  - Rijkswaterstaat; Rijkswaterstaat is the responsible organization for the metadata.
+  Spatial coverage:
+  - Waddenzee; The spatial coverage of the data is the Waddenzee area.
+  Spatial reference system:
+  - EPSG:28992; The spatial reference system used is EPSG:28992.
+  Spatial resolution:
+  - Not mentioned; The spatial resolution is not explicitly mentioned in the text.
+  Temporal coverage:
+  - 2017-01-31; The temporal coverage of the data is from the year 2017.
+  Temporal resolution:
+  - Not mentioned; The temporal resolution is not explicitly mentioned in the text.
+  Title:
+  - Ecotopenkaart Waddenzee (2017); The title of the data is 'Ecotopenkaart Waddenzee
+    (2017)'.
+  Unique Identifier:
+  - L-mHomzGRuKAHGMkUPjY9g; The unique identifier for the data is 'L-mHomzGRuKAHGMkUPjY9g'.
+https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/0fe7e64b-50b3-4cee-b64a-02659fc2b6c7:
+  Access rights:
+  - Waddenbalans 2024; The access rights are not specified.
+  Data contact point:
+  - Waddenbalans 2024; The data contact point is info@hetpon-telos.nl.
+  Data creator:
+  - Waddenbalans 2024; The data creator is Het Pon & Telos.
+  Data publisher:
+  - Waddenbalans 2024; The data publisher is Het Pon & Telos.
+  Description:
+  - Waddenbalans 2024; Waddenbalans 2024 is a socio-economic monitor presenting a
+    current picture of broad prosperity and economic activities in the Wadden area.
+  Distribution access URL:
+  - Waddenbalans 2024; The distribution access URL is https://datahuiswadden.waddenzee.nl/publish/pages/16842/data_waddenbalans_2024.zip.
+  Distribution byte size:
+  - Waddenbalans 2024; The distribution byte size is not specified.
+  Distribution format:
+  - Waddenbalans 2024; The distribution format is not specified.
+  Keywords:
+  - Waddenbalans 2024; The keywords are Waddenbalans, Waddenprovincies, Brede welvaart,
+    Economie.
+  Landing page:
+  - Waddenbalans 2024; The landing page is https://www.investeringskaderwaddengebied.nl/2025/04/11/brede-welvaart-waddengebied-in-beeld-verschillen-tussen-eilanden-haven-en-kustgemeenten/.
+  License:
+  - Waddenbalans 2024; The license is not specified.
+  Metadata date:
+  - Waddenbalans 2024; The metadata date is 2025-04-11.
+  Metadata language:
+  - Waddenbalans 2024; The metadata language is Dutch (Nederlands).
+  Resource type:
+  - Waddenbalans 2024; The resource type is a socio-economic monitor.
+  Responsible organization metadata:
+  - Waddenbalans 2024; The responsible organization for the metadata is Het Pon &
+    Telos.
+  Spatial coverage:
+  - Waddenbalans 2024; The spatial coverage is the Wadden area.
+  Spatial reference system:
+  - Waddenbalans 2024; The spatial reference system is not specified.
+  Spatial resolution:
+  - Waddenbalans 2024; The spatial resolution is not specified.
+  Temporal coverage:
+  - Waddenbalans 2024; The temporal coverage is not specified.
+  Temporal resolution:
+  - Waddenbalans 2024; The temporal resolution is not specified.
+  Title:
+  - Waddenbalans 2024; The title of the entity is 'Waddenbalans 2024'.
+  Unique Identifier:
+  - Waddenbalans 2024; The unique identifier is 0fe7e64b-50b3-4cee-b64a-02659fc2b6c7.
+https://stac.ecodatacube.eu/green_glad.landsat.ard2.seasconv.m.yearly/collection.json:
+  Access rights:
+  - EcoDataCube; The access rights are not explicitly mentioned in the text.
+  Data contact point:
+  - EcoDataCube; The data contact point is Leandro Parente with the email leandro.parente@opengeohub.org.
+  Data creator:
+  - EcoDataCube; The data creator is not explicitly mentioned in the text.
+  Data publisher:
+  - EcoDataCube; The data publisher is 'opengeohub'.
+  Description:
+  - EcoDataCube; The description is 'Green band aggregated yearly from 30-m bi-monthly
+    gapfilled GLAD Landsat ARD green band from 2000 to 2022'.
+  Distribution access URL:
+  - EcoDataCube; The distribution access URL is not explicitly mentioned in the text.
+  Distribution byte size:
+  - EcoDataCube; The distribution byte size is not explicitly mentioned in the text.
+  Distribution format:
+  - EcoDataCube; The distribution format is COG.
+  Keywords:
+  - EcoDataCube; The keywords are 'landsat', 'green', and '30-m'.
+  Landing page:
+  - EcoDataCube; The landing page is not explicitly mentioned in the text.
+  License:
+  - EcoDataCube; The license is CC-BY-SA-4.0.
+  Metadata date:
+  - EcoDataCube; The metadata date is not explicitly mentioned in the text.
+  Metadata language:
+  - EcoDataCube; The metadata language is English.
+  Resource type:
+  - EcoDataCube; The resource type is 'imagery'.
+  Responsible organization metadata:
+  - EcoDataCube; The responsible organization for the metadata is not explicitly mentioned
+    in the text.
+  Spatial coverage:
+  - EcoDataCube; The spatial coverage is not explicitly mentioned in the text.
+  Spatial reference system:
+  - EcoDataCube; The spatial reference system is not explicitly mentioned in the text.
+  Spatial resolution:
+  - EcoDataCube; The spatial resolution is 30-m.
+  Temporal coverage:
+  - EcoDataCube; The temporal coverage is from 2000-01-01 00:00:00 UTC to 2022-12-31
+    00:00:00 UTC.
+  Temporal resolution:
+  - EcoDataCube; The temporal resolution is not explicitly mentioned in the text.
+  Title:
+  - EcoDataCube; The title is 'Cloud-free reconstructed Landsat yearly green band'.
+  Unique Identifier:
+  - EcoDataCube; The unique identifier is not explicitly mentioned in the text.
+https://datahuiswadden.openearth.nl/geonetwork/srv/api/records/A0h06_NlSEuNlium5OO3FA:
+  Access rights:
+  - Geen gebruiks limitaties; The access rights for the entity are 'Geen gebruiks
+    limitaties'.
+  Data contact point:
+  - Wageningen Marine Research; The data contact point for the entity is Wageningen
+    Marine Research.
+  Data creator:
+  - Wageningen Marine Research; The data creator for the entity is Wageningen Marine
+    Research.
+  Data publisher:
+  - Wageningen Marine Research; The data publisher for the entity is Wageningen Marine
+    Research.
+  Description:
+  - 'WMR - TMAP: Ecotopenkaart; WMR - TMAP: Ecotopenkaart is a dataset providing insight
+    into changes in ecosystems and landscapes.'
+  Distribution access URL:
+  - Wadden viewer; The distribution access URL for the entity is the Wadden viewer.
+  Distribution byte size:
+  - Not specified; The distribution byte size of the entity is not specified.
+  Distribution format:
+  - gml+xml ( 3.2.1 ); The distribution format for the entity is 'gml+xml ( 3.2.1
+    )'.
+  Keywords:
+  - TMAP, Trilaterale Waddenzee, UNESCO Werelderfgoed, Natuurwaarde, Ecotopen; The
+    keywords associated with the entity are 'TMAP, Trilaterale Waddenzee, UNESCO Werelderfgoed,
+    Natuurwaarde, Ecotopen'.
+  Landing page:
+  - Wadden viewer; The landing page for the data can be accessed through the Wadden
+    viewer.
+  License:
+  - Copyright; The license for the entity is Copyright.
+  Metadata date:
+  - Waddenregister; The metadata date for Waddenregister is 2016-11-01.
+  Metadata language:
+  - Waddenregister; The metadata language for Waddenregister is Nederlands; Vlaams.
+  Resource type:
+  - Dataset; The resource type of the entity is a 'Dataset'.
+  Responsible organization metadata:
+  - Wageningen Marine Research; Wageningen Marine Research is the responsible organization
+    for the metadata.
+  Spatial coverage:
+  - Waddenzee; The spatial coverage of the entity is the Waddenzee area.
+  Spatial reference system:
+  - Not specified; The spatial reference system of the entity is not specified.
+  Spatial resolution:
+  - None; The spatial resolution of the entity is not specified.
+  Temporal coverage:
+  - 2016-11-01 to 2024-09-03; The temporal coverage of the entity is from 2016-11-01
+    to 2024-09-03.
+  Temporal resolution:
+  - Not specified; The temporal resolution of the entity is not specified.
+  Title:
+  - 'WMR - TMAP: Ecotopenkaart; The title of the entity is ''WMR - TMAP: Ecotopenkaart''.'
+  Unique Identifier:
+  - A0h06_NlSEuNlium5OO3FA; The unique identifier for the entity is 'A0h06_NlSEuNlium5OO3FA'.
