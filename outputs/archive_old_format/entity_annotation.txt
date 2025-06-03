@@ -355,7 +355,7 @@ Data contact point:
   - F
 Spatial coverage:
   - (Amsterdam Water Supply Dunes, The spatial coverage of the data is the Amsterdam Water Supply Dunes)
-  - ?
+  - T
 Temporal coverage:
   - (1st March 2023 to 31st of March 2023, The temporal coverage of the data is from 1st March 2023 to 31st of March 2023)
   - T
