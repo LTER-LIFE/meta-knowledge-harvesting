@@ -1,0 +1,1246 @@
+https://datahuiswadden.openearth.nl/geonetwork/srv/api/records/A0h06_NlSEuNlium5OO3FA:
+  Access rights:
+    findability: 1
+    text: Copyright, no user limitations
+  Data contact point:
+    findability: 1
+    text: Wageningen Marine Research
+  Data creator:
+    findability: 1
+    text: Wageningen Marine Research
+  Data publisher:
+    findability: 1
+    text: Datahuis Wadden
+  Date last modified:
+    findability: 2
+    text: 2016-11-01
+  Date published:
+    findability: 1
+    text: 2016-11-01
+  Description:
+    findability: 1
+    text: For the proper management of areas such as the Wadden Sea, a consistent
+      and unambiguous insight into the changes in the various landscape units is of
+      great importance. One of the ways to make changes in ecosystems and landscapes
+      visible is with ecotope maps. Ecotopes are “spatially delimited ecological units,
+      the composition and development of which are determined by abiotic, biotic and
+      anthropogenic conditions on site. An ecotope is a recognizable, more or less
+      homogeneous landscape unit.” (Bouma et al., 2005). Ecotope maps are derived
+      from a number of underlying maps of mainly physical factors, which together
+      determine the characteristics of an ecotope. In the Netherlands, the RijksWateren-EcotopenStelsel
+      (RWES) developed by Rijkswaterstaat is used, which has been elaborated for salt
+      waters in the Zoute wateren EcotopenStelsel.
+  Distribution access URL:
+    findability: 2
+    text: https://viewer.openearth.nl/wadden-viewer/download/geoserver?layers=93966870
+  Distribution byte size:
+    findability: 0
+    text: N/A
+  Distribution format:
+    findability: 1
+    text: gml+xml ( 3.2.1 )
+  Keywords:
+    findability: 2
+    text: Biotic, water bottom, TMAP, Trilateral Wadden sea, UNESCO world heritage, Nature value, Ecotopes
+  License:
+    findability: 0
+    text: N/A
+  Metadata date:
+    findability: 2
+    text: 2024-09-03
+  Metadata language:
+    findability: 1
+    text: Dutch, Flemish
+  Resource type:
+    findability: 2
+    text: Dataset
+  Responsible organization metadata:
+    findability: 1
+    text: Wageningen Marine Research
+  Same as:
+    findability: 2
+    text: https://viewer.openearth.nl/wadden-viewer/?layers=93966870&layerNames=WMR+-+TMAP%3A+Ecotopenkaart&folders=143810679%2C93790346
+  Spatial coverage:
+    findability: 2
+    text: Wadden Sea
+  Spatial reference system:
+    findability: 0
+    text: N/A
+  Spatial resolution:
+    findability: 0
+    text: N/A
+  Temporal coverage:
+    findability: 2
+    text: 2016
+  Temporal resolution:
+    findability: 0
+    text: N/A
+  Title:
+    findability: 1
+    text: 'WMR - TMAP: Ecotopenkaart'
+  Unique Identifier:
+    findability: 1
+    text: A0h06_NlSEuNlium5OO3FA
+https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/0fe7e64b-50b3-4cee-b64a-02659fc2b6c7:
+  Access rights:
+    findability: 2
+    text: No user limitations
+  Data contact point:
+    findability: 1
+    text: Het PON & Telos, info@hetpon-telos.nl
+  Data creator:
+    findability: 2
+    text: Het Pon & Telos
+  Data publisher:
+    findability: 1
+    text: Datahuis Wadden
+  Date last modified:
+    findability: 1
+    text: a month ago
+  Date published:
+    findability: 1
+    text: 2025-04-11
+  Description:
+    findability: 1
+    text: The three Wadden provinces – North Holland, Friesland and Groningen – jointly
+      present the Wadden Balance 2024. This periodic socio-economic monitor provides
+      an up-to-date picture of the broad prosperity and economic activities in the
+      Wadden area. The results show that the broad prosperity in the region differs
+      between the Wadden Islands, port municipalities and coastal municipalities.
+      The Wadden Balance focuses on 14 municipalities in the Wadden area with a total
+      of more than 460,000 inhabitants. The monitor was drawn up by Het PON & Telos,
+      commissioned by the Wadden provinces and in consultation with the Wadden municipalities
+      and the Ministry of LVVN. The monitor uses reliable, regularly available data.
+      Themes such as health, income, well-being, mobility and social cohesion are
+      made clear and compared with national trends for the Wadden area.
+  Distribution access URL:
+    findability: 2
+    text: https://www.investeringskaderwaddengebied.nl/wp-content/uploads/2025/04/Waddenbalans-2024.def_.pdf
+  Distribution byte size:
+    findability: 0
+    text: N/A
+  Distribution format:
+    findability: 0
+    text: N/A
+  Keywords:
+    findability: 2
+    text: Human co-use, Wadden balance, Wadden provinces, Broad prosperity, Economy
+  License:
+    findability: 0
+    text: N/A
+  Metadata date:
+    findability: 2
+    text: 2025-04-11
+  Metadata language:
+    findability: 1
+    text: Dutch
+  Resource type:
+    findability: 0
+    text: N/A
+  Responsible organization metadata:
+    findability: 1
+    text: Het Pon & Telos
+  Same as:
+    findability: 0
+    text: N/A
+  Spatial coverage:
+    findability: 2
+    text: Wadden area
+  Spatial reference system:
+    findability: 0
+    text: N/A
+  Spatial resolution:
+    findability: 0
+    text: N/A
+  Temporal coverage:
+    findability: 2
+    text: 2024
+  Temporal resolution:
+    findability: 0
+    text: N/A
+  Title:
+    findability: 1
+    text: Waddenbalans 2024
+  Unique Identifier:
+    findability: 1
+    text: 0fe7e64b-50b3-4cee-b64a-02659fc2b6c7
+https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/L-mHomzGRuKAHGMkUPjY9g:
+  Access rights:
+    findability: 2
+    text: No limitations
+  Data contact point:
+    findability: 1
+    text: Rijkswaterstaat, servicedesk-data@rws.nl
+  Data creator:
+    findability: 2
+    text: Rijkswaterstaat
+  Data publisher:
+    findability: 2
+    text: Datahuis Wadden
+  Date last modified:
+    findability: 1
+    text: 2 months ago
+  Date published:
+    findability: 1
+    text: 2017-01-31
+  Description:
+    findability: 1
+    text: An ecotope is an ecomorphological, landscape mappable unit. The ecotope
+      system is classified based on the criteria height, current velocity, wave height,
+      drying period, geomorphology, salinity and sediment composition. With the ecotope
+      classification, gradual transitions in these variables are converted into discrete,
+      mappable units. Changes in ecologically relevant changes in current velocity
+      etc. are thus clearly quantifiable and can be used for explorations, planning
+      studies and evaluations of construction and management.
+  Distribution access URL:
+    findability: 2
+    text: https://viewer.openearth.nl/wadden-viewer/download/geoserver?layers=100230540
+  Distribution byte size:
+    findability: 0
+    text: N/A
+  Distribution format:
+    findability: 2
+    text: vector
+  Keywords:
+    findability: 2
+    text: Ecotope map, salt ecotope map, MWTL, intertidal zone, ecotopes, abiotic,
+      morphology
+  License:
+    findability: 0
+    text: N/A
+  Metadata date:
+    findability: 2
+    text: 2017-01-31
+  Metadata language:
+    findability: 1
+    text: Dutch
+  Resource type:
+    findability: 0
+    text: N/A
+  Responsible organization metadata:
+    findability: 1
+    text: Rijkswaterstaat, servicedesk-data@rws.nl
+  Same as:
+    findability: 2
+    text: https://viewer.openearth.nl/wadden-viewer/?folders=93790295%2C93793330%2C107902964&layers=100230540&layerNames=Ecotopenkaart+Waddenzee+%282017%29
+  Spatial coverage:
+    findability: 2
+    text: Wadden sea
+  Spatial reference system:
+    findability: 1
+    text: EPSG:28992
+  Spatial resolution:
+    findability: 0
+    text: N/A
+  Temporal coverage:
+    findability: 2
+    text: 2017
+  Temporal resolution:
+    findability: 0
+    text: N/A
+  Title:
+    findability: 1
+    text: Ecotopenkaart Waddenzee (2017)
+  Unique Identifier:
+    findability: 1
+    text: L-mHomzGRuKAHGMkUPjY9g
+https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSS30_v002:
+  Access rights:
+    findability: 1
+    text: NASA promotes the full and open sharing of all data with research and applications
+      communities, private industry, academia, and the general public.
+  Data contact point:
+    findability: 0
+    text: N/A
+  Data creator:
+    findability: 2
+    text: NASA LP DAAC
+  Data publisher:
+    findability: 1
+    text: NASA LP DAAC and Google Earth Engine
+  Date last modified:
+    findability: 0
+    text: N/A
+  Date published:
+    findability: 0
+    text: N/A
+  Description:
+    findability: 1
+    text: 'The Harmonized Landsat Sentinel-2 (HLS) project provides consistent surface
+      reflectance data from the Operational Land Imager (OLI) aboard the joint NASA/USGS
+      Landsat 8 satellite and the Multi-Spectral Instrument (MSI) aboard Europes Copernicus
+      Sentinel-2A satellites. The combined measurement enables global observations
+      of the land every 2-3 days at 30-meter (m) spatial resolution. The HLS project
+      uses a set of algorithms to obtain seamless products from OLI and MSI that include
+      atmospheric correction, cloud and cloud-shadow masking, spatial co-registration
+      and common gridding, illumination and view angle normalization, and spectral
+      bandpass adjustment. The HLS project distributes data as two separate products:
+      HLSL30 (Landsat 8/9) and HLSS30 (Sentinel-2 A/B). They both provide 30m Nadir
+      Bidirectional Reflectance Distribution Function (BRDF), Adjusted Reflectance
+      (NBAR).'
+  Distribution access URL:
+    findability: 2
+    text: https://doi.org/10.5067/HLS/HLSS30.002
+  Distribution byte size:
+    findability: 0
+    text: N/A
+  Distribution format:
+    findability: 0
+    text: N/A
+  Keywords:
+    findability: 1
+    text: landsat, nasa, satellite-imagery, sentinel, usgs
+  License:
+    findability: 0
+    text: N/A
+  Metadata date:
+    findability: 0
+    text: N/A
+  Metadata language:
+    findability: 2
+    text: English
+  Resource type:
+    findability: 0
+    text: N/A
+  Responsible organization metadata:
+    findability: 2
+    text: NASA
+  Same as:
+    findability: 0
+    text: N/A
+  Spatial coverage:
+    findability: 2
+    text: Global
+  Spatial reference system:
+    findability: 0
+    text: N/A
+  Spatial resolution:
+    findability: 2
+    text: 30m
+  Temporal coverage:
+    findability: 1
+    text: 2015-11-28T00:00:00Z–2025-05-12T23:58:01Z
+  Temporal resolution:
+    findability: 2
+    text: Daily
+  Title:
+    findability: 1
+    text: 'HLSS30: HLS Sentinel-2 Multi-spectral Instrument Surface Reflectance Daily
+      Global 30m'
+  Unique Identifier:
+    findability: 2
+    text: NASA/HLS/HLSS30/v002
+https://lifesciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2bd-kskz:
+  Access rights:
+    findability: 0
+    text: N/A
+  Data contact point:
+    findability: 1
+    text: Data Librarian (Wageningen University & Research), Jacobs, S. (Wageningen
+      University & Research), Roest, E. (Wageningen University & Research)
+  Data creator:
+    findability: 1
+    text: R.J. Bijlsma (Wageningen Environmental Research, Wageningen University &
+      Research) and A.P.P.M. Clerkx (Wageningen Environmental Research, Wageningen
+      University & Research)
+  Data publisher:
+    findability: 1
+    text: Wageningen University & Research
+  Date last modified:
+    findability: 2
+    text: 2019-03-19
+  Date published:
+    findability: 1
+    text: 2019-04-11
+  Description:
+    findability: 1
+    text: The Dutch forest reserves network encompasses about 60 forest reserves representing
+      all major forest types in the Netherlands. The reserves were designated between
+      1983 and 2000. The present Access-database presents all measurements (mostly
+      between 1982 and 2005) on trees and regeneration in circular sample plots throughout
+      the reserves and in a one ha rectangular core area in each reserve. The data
+      set also includes map data at the reserve level (such as reserve boundaries,
+      samples plots and core areas) and of GIS files derived from tree measurements
+      in the core area.
+  Distribution access URL:
+    findability: 2
+    text: https://doi.org/10.17026/dans-2bd-kskz
+  Distribution byte size:
+    findability: 0
+    text: N/A
+  Distribution format:
+    findability: 2
+    text: Currently, the files are only accessible in ArcGIS shapefiles. In may 2019
+      a conversion of MapInfo (mif/mid) will be added to the dataset.
+  Keywords:
+    findability: 1
+    text: forest reserve, monitoring, database, non-intervention dynamics
+  License:
+    findability: 1
+    text: DANS Licence
+  Metadata date:
+    findability: 2
+    text: 2019-04-11
+  Metadata language:
+    findability: 1
+    text: English
+  Resource type:
+    findability: 0
+    text: N/A
+  Responsible organization metadata:
+    findability: 2
+    text: Wageningen University & Research
+  Same as:
+    findability: 0
+    text: N/A
+  Spatial coverage:
+    findability: 1
+    text: Netherlands
+  Spatial reference system:
+    findability: 0
+    text: N/A
+  Spatial resolution:
+    findability: 0
+    text: N/A
+  Temporal coverage:
+    findability: 1
+    text: 1982-2005
+  Temporal resolution:
+    findability: 0
+    text: N/A
+  Title:
+    findability: 1
+    text: Dutch forest reserves database and network
+  Unique Identifier:
+    findability: 1
+    text: 'doi:10.17026/dans-2bd-kskz, DANS-KNAW: easy-dataset:117939'
+https://lpdaac.usgs.gov/products/mod09a1v061/:
+  Access rights:
+    findability: 0
+    text: N/A
+  Data contact point:
+    findability: 0
+    text: N/A
+  Data creator:
+    findability: 2
+    text: Eric Vermote
+  Data publisher:
+    findability: 2
+    text: LP DAAC
+  Date last modified:
+    findability: 0
+    text: N/A
+  Date published:
+    findability: 0
+    text: N/A
+  Description:
+    findability: 1
+    text: The Moderate Resolution Imaging Spectroradiometer (MODIS) Terra MOD09A1
+      Version 6.1 product provides an estimate of the surface spectral reflectance
+      of Terra MODIS Bands 1 through 7 corrected for atmospheric conditions such as
+      gasses, aerosols, and Rayleigh scattering. Along with the seven 500 meter (m)
+      reflectance bands are two quality layers and four observation bands. For each
+      pixel, a value is selected from all the acquisitions within the 8-day composite
+      period. The criteria for the pixel choice include cloud and solar zenith. When
+      several acquisitions meet the criteria the pixel with the minimum channel 3
+      (blue) value is used.
+  Distribution access URL:
+    findability: 2
+    text: https://e4ftl01.cr.usgs.gov/MOLT/MOD09A1.061/, https://search.earthdata.nasa.gov/search?q=C2343111356-LPCLOUD&_gl=1*sr1x61*_ga*MTc5MjA4NzI0OC4xNzQ3ODE0MDg2*_ga_0YWDZEJ295*czE3NDg1OTg5NzAkbzUkZzEkdDE3NDg1OTg5NzAkajYwJGwwJGgw
+  Distribution byte size:
+    findability: 1
+    text: 59 MB
+  Distribution format:
+    findability: 1
+    text: HDF
+  Keywords:
+    findability: 0
+    text: N/A
+  License:
+    findability: 0
+    text: N/A
+  Metadata date:
+    findability: 0
+    text: N/A
+  Metadata language:
+    findability: 2
+    text: English
+  Resource type:
+    findability: 0
+    text: N/A
+  Responsible organization metadata:
+    findability: 0
+    text: N/A
+  Same as:
+    findability: 0
+    text: N/A
+  Spatial coverage:
+    findability: 2
+    text: western United States
+  Spatial reference system:
+    findability: 1
+    text: Sinusoidal
+  Spatial resolution:
+    findability: 2
+    text: 500 m
+  Temporal coverage:
+    findability: 2
+    text: October 31 - November 7, 2020
+  Temporal resolution:
+    findability: 2
+    text: 8-Day
+  Title:
+    findability: 1
+    text: MOD09A1 v061 MODIS/Terra Surface Reflectance 8-Day L3 Global 500 m SIN Grid
+  Unique Identifier:
+    findability: 1
+    text: 10.5067/MODIS/MOD09A1.061
+https://stac.ecodatacube.eu/blue_glad.landsat.ard2.seasconv.m.yearly/collection.json:
+  Access rights:
+    findability: 0
+    text: N/A
+  Data contact point:
+    findability: 1
+    text: Leandro Parente, leandro.parente@opengeohub.org
+  Data creator:
+    findability: 2
+    text: Leandro Parente
+  Data publisher:
+    findability: 2
+    text: opengeohub
+  Date last modified:
+    findability: 0
+    text: N/A
+  Date published:
+    findability: 0
+    text: N/A
+  Description:
+    findability: 1
+    text: Blue band aggregated yearly from 30-m bi-monthly gapfilled GLAD Landsat
+      ARD blue band from 2000 to 2022.
+  Distribution access URL:
+    findability: 2
+    text: https://doi.org/10.5281/zenodo.10851081
+  Distribution byte size:
+    findability: 0
+    text: N/A
+  Distribution format:
+    findability: 0
+    text: N/A
+  Keywords:
+    findability: 1
+    text: landsat, blue, 30m
+  License:
+    findability: 1
+    text: CC-BY-SA-4.0
+  Metadata date:
+    findability: 0
+    text: N/A
+  Metadata language:
+    findability: 2
+    text: English
+  Resource type:
+    findability: 1
+    text: imagery
+  Responsible organization metadata:
+    findability: 0
+    text: N/A
+  Same as:
+    findability: 2
+    text: https://doi.org/10.5281/zenodo.10851081
+  Spatial coverage:
+    findability: 2
+    text: Europe
+  Spatial reference system:
+    findability: 0
+    text: N/A
+  Spatial resolution:
+    findability: 2
+    text: 30-m
+  Temporal coverage:
+    findability: 2
+    text: 2000-01-01 00:00:00 UTC - 2022-12-31 00:00:00 UTC
+  Temporal resolution:
+    findability: 2
+    text: bi-monthly
+  Title:
+    findability: 1
+    text: Cloud-free reconstructed Landsat yearly blue band
+  Unique Identifier:
+    findability: 1
+    text: https://doi.org/10.5281/zenodo.10851081
+https://stac.ecodatacube.eu/green_glad.landsat.ard2.seasconv.m.yearly/collection.json:
+  Access rights:
+    findability: 0
+    text: N/A
+  Data contact point:
+    findability: 1
+    text: Leandro Parente, leandro.parente@opengeohub.org
+  Data creator:
+    findability: 2
+    text: Leandro Parente
+  Data publisher:
+    findability: 2
+    text: opengeohub
+  Date last modified:
+    findability: 0
+    text: N/A
+  Date published:
+    findability: 0
+    text: N/A
+  Description:
+    findability: 1
+    text: Green band aggregated yearly from 30-m bi-monthly gapfilled GLAD Landsat
+      ARD green band from 2000 to 2022.
+  Distribution access URL:
+    findability: 2
+    text: https://doi.org/10.5281/zenodo.10851081
+  Distribution byte size:
+    findability: 0
+    text: N/A
+  Distribution format:
+    findability: 0
+    text: N/A
+  Keywords:
+    findability: 1
+    text: landsat, green, 30m
+  License:
+    findability: 1
+    text: CC-BY-SA-4.0
+  Metadata date:
+    findability: 0
+    text: N/A
+  Metadata language:
+    findability: 2
+    text: English
+  Resource type:
+    findability: 1
+    text: imagery
+  Responsible organization metadata:
+    findability: 0
+    text: N/A
+  Same as:
+    findability: 2
+    text: https://doi.org/10.5281/zenodo.10851081
+  Spatial coverage:
+    findability: 2
+    text: Europe
+  Spatial reference system:
+    findability: 0
+    text: N/A
+  Spatial resolution:
+    findability: 2
+    text: 30-m
+  Temporal coverage:
+    findability: 1
+    text: 2000-01-01 00:00:00 UTC - 2022-12-31 00:00:00 UTC
+  Temporal resolution:
+    findability: 2
+    text: bi-monthly
+  Title:
+    findability: 1
+    text: Cloud-free reconstructed Landsat yearly green band
+  Unique Identifier:
+    findability: 1
+    text: https://doi.org/10.5281/zenodo.10851081
+https://stac.ecodatacube.eu/ndvi_glad.landsat.ard2.seasconv/collection.json?.language=en:
+  Access rights:
+    findability: 0
+    text: N/A
+  Data contact point:
+    findability: 1
+    text: Xuemeng Tian, xuemeng.tian@opengeohub.org
+  Data creator:
+    findability: 2
+    text: Xuemeng Tian
+  Data publisher:
+    findability: 2
+    text: opengeohub
+  Date last modified:
+    findability: 0
+    text: N/A
+  Date published:
+    findability: 0
+    text: N/A
+  Description:
+    findability: 1
+    text: '[NDVI](Tucker, 1979) quantifies vegetation greenness, computed from 30-m
+      bi-monthly aggregated and gapfilled GLAD Landsat ARD from 2000 to 2022.'
+  Distribution access URL:
+    findability: 2
+    text: https://doi.org/10.5281/zenodo.10884235
+  Distribution byte size:
+    findability: 0
+    text: N/A
+  Distribution format:
+    findability: 0
+    text: N/A
+  Keywords:
+    findability: 1
+    text: landsat, ndvi, 30m
+  License:
+    findability: 1
+    text: CC-BY-SA-4.0
+  Metadata date:
+    findability: 0
+    text: N/A
+  Metadata language:
+    findability: 2
+    text: English
+  Resource type:
+    findability: 1
+    text: imagery
+  Responsible organization metadata:
+    findability: 0
+    text: N/A
+  Same as:
+    findability: 2
+    text: https://doi.org/10.5281/zenodo.10884235
+  Spatial coverage:
+    findability: 2
+    text: Europe
+  Spatial reference system:
+    findability: 0
+    text: N/A
+  Spatial resolution:
+    findability: 0
+    text: N/A
+  Temporal coverage:
+    findability: 1
+    text: 2000-01-01 00:00:00 UTC - 2022-12-31 00:00:00 UTC
+  Temporal resolution:
+    findability: 2
+    text: Bi-monthly
+  Title:
+    findability: 1
+    text: Cloud-free reconstructed Landsat bimonthly Normalized Difference Vegetation
+      Index (NDVI)
+  Unique Identifier:
+    findability: 1
+    text: https://doi.org/10.5281/zenodo.10884235
+https://stac.ecodatacube.eu/veg_quercus.robur_anv.eml/collection.json?.language=en:
+  Access rights:
+    findability: 0
+    text: N/A
+  Data contact point:
+    findability: 1
+    text: Carmelo Bonannella, carmelo.bonannella@opengeohub.org
+  Data creator:
+    findability: 2
+    text: Carmelo Bonannella
+  Data publisher:
+    findability: 2
+    text: opengeohub
+  Date last modified:
+    findability: 0
+    text: N/A
+  Date published:
+    findability: 0
+    text: N/A
+  Description:
+    findability: 1
+    text: 'Actual Natural Vegetation (ANV): probability of occurrence for the Pedunculate
+      oak in its realized environment for the period 2000 - 2033'
+  Distribution access URL:
+    findability: 2
+    text: https://doi.org/10.5281/zenodo.5887415
+  Distribution byte size:
+    findability: 0
+    text: N/A
+  Distribution format:
+    findability: 0
+    text: N/A
+  Keywords:
+    findability: 1
+    text: species distribution model, tree species, landsat
+  License:
+    findability: 1
+    text: CC-BY-SA-4.0
+  Metadata date:
+    findability: 0
+    text: N/A
+  Metadata language:
+    findability: 2
+    text: English
+  Resource type:
+    findability: 2
+    text: veg
+  Responsible organization metadata:
+    findability: 0
+    text: N/A
+  Same as:
+    findability: 2
+    text: https://doi.org/10.5281/zenodo.5887415
+  Spatial coverage:
+    findability: 2
+    text: Europe
+  Spatial reference system:
+    findability: 0
+    text: N/A
+  Spatial resolution:
+    findability: 0
+    text: N/A
+  Temporal coverage:
+    findability: 1
+    text: 2000-01-01 00:00:00 UTC - 2020-12-31 00:00:00 UTC
+  Temporal resolution:
+    findability: 0
+    text: N/A
+  Title:
+    findability: 1
+    text: Actual probability distribution for Quercus robur (2000–2020)
+  Unique Identifier:
+    findability: 1
+    text: https://doi.org/10.5281/zenodo.5887415
+https://www.gbif.org/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e:
+  Access rights:
+    findability: 0
+    text: N/A
+  Data contact point:
+    findability: 1
+    text: Auer T Barker S Barry J Charnoky M Curtis J Davies I Davis C Downie I Fink
+      D Fredericks T Ganger J Gerbracht J Hanks C Hochachka W Iliff M Imani J Jordan
+      A Levatich T Ligocki S Long M T Morris W Morrow S Oldham L Padilla Obregon F
+      Robinson O Rodewald A Ruiz-Gutierrez V Schloss M Smith A Smith J Stillman A
+      Strimas-Mackey M Sullivan B Weber D Wolf H Wood C, ebird@cornell.edu
+  Data creator:
+    findability: 1
+    text: Auer T Barker S Barry J Charnoky M Curtis J Davies I Davis C Downie I Fink
+      D Fredericks T Ganger J Gerbracht J Hanks C Hochachka W Iliff M Imani J Jordan
+      A Levatich T Ligocki S Long M T Morris W Morrow S Oldham L Padilla Obregon F
+      Robinson O Rodewald A Ruiz-Gutierrez V Schloss M Smith A Smith J Stillman A
+      Strimas-Mackey M Sullivan B Weber D Wolf H Wood C
+  Data publisher:
+    findability: 1
+    text: Cornell Lab of Ornithology
+  Date last modified:
+    findability: 2
+    text: September 27, 2024
+  Date published:
+    findability: 1
+    text: March 22, 2024
+  Description:
+    findability: 1
+    text: 'eBird is a collective enterprise that takes a novel approach to citizen
+      science by developing cooperative partnerships among experts in a wide range
+      of fields: population ecologists, conservation biologists, quantitative ecologists,
+      statisticians, computer scientists, GIS and informatics specialists, application
+      developers, and data administrators. Managed by the Cornell Lab of Ornithology
+      eBird’s goal is to increase data quantity through participant recruitment and
+      engagement globally, but also to quantify and control for data quality issues
+      such as observer variability, imperfect detection of species, and both spatial
+      and temporal bias in data collection. eBird data are openly available and used
+      by a broad spectrum of students, teachers, scientists, NGOs, government agencies,
+      land managers, and policy makers. The result is that eBird has become a major
+      source of biodiversity data, increasing our knowledge of the dynamics of species
+      distributions, and having a direct impact on the conservation of birds and their
+      habitats.'
+  Distribution access URL:
+    findability: 1
+    text: https://hosted-datasets.gbif.org/eBird/2023-eBird-dwca-1.0.zip
+  Distribution byte size:
+    findability: 0
+    text: N/A
+  Distribution format:
+    findability: 2
+    text: Darwin Core Archive
+  Keywords:
+    findability: 0
+    text: N/A
+  License:
+    findability: 1
+    text: CC BY 4.0
+  Metadata date:
+    findability: 1
+    text: September 27, 2024
+  Metadata language:
+    findability: 1
+    text: English
+  Resource type:
+    findability: 2
+    text: Occurrence dataset
+  Responsible organization metadata:
+    findability: 1
+    text: Cornell Lab of Ornithology
+  Same as:
+    findability: 2
+    text: https://ebird.org/science/download-ebird-data-products
+  Spatial coverage:
+    findability: 1
+    text: Worldwide
+  Spatial reference system:
+    findability: 0
+    text: N/A
+  Spatial resolution:
+    findability: 0
+    text: N/A
+  Temporal coverage:
+    findability: 1
+    text: January 1, 1800 - December 31, 2023
+  Temporal resolution:
+    findability: 0
+    text: N/A
+  Title:
+    findability: 1
+    text: EOD – eBird Observation Dataset
+  Unique Identifier:
+    findability: 1
+    text: DOI10.15468/aomfnb, CLOEODMETADATA.05192014.1
+https://www.gbif.org/dataset/74196cd9-7ebc-4b20-bc27-3c2d22e31ed7:
+  Access rights:
+    findability: 0
+    text: N/A
+  Data contact point:
+    findability: 1
+    text: Julian Evans, jevansbio@gmail.com, Rotem Zilber, r.kadanzilber@uva.nl, W.
+      Daniel Kissling, wdkissling@gmail.com
+  Data creator:
+    findability: 1
+    text: Evans J Zilber R Kissling W D
+  Data publisher:
+    findability: 1
+    text: University of Amsterdam / IBED
+  Date last modified:
+    findability: 1
+    text: July 5, 2024
+  Date published:
+    findability: 2
+    text: July 4, 2024
+  Description:
+    findability: 1
+    text: This camera trap pilot 1 was primarily focused on testing camera deployment,
+      data accumulation and data transmission (4G coverage) in a remote dune location
+      of the Netherlands. Three Snyper Commander cameras were deployed from August
+      13th 2021 to August 2023 (approx. 747 days). The three cameras were placed within
+      exclosures (locations Zilkerpad, van Limburgstirum Vallei and Wolfsveld in the
+      Amsterdam Water Supply Dunes), at 30 cm above the ground. All images from 14th
+      of August 2021 until 31st of December 2022 were annotated, with a total of 30,464
+      images over 505 days from the three cameras. A detailed description of the dataset
+      can be found in a data paper published in the journal Data in Brief (Evans et
+      al. 2024, https://doi.org/10.1016/j.dib.2024.110544).
+  Distribution access URL:
+    findability: 1
+    text: https://ipt.nlbif.nl/archive.do?r=awd_pilot1
+  Distribution byte size:
+    findability: 0
+    text: N/A
+  Distribution format:
+    findability: 2
+    text: Camera Trap Data Package
+  Keywords:
+    findability: 0
+    text: N/A
+  License:
+    findability: 1
+    text: CC BY 4.0
+  Metadata date:
+    findability: 1
+    text: July 5, 2024
+  Metadata language:
+    findability: 1
+    text: English
+  Resource type:
+    findability: 2
+    text: Occurrence dataset
+  Responsible organization metadata:
+    findability: 2
+    text: Netherlands Biodiversity Information Facility (NLBIF)
+  Same as:
+    findability: 0
+    text: N/A
+  Spatial coverage:
+    findability: 2
+    text: locations Zilkerpad, van Limburgstirum Vallei and Wolfsveld in the Amsterdam
+      Water Supply Dunes
+  Spatial reference system:
+    findability: 0
+    text: N/A
+  Spatial resolution:
+    findability: 0
+    text: N/A
+  Temporal coverage:
+    findability: 2
+    text: August 13th 2021 to August 2023
+  Temporal resolution:
+    findability: 0
+    text: N/A
+  Title:
+    findability: 1
+    text: Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+      - pilot 1
+  Unique Identifier:
+    findability: 1
+    text: DOI10.15468/pg338w
+https://www.gbif.org/dataset/bc0acb9a-131f-4085-93ae-a46e08564ac5:
+  Access rights:
+    findability: 0
+    text: N/A
+  Data contact point:
+    findability: 1
+    text: Julian Evans, jevansbio@gmail.com, Rotem Zilber, r.kadanzilber@uva.nl, W.
+      Daniel Kissling, wdkissling@gmail.com
+  Data creator:
+    findability: 1
+    text: Evans J Zilber R Kissling W D
+  Data publisher:
+    findability: 1
+    text: University of Amsterdam / IBED
+  Date last modified:
+    findability: 2
+    text: July 4, 2024
+  Date published:
+    findability: 2
+    text: July 4, 2024
+  Description:
+    findability: 1
+    text: Camera trapping pilot 3 was a test of the effect of lens angle, as well
+      as a test of the influence of camera height and being deployed outside herbivore
+      exclosures (security, herbivore damage, more varied habitat types). At each
+      of three locations (all in the area Westweg of the Amsterdam Water Supply Dunes),
+      both a regular lens Snyper Commander camera (52°) and a wide lens Wilsus Tradenda
+      camera (100°) were deployed (n = 6 cameras). The cameras were placed at different
+      heights at each location (30 cm, 40 cm and 50 cm above the ground). A month
+      of data from this pilot was annotated, from 1st March 2023 to 31st of March
+      2023. This led to a total of 16,020 annotated images over 31 days from six cameras.
+      A detailed description of the dataset can be found in a data paper published
+      in the journal Data in Brief (Evans et al. 2024, https://doi.org/10.1016/j.dib.2024.110544).
+  Distribution access URL:
+    findability: 1
+    text: https://ipt.nlbif.nl/archive.do?r=awd_pilot3
+  Distribution byte size:
+    findability: 0
+    text: N/A
+  Distribution format:
+    findability: 2
+    text: Camera Trap Data Package
+  Keywords:
+    findability: 0
+    text: N/A
+  License:
+    findability: 1
+    text: CC BY 4.0
+  Metadata date:
+    findability: nu1ll
+    text: July 4, 2024
+  Metadata language:
+    findability: 1
+    text: English
+  Resource type:
+    findability: 2
+    text: Occurrence dataset
+  Responsible organization metadata:
+    findability: 2
+    text: Netherlands Biodiversity Information Facility (NLBIF)
+  Same as:
+    findability: 0
+    text: N/A
+  Spatial coverage:
+    findability: 2
+    text: The area Westweg of the Amsterdam Water Supply Dunes
+  Spatial reference system:
+    findability: 0
+    text: N/A
+  Spatial resolution:
+    findability: 0
+    text: N/A
+  Temporal coverage:
+    findability: 2
+    text: 1st March 2023 to 31st of March 2023
+  Temporal resolution:
+    findability: 0
+    text: N/A
+  Title:
+    findability: 1
+    text: Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+      - pilot 3
+  Unique Identifier:
+    findability: 1
+    text: DOI10.15468/u88x5y
+https://zenodo.org/records/11440456:
+  Access rights:
+    findability: 2
+    text: The data are freely available
+  Data contact point:
+    findability: 1
+    text: Kissling, W. Daniel
+  Data creator:
+    findability: 1
+    text: Evans, Julian C. and Zilber, Rotem and Kissling, W. Daniel
+  Data publisher:
+    findability: 1
+    text: Zenodo
+  Date last modified:
+    findability: 2
+    text: June 11, 2024
+  Date published:
+    findability: 1
+    text: June 3, 2024
+  Description:
+    findability: 1
+    text: Three camera trap data packages (https://camtrap-dp.tdwg.org/) of data collected
+      as part of pilot studies carried out in the  Amsterdamse Waterleidingduinen.
+      The pilots were aimed at determining how different types of camera deployment
+      (e.g. regular vs. wide lens, various heights, inside/outside exclosures) might
+      influence species detections, and how to deploy autonomous wildlife monitoring
+      networks. Two pilots were conducted in herbivore exclosures and mainly detected
+      European rabbits (Oryctolagus cuniculus) and red fox (Vulpes vulpes). The third
+      pilot was conducted outside exclosures, with the European fallow deer (Dama
+      dama) being most prevalent. Across all three pilots, a total of 47,597 images
+      were annotated using the Agouti platform. All annotations were verified and
+      quality-checked by a human expert. A total of 2,779 observations of 20 different
+      species (including humans) were observed using 11 wildlife cameras during 2021–2023.
+      The raw image files (excluding humans), image metadata, deployment metadata
+      and observations from each pilot are shared using the Camtrap DP open standard
+      and the extended data publishing capabilities of GBIF to increase the findability,
+      accessibility, interoperability, and reusability of this data. The data are
+      freely available and can be used for developing artificial intelligence (AI)
+      algorithms that automatically detect and identify species from wildlife camera
+      images.
+  Distribution access URL:
+    findability: 1
+    text: https://doi.org/10.5281/zenodo.11440456
+  Distribution byte size:
+    findability: 1
+    text: 21.6 GB
+  Distribution format:
+    findability: 2
+    text: Camtrap DP format
+  Keywords:
+    findability: 1
+    text: ecology, camera trapping, dunes
+  License:
+    findability: 1
+    text: Creative Commons Attribution 4.0 International
+  Metadata date:
+    findability: 1
+    text: June 11, 2024
+  Metadata language:
+    findability: 2
+    text: English
+  Resource type:
+    findability: 1
+    text: Dataset
+  Responsible organization metadata:
+    findability: 0
+    text: N/A
+  Same as:
+    findability: 0
+    text: N/A
+  Spatial coverage:
+    findability: 2
+    text: Amsterdamse Waterleidingduinen
+  Spatial reference system:
+    findability: 0
+    text: N/A
+  Spatial resolution:
+    findability: 0
+    text: N/A
+  Temporal coverage:
+    findability: 2
+    text: 2021–2023
+  Temporal resolution:
+    findability: 0
+    text: N/A
+  Title:
+    findability: 1
+    text: Repository of camera trap data recorded during three pilot studies of the
+      Amsterdamse Waterleidingduinen
+  Unique Identifier:
+    findability: 1
+    text: https://doi.org/10.5281/zenodo.11440456
+https://zenodo.org/records/8319440:
+  Access rights:
+    findability: 0
+    text: N/A
+  Data contact point:
+    findability: 0
+    text: N/A
+  Data creator:
+    findability: 1
+    text: Parinaz Rashidi, Sopan D. Patil, Aafke M. Schipper, Rob Alkemade, Isabel
+      Rosa
+  Data publisher:
+    findability: 1
+    text: Zenodo
+  Date last modified:
+    findability: 1
+    text: September 6, 2023
+  Date published:
+    findability: 1
+    text: September 5, 2023
+  Description:
+    findability: 1
+    text: 'This dataset comprises high-resolution land use data downscaled from LUH2
+      scenarios for Belgium at both 10 m and 100 m resolutions. These datasets were
+      generated based on research conducted by Rashidi et al. in 2023 and published
+      in the Land Journal. We employed the GLOBIO land allocation routine to downscale
+      fractional land use data, originally at a 0.25 deg resolution (approximately
+      25 km), into discrete land use maps at 10 m and 100 m resolutions. This process
+      utilized three distinct reference land cover maps: ESA WorldCover at 10 m resolution,
+      ESA WorldCover upscaled to 100 m resolution, and CORINE land cover at 100 m
+      resolution. During the downsizing process, we considered three SSP-RCP scenarios
+      to model land use trends for both the present and the year 2050 on a national
+      scale in Belgium. Key components of the model included regional land use demand,
+      an assessment of grid cells suitability for various land use types, and a reference
+      land cover map. It is important to note that the classification system used
+      in the reference maps differs from that of LUH2. To ensure comparability for
+      land use simulations, we conducted a reclassification process following the
+      methodologies outlined by Pérez-Hoyos et al. (2012), Dong et al. (2018), and
+      Liao et al. (2020). This reclassification consolidated land use classes, except
+      for water, into seven general categories: 1) urban, 2) cropland, 3) pasture,
+      4) forestry, 5) secondary vegetation, 6) undefined, and 7) natural. The raw
+      data consists of three folders corresponding to the three reference maps, each
+      containing four TIFF files (.tif), one for each scenario type.'
+  Distribution access URL:
+    findability: 2
+    text: https://doi.org/10.5281/zenodo.8319440
+  Distribution byte size:
+    findability: 2
+    text: 196.3 MB
+  Distribution format:
+    findability: 2
+    text: .tif
+  Keywords:
+    findability: 1
+    text: spatial downscaling; GLOBIO land use allocation model; land use projection;
+      Socio-economic Pathway (SSP); Representative Concentration Pathways (RCP); scenarios
+  License:
+    findability: 1
+    text: Creative Commons Attribution 4.0 International
+  Metadata date:
+    findability: 1
+    text: September 6, 2023
+  Metadata language:
+    findability: 1
+    text: English
+  Resource type:
+    findability: 1
+    text: Dataset
+  Responsible organization metadata:
+    findability: 0
+    text: N/A
+  Same as:
+    findability: 0
+    text: N/A
+  Spatial coverage:
+    findability: 2
+    text: Belgium
+  Spatial reference system:
+    findability: 0
+    text: N/A
+  Spatial resolution:
+    findability: 2
+    text: 10 m and 100 m
+  Temporal coverage:
+    findability: 0
+    text: N/A
+  Temporal resolution:
+    findability: 0
+    text: N/A
+  Title:
+    findability: 1
+    text: High spatial resolution dataset of downscaled LUH2 land use scenarios for
+      Belgium (10 m and 100 m)
+  Unique Identifier:
+    findability: 1
+    text: https://doi.org/10.5281/zenodo.8319440
