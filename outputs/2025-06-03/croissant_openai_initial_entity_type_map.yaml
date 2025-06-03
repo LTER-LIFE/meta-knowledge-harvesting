@@ -1,0 +1,406 @@
+https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSS30_v002:
+  datePublished:
+  - '2015-11-28T00:00:00Z–2025-05-30T23:51:29Z; The dataset ''HLSS30: HLS Sentinel-2
+    Multi-spectral Instrument Surface Reflectance Daily Global 30m'' is available
+    from November 28, 2015 to May 30, 2025.'
+  description:
+  - 'The Harmonized Landsat Sentinel-2 (HLS) project provides consistent surface reflectance
+    data from the Operational Land Imager (OLI) aboard the joint NASA/USGS Landsat
+    8 satellite and the Multi-Spectral Instrument (MSI) aboard Europe''s Copernicus
+    Sentinel-2A satellites.; This is a description of the Harmonized Landsat Sentinel-2
+    (HLS) project, which provides the dataset ''HLSS30: HLS Sentinel-2 Multi-spectral
+    Instrument Surface Reflectance Daily Global 30m''.'
+  inLanguage:
+  - 'English; The dataset ''HLSS30: HLS Sentinel-2 Multi-spectral Instrument Surface
+    Reflectance Daily Global 30m'' and its related information are provided in English.'
+  keywords:
+  - 'landsat nasa satellite-imagery sentinel usgs; These are the keywords associated
+    with the dataset ''HLSS30: HLS Sentinel-2 Multi-spectral Instrument Surface Reflectance
+    Daily Global 30m''.'
+  publisher:
+  - 'NASA LP DAAC; NASA LP DAAC is the publisher of the dataset titled ''HLSS30: HLS
+    Sentinel-2 Multi-spectral Instrument Surface Reflectance Daily Global 30m''.'
+  sameAs:
+  - 'NASA/HLS/HLSS30/v002; This is the Earth Engine Snippet for the dataset ''HLSS30:
+    HLS Sentinel-2 Multi-spectral Instrument Surface Reflectance Daily Global 30m''.'
+  title:
+  - 'HLSS30: HLS Sentinel-2 Multi-spectral Instrument Surface Reflectance Daily Global
+    30m; This is the title of a dataset provided by NASA LP DAAC.'
+https://lpdaac.usgs.gov/products/mod09a1v061/:
+  dateModified:
+  - LP DAAC - MOD09A1; Not specified in the provided text.
+  datePublished:
+  - LP DAAC - MOD09A1; Not specified in the provided text.
+  description:
+  - LP DAAC - MOD09A1; The Moderate Resolution Imaging Spectroradiometer (MODIS) Terra
+    MOD09A1 Version 6.1 product provides an estimate of the surface spectral reflectance
+    of Terra MODIS Bands 1 through 7 corrected for atmospheric conditions such as
+    gasses, aerosols, and Rayleigh scattering.
+  inLanguage:
+  - LP DAAC - MOD09A1; English
+  keywords:
+  - LP DAAC - MOD09A1; MODIS, Terra, Surface Reflectance, atmospheric conditions,
+    gasses, aerosols, Rayleigh scattering
+  license:
+  - LP DAAC - MOD09A1; Not specified in the provided text.
+  publisher:
+  - LP DAAC - MOD09A1; LP DAAC
+  sameAs:
+  - LP DAAC - MOD09A1; Not specified in the provided text.
+  title:
+  - LP DAAC - MOD09A1; MODIS/Terra Surface Reflectance 8-Day L3 Global 500 m SIN Grid
+https://stac.ecodatacube.eu/veg_quercus.robur_anv.eml/collection.json?.language=en:
+  dateModified:
+  - 2020-12-31 00:00:00 UTC; The last date the data set was updated
+  datePublished:
+  - 2000-01-01 00:00:00 UTC – 2020-12-31 00:00:00 UTC; The time period for which the
+    data set is relevant
+  description:
+  - 'Actual Natural Vegetation (ANV): probability of occurrence for the Pedunculate
+    oak in its realized environment for the period 2000 - 2033; A detailed description
+    of the data set provided by EcoDataCube'
+  inLanguage:
+  - English; The language in which the data set is provided
+  keywords:
+  - species distribution model, tree species, landsat; Keywords related to the data
+    set provided by EcoDataCube
+  license:
+  - CC-BY-SA-4.0; The license under which the data on EcoDataCube is shared
+  publisher:
+  - opengeohub; The publisher of the data on EcoDataCube
+  sameAs:
+  - https://doi.org/10.5281/zenodo.5887415; The DOI link for the data set provided
+    by EcoDataCube
+  title:
+  - 'Actual Natural Vegetation (ANV): probability of occurrence for the Pedunculate
+    oak in its realized environment for the period 2000 - 2033; The title of the data
+    set provided by EcoDataCube'
+https://stac.ecodatacube.eu/ndvi_glad.landsat.ard2.seasconv/collection.json?.language=en:
+  dateModified:
+  - ndvi_glad.landsat.ard2.seasconv_20220901_20221031; The modification date is not
+    specified in the provided text.
+  datePublished:
+  - ndvi_glad.landsat.ard2.seasconv_20220901_20221031; The file was published between
+    2022-07-01 00:00:00 UTC and 2022-08-31 00:00:00 UTC.
+  description:
+  - COG; A type of file format used for geospatial data.
+  inLanguage:
+  - ndvi_glad.landsat.ard2.seasconv_20220901_20221031; The language is not specified
+    in the provided text.
+  keywords:
+  - ndvi_glad.landsat.ard2.seasconv_20220901_20221031; Keywords are not specified
+    in the provided text.
+  license:
+  - COG; Not specified in the provided text.
+  publisher:
+  - STAC Browser 3.3.4; The publisher of the geospatial data.
+  sameAs:
+  - ndvi_glad.landsat.ard2.seasconv_20220901_20221031; No equivalent entity is mentioned
+    in the provided text.
+  title:
+  - ndvi_glad.landsat.ard2.seasconv_20220901_20221031; The title of a specific geospatial
+    data file.
+https://zenodo.org/records/8319440:
+  dateModified:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The dataset was last modified on September 6, 2023.
+  datePublished:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The dataset was published on September 5, 2023.
+  description:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); This dataset comprises high-resolution land use data downscaled
+    from LUH2 scenarios for Belgium at both 10 m and 100 m resolutions.
+  inLanguage:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The language of the dataset is English.
+  keywords:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The keywords associated with the dataset are spatial downscaling,
+    GLOBIO land use allocation model, land use projection, Socio-economic Pathway
+    (SSP), Representative Concentration Pathways (RCP), scenarios.
+  license:
+  - Creative Commons Attribution 4.0 International; The dataset is licensed under
+    the Creative Commons Attribution 4.0 International.
+  publisher:
+  - Zenodo; Zenodo is the publisher of the dataset.
+  sameAs:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); The dataset can be accessed at https://doi.org/10.5281/zenodo.8319440.
+  title:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m); This is the title of the dataset created by Parinaz Rashidi,
+    Sopan D. Patil, Aafke M. Schipper, Rob Alkemade, & Isabel Rosa.
+https://lifesciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2bd-kskz:
+  dateModified:
+  - Apr 11, 2019; The dataset was last modified on Apr 11, 2019.
+  datePublished:
+  - 2019; The dataset was published in 2019.
+  description:
+  - The Dutch forest reserves network encompasses about 60 forest reserves representing
+    all major forest types in the Netherlands.; This is a description of the Dutch
+    forest reserves database and network.
+  inLanguage:
+  - English; The dataset is in English language.
+  keywords:
+  - forest reserve, monitoring, database, non-intervention dynamics; These are the
+    keywords related to the dataset.
+  license:
+  - DANS Licence; The dataset is licensed under the DANS Licence.
+  publisher:
+  - DANS Data Station Life Sciences; DANS Data Station Life Sciences is the platform
+    where the dataset is published.
+  sameAs:
+  - https://doi.org/10.17026/dans-2bd-kskz; This is the DOI link of the dataset.
+  title:
+  - Dutch forest reserves database and network; This is the title of the dataset.
+https://www.gbif.org/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e:
+  address:
+  - 159 Sapsucker Woods Road; This is the address of Cornell Lab of Ornithology.
+  dateModified:
+  - September 27, 2024; The metadata of the EOD – eBird Observation Dataset was last
+    modified on September 27, 2024.
+  datePublished:
+  - March 22, 2024; The EOD – eBird Observation Dataset was published on March 22,
+    2024.
+  description:
+  - eBird; eBird is a collective enterprise that develops cooperative partnerships
+    among experts in various fields to increase data quantity and control for data
+    quality issues. It is managed by the Cornell Lab of Ornithology.
+  identifier:
+  - DOI10.15468/aomfnb; This is the preferred identifier for the data.
+  inLanguage:
+  - English; The EOD – eBird Observation Dataset is in English language.
+  keywords:
+  - population ecologists, conservation biologists, quantitative ecologists, statisticians,
+    computer scientists, GIS and informatics specialists, application developers,
+    and data administrators; These are the fields of expertise involved in the eBird
+    project.
+  license:
+  - CC BY 4.0; The EOD – eBird Observation Dataset is licensed under CC BY 4.0.
+  organization:
+  - GBIF; GBIF is a Global Core Biodata Resource.
+  person:
+  - Jasdev Imani; Jasdev Imani is the Administrative point of contact at the Cornell
+    Lab of Ornithology.
+  publisher:
+  - Cornell Lab of Ornithology; Cornell Lab of Ornithology is the publisher of the
+    EOD – eBird Observation Dataset.
+  sameAs:
+  - Cornell Lab of Ornithology; The Cornell Lab of Ornithology is the same entity
+    that manages the eBird project.
+  title:
+  - EOD – eBird Observation Dataset; EOD – eBird Observation Dataset is the title
+    of the dataset.
+https://www.gbif.org/dataset/74196cd9-7ebc-4b20-bc27-3c2d22e31ed7:
+  dateModified:
+  - July 5, 2024; The metadata of the dataset was last modified on July 5, 2024.
+  datePublished:
+  - July 4, 2024; The dataset was registered on July 4, 2024.
+  description:
+  - 'Evans J Zilber R Kissling W D; These are the authors of the dataset: Evans J,
+    Zilber R, Kissling W D.'
+  inLanguage:
+  - English; The metadata language of the dataset is English.
+  keywords:
+  - Camera trap, Amsterdamse Waterleidingduinen, pilot 1, Snyper Commander cameras,
+    Zilkerpad, van Limburgstirum Vallei, Wolfsveld, Amsterdam Water Supply Dunes;
+    These are the keywords related to the dataset.
+  license:
+  - CC BY 4.0; The dataset is licensed under CC BY 4.0.
+  publisher:
+  - University of Amsterdam / IBED; The publisher of the dataset is the University
+    of Amsterdam / IBED.
+  sameAs:
+  - Netherlands Biodiversity Information Facility (NLBIF); The dataset is hosted by
+    the Netherlands Biodiversity Information Facility (NLBIF).
+  title:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+    - pilot 1; This is the title of the dataset collected during pilot studies in
+    the Amsterdamse Waterleidingduinen.
+https://www.gbif.org/dataset/f9ba3c2e-0636-4f66-a4b5-b8c138046e9e:
+  dateModified:
+  - July 4, 2024; The metadata of the dataset was last modified on July 4, 2024.
+  datePublished:
+  - July 4, 2024; The dataset was registered on July 4, 2024.
+  description:
+  - 'DOI10.15468/nxwpw6; This is the preferred identifier of the dataset: DOI10.15468/nxwpw6.'
+  inLanguage:
+  - English; The metadata language of the dataset is English.
+  keywords:
+  - 'Camera trap, Amsterdamse Waterleidingduinen, pilot 2, Snyper Commander camera,
+    species detection, data accumulation; These are the keywords related to the dataset:
+    Camera trap, Amsterdamse Waterleidingduinen, pilot 2, Snyper Commander camera,
+    species detection, data accumulation.'
+  license:
+  - CC BY 4.0; The dataset is licensed under CC BY 4.0.
+  publisher:
+  - University of Amsterdam / IBED; The publisher of the dataset is the University
+    of Amsterdam / IBED.
+  sameAs:
+  - Netherlands Biodiversity Information Facility (NLBIF); The dataset is hosted by
+    the Netherlands Biodiversity Information Facility (NLBIF).
+  title:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+    - pilot 2; This is the title of the dataset collected during pilot studies in
+    the Amsterdamse Waterleidingduinen.
+https://www.gbif.org/dataset/bc0acb9a-131f-4085-93ae-a46e08564ac5:
+  dateModified:
+  - July 4, 2024; This is the date when the dataset metadata was last modified.
+  datePublished:
+  - July 4, 2024; This is the date when the dataset was registered.
+  description:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+    - pilot 3; This is a dataset from a pilot study testing the effect of lens angle
+    and camera height in the Amsterdamse Waterleidingduinen. The data was collected
+    using both a regular lens Snyper Commander camera and a wide lens Wilsus Tradenda
+    camera at three different locations.
+  inLanguage:
+  - English; This is the language in which the dataset metadata is provided.
+  keywords:
+  - Camera trap, lens angle, camera height, Amsterdamse Waterleidingduinen; These
+    are the main topics covered in the dataset.
+  license:
+  - CC BY 4.0; This is the license under which the dataset is published, allowing
+    others to distribute, remix, adapt, and build upon the work, even commercially,
+    as long as they credit the original creation.
+  publisher:
+  - University of Amsterdam / IBED; This is the institution that published the dataset.
+  sameAs:
+  - https://doi.org/10.15468/u88x5y; This is the DOI link to access the dataset.
+  title:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+    - pilot 3; This is the title of the dataset collected during a pilot study in
+    the Amsterdamse Waterleidingduinen.
+https://zenodo.org/records/11440456:
+  dateModified:
+  - June 11, 2024; The date when the dataset was last modified.
+  datePublished:
+  - June 3, 2024; The date when the dataset was published.
+  description:
+  - Camtrap DP; An open standard for the exchange and archiving of camera trap data
+    using a standardized data structure.
+  inLanguage:
+  - English; The language in which the dataset is presented.
+  keywords:
+  - ecology, camera trapping, dunes; Keywords associated with the dataset.
+  license:
+  - Evans, Julian C.; Data curator for the camera trap data recorded during the pilot
+    studies.
+  publisher:
+  - Zenodo; The publisher of the dataset.
+  sameAs:
+  - https://doi.org/10.5281/zenodo.11440456; The DOI link for the dataset.
+  title:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen; Title of the dataset collected from the pilot studies.
+https://stac.ecodatacube.eu/blue_glad.landsat.ard2.seasconv.m.yearly/collection.json:
+  dateModified:
+  - 2022-12-31 00:00:00 UTC; The last date the data was modified.
+  datePublished:
+  - 2000-01-01 00:00:00 UTC – 2022-12-31 00:00:00 UTC; The time period for which the
+    data is available.
+  description:
+  - Blue band aggregated yearly from 30-m bi-monthly gapfilled GLAD Landsat ARD blue
+    band from 2000 to 2022.; A detailed description of the dataset provided by EcoDataCube.
+  inLanguage:
+  - English; The language in which the data is provided.
+  keywords:
+  - landsat, blue, 30-m; Keywords related to the dataset.
+  license:
+  - CC-BY-SA-4.0; The license under which the data is provided.
+  publisher:
+  - opengeohub; The publisher of the dataset.
+  sameAs:
+  - https://doi.org/10.5281/zenodo.10851081; The DOI link for the dataset.
+  title:
+  - Cloud-free reconstructed Landsat yearly blue band; The title of the dataset provided
+    by EcoDataCube.
+https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/L-mHomzGRuKAHGMkUPjY9g:
+  dateModified:
+  - Ecotopenkaart Waddenzee; The Ecotopenkaart Waddenzee dataset was last updated
+    3 months ago.
+  datePublished:
+  - Ecotopenkaart Waddenzee; The Ecotopenkaart Waddenzee was published on 2017-01-31.
+  description:
+  - Ecotopenkaart Waddenzee; Ecotopenkaart Waddenzee 2017 is a dataset that represents
+    an ecomorphological, landscape mappable unit. The ecotope system is divided based
+    on the criteria of height, flow rate, wave height, dry fall duration, geomorphology,
+    salinity, and sediment composition.
+  inLanguage:
+  - Ecotopenkaart Waddenzee; The language of the Ecotopenkaart Waddenzee dataset is
+    Nederlands.
+  keywords:
+  - Ecotopenkaart Waddenzee; Keywords associated with the Ecotopenkaart Waddenzee
+    include Abiotisch, Morfologie, Ecotopenkaart, Zoute Ecotopenkaart, MWTL, Intergetijdengebied,
+    and Ecotopen.
+  publisher:
+  - Rijkswaterstaat; The publisher of the Ecotopenkaart Waddenzee is Rijkswaterstaat.
+  sameAs:
+  - Ecotopenkaart Waddenzee; The Ecotopenkaart Waddenzee dataset can be found at https://viewer.openearth.nl/wadden-viewer/?folders=93790295%2C93793330%2C107902964&layers=100230540&layerNames=Ecotopenkaart+Waddenzee+%282017%29.
+  title:
+  - Ecotopenkaart Waddenzee; Ecotopenkaart Waddenzee is the title of the dataset.
+https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/0fe7e64b-50b3-4cee-b64a-02659fc2b6c7:
+  datePublished:
+  - 2025-04-11; The Waddenbalans 2024 was published on April 11, 2025.
+  description:
+  - Waddenbalans 2024; Waddenbalans 2024 provides a current picture of broad prosperity
+    and economic activities in the Wadden area.
+  inLanguage:
+  - Nederlands; The language of the Waddenbalans 2024 is Dutch.
+  keywords:
+  - Waddenbalans, Waddenprovincies, Brede welvaart, Economie; The keywords associated
+    with Waddenbalans 2024 are Waddenbalans, Waddenprovinces, Broad prosperity, Economy.
+  publisher:
+  - Het PON & Telos; Het PON & Telos is the organization that prepared the Waddenbalans
+    2024 report.
+  sameAs:
+  - https://www.investeringskaderwaddengebied.nl/wp-content/uploads/2025/04/Waddenbalans-2024.def_.pdf;
+    The Waddenbalans 2024 can be accessed at this URL.
+  title:
+  - Waddenbalans 2024; Waddenbalans 2024 is a periodic socio-economic monitor presented
+    by the three Wadden provinces - North Holland, Fryslân, and Groningen.
+https://stac.ecodatacube.eu/green_glad.landsat.ard2.seasconv.m.yearly/collection.json:
+  dateModified:
+  - EcoDataCube; 2022-12-31 00:00:00 UTC
+  datePublished:
+  - EcoDataCube; 2000-01-01 00:00:00 UTC
+  description:
+  - EcoDataCube; A platform providing green band aggregated yearly from 30-m bi-monthly
+    gapfilled GLAD Landsat ARD green band from 2000 to 2022.
+  inLanguage:
+  - EcoDataCube; English
+  keywords:
+  - EcoDataCube; landsat, green, 30-m
+  license:
+  - EcoDataCube; CC-BY-SA-4.0
+  publisher:
+  - EcoDataCube; opengeohub
+  sameAs:
+  - EcoDataCube; https://doi.org/10.5281/zenodo.10851081
+  title:
+  - Cloud-free reconstructed Landsat yearly green band; A dataset provided by EcoDataCube.
+https://datahuiswadden.openearth.nl/geonetwork/srv/api/records/A0h06_NlSEuNlium5OO3FA:
+  dateModified:
+  - 2024-09-03; The data was last modified on 2024-09-03.
+  datePublished:
+  - 2016-11-01; The data was published on 2016-11-01.
+  description:
+  - Ecotopenkaart; Ecotopenkaart is a method to visualize changes in ecosystems and
+    landscapes.
+  inLanguage:
+  - Nederlands; Vlaams; The metadata language is in Nederlands; Vlaams.
+  keywords:
+  - Ecotopen, Waddenzee, TMAP; Keywords associated with the data are Ecotopen, Waddenzee,
+    and TMAP.
+  license:
+  - Geen gebruiks limitaties; The data has no usage limitations.
+  publisher:
+  - Wageningen Marine Research; Wageningen Marine Research is the distributor and
+    resource provider of the data.
+  sameAs:
+  - Wageningen Marine Research; Wageningen Marine Research is also the same entity
+    that provides the data.
+  title:
+  - Waddenregister; Waddenregister is a platform providing ecological and geographical
+    information.

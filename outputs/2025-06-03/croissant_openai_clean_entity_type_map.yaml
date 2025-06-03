@@ -1,0 +1,306 @@
+https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSS30_v002:
+  datePublished:
+  - 2015-11-28T00:00:00Z–2025-05-30T23:51:29Z
+  description:
+  - The Harmonized Landsat Sentinel-2 (HLS) project provides consistent surface reflectance
+    data from the Operational Land Imager (OLI) aboard the joint NASA/USGS Landsat
+    8 satellite and the Multi-Spectral Instrument (MSI) aboard Europe's Copernicus
+    Sentinel-2A satellites.
+  inLanguage:
+  - English
+  keywords:
+  - landsat nasa satellite-imagery sentinel usgs
+  publisher:
+  - NASA LP DAAC
+  sameAs:
+  - NASA/HLS/HLSS30/v002
+  title:
+  - 'HLSS30: HLS Sentinel-2 Multi-spectral Instrument Surface Reflectance Daily Global
+    30m'
+https://lpdaac.usgs.gov/products/mod09a1v061/: {}
+https://stac.ecodatacube.eu/veg_quercus.robur_anv.eml/collection.json?.language=en:
+  dateModified:
+  - 2020-12-31 00:00:00 UTC
+  datePublished:
+  - 2000-01-01 00:00:00 UTC – 2020-12-31 00:00:00 UTC
+  description:
+  - 'EcoDataCube. A platform providing actual probability distribution for Quercus
+    robur (2000–2020)Actual Natural Vegetation (ANV): probability of occurrence for
+    the Pedunculate oak in its realized environment for the period 2000 - 2033. A
+    detailed description of the data set provided by EcoDataCube'
+  inLanguage:
+  - English
+  keywords:
+  - species distribution model, tree species, landsat
+  license:
+  - CC-BY-SA-4.0
+  publisher:
+  - opengeohub
+  sameAs:
+  - https://doi.org/10.5281/zenodo.5887415
+  title:
+  - 'Actual Natural Vegetation (ANV): probability of occurrence for the Pedunculate
+    oak in its realized environment for the period 2000 - 2033'
+https://stac.ecodatacube.eu/ndvi_glad.landsat.ard2.seasconv/collection.json?.language=en:
+  dateModified:
+  - 2022-05-01 00:00:00 UTC – 2022-06-30 00:00:00 UTC. N/A
+  datePublished:
+  - 2000-01-01 00:00:00 UTC – 2022-12-31 00:00:00 UTC. 2022-07-01 00:00:00 UTC - 2022-08-31
+    00:00:00 UTC.
+  description:
+  - EcoDataCube. A platform providing cloud-free reconstructed Landsat bimonthly Normalized
+    Difference Vegetation Index (NDVI) from 2000 to 2022.COG. A type of file format
+    used for geospatial data.
+  inLanguage:
+  - English. N/A
+  keywords:
+  - NDVI, Landsat, 30-m. N/A
+  license:
+  - CC-BY-SA-4.0. Not specified.
+  publisher:
+  - opengeohub. STAC Browser 3.3.4.
+  sameAs:
+  - https://doi.org/10.5281/zenodo.10884235. N/A
+  title:
+  - Normalized Difference Vegetation Index (NDVI). ndvi_glad.landsat.ard2.seasconv_20220901_20221031.
+https://zenodo.org/records/8319440:
+  dateModified:
+  - September 6, 2023
+  datePublished:
+  - September 5, 2023
+  description:
+  - High-resolution land use data downscaled from LUH2 scenarios for Belgium at both
+    10 m and 100 m resolutions
+  inLanguage:
+  - English
+  keywords:
+  - spatial downscaling, GLOBIO land use allocation model, land use projection, Socio-economic
+    Pathway (SSP), Representative Concentration Pathways (RCP), scenarios
+  license:
+  - Creative Commons Attribution 4.0 International
+  publisher:
+  - Zenodo
+  sameAs:
+  - https://doi.org/10.5281/zenodo.8319440
+  title:
+  - High spatial resolution dataset of downscaled LUH2 land use scenarios for Belgium
+    (10 m and 100 m)
+https://lifesciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2bd-kskz:
+  dateModified:
+  - Apr 11, 2019.
+  datePublished:
+  - '2019.'
+  description:
+  - The Dutch forest reserves network encompasses about 60 forest reserves representing
+    all major forest types in the Netherlands.
+  inLanguage:
+  - English.
+  keywords:
+  - forest reserve, monitoring, database, non-intervention dynamics.
+  license:
+  - DANS Licence.
+  publisher:
+  - R.J. Bijlsma; A.P.P.M. Clerkx. DANS Data Station Life Sciences.
+  sameAs:
+  - https://doi.org/10.17026/dans-2bd-kskz.
+  title:
+  - Dutch forest reserves database and network.
+https://www.gbif.org/dataset/4fa7b334-ce0d-4e88-aaae-2e0c138d049e:
+  address:
+  - 159 Sapsucker Woods Road
+  dateModified:
+  - September 27, 2024
+  datePublished:
+  - March 22, 2024
+  description:
+  - eBird is a collective enterprise that develops cooperative partnerships among
+    experts in various fields to increase data quantity and control for data quality
+    issues. It is managed by the Cornell Lab of Ornithology.
+  identifier:
+  - DOI10.15468/aomfnb
+  inLanguage:
+  - English
+  keywords:
+  - population ecologists, conservation biologists, quantitative ecologists, statisticians,
+    computer scientists, GIS and informatics specialists, application developers,
+    and data administrators
+  license:
+  - CC BY 4.0
+  organization:
+  - Cornell Lab of Ornithology, GBIF
+  person:
+  - Jeremy Smith, Andrew Stillman, Matt Strimas-Mackey, Brian Sullivan, Drew Weber,
+    Heather Wolf, Christopher Wood, Jasdev Imani
+  publisher:
+  - Cornell Lab of Ornithology
+  sameAs:
+  - Cornell Lab of Ornithology
+  title:
+  - EOD – eBird Observation Dataset
+https://www.gbif.org/dataset/74196cd9-7ebc-4b20-bc27-3c2d22e31ed7:
+  dateModified:
+  - July 5, 2024
+  datePublished:
+  - July 4, 2024
+  description:
+  - Evans J Zilber R Kissling W D
+  inLanguage:
+  - English
+  keywords:
+  - Camera trap, Amsterdamse Waterleidingduinen, pilot 1, Snyper Commander cameras,
+    Zilkerpad, van Limburgstirum Vallei, Wolfsveld, Amsterdam Water Supply Dunes
+  license:
+  - CC BY 4.0
+  publisher:
+  - University of Amsterdam / IBED
+  sameAs:
+  - Netherlands Biodiversity Information Facility (NLBIF)
+  title:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+    - pilot 1
+https://www.gbif.org/dataset/f9ba3c2e-0636-4f66-a4b5-b8c138046e9e:
+  dateModified:
+  - July 4, 2024
+  datePublished:
+  - July 4, 2024
+  description:
+  - 'Authors: Evans J, Zilber R, Kissling W D. Identifier: DOI10.15468/nxwpw6'
+  inLanguage:
+  - English
+  keywords:
+  - Camera trap, Amsterdamse Waterleidingduinen, pilot 2, Snyper Commander camera,
+    species detection, data accumulation
+  license:
+  - CC BY 4.0
+  publisher:
+  - University of Amsterdam / IBED
+  sameAs:
+  - Netherlands Biodiversity Information Facility (NLBIF)
+  title:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+    - pilot 2
+https://www.gbif.org/dataset/bc0acb9a-131f-4085-93ae-a46e08564ac5:
+  dateModified:
+  - July 4, 2024
+  datePublished:
+  - July 4, 2024
+  description:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+    - pilot 3. This is a dataset from a pilot study testing the effect of lens angle
+    and camera height in the Amsterdamse Waterleidingduinen. The data was collected
+    using both a regular lens Snyper Commander camera and a wide lens Wilsus Tradenda
+    camera at three different locations.
+  inLanguage:
+  - English
+  keywords:
+  - Camera trap, lens angle, camera height, Amsterdamse Waterleidingduinen
+  license:
+  - CC BY 4.0
+  publisher:
+  - University of Amsterdam / IBED
+  sameAs:
+  - https://doi.org/10.15468/u88x5y
+  title:
+  - Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen
+    - pilot 3
+https://zenodo.org/records/11440456:
+  dateModified:
+  - June 11, 2024
+  datePublished:
+  - June 3, 2024
+  description:
+  - Amsterdamse Waterleidingduinen. Three pilot studies carried out using camera traps
+    for wildlife monitoring. Camtrap DP, an open standard for the exchange and archiving
+    of camera trap data using a standardized data structure.
+  inLanguage:
+  - English
+  keywords:
+  - ecology, camera trapping, dunes
+  license:
+  - Evans, Julian C., Data curator for the camera trap data recorded during the pilot
+    studies.
+  publisher:
+  - Zenodo
+  sameAs:
+  - https://doi.org/10.5281/zenodo.11440456
+  title:
+  - Repository of camera trap data recorded during three pilot studies of the Amsterdamse
+    Waterleidingduinen.
+https://stac.ecodatacube.eu/blue_glad.landsat.ard2.seasconv.m.yearly/collection.json:
+  dateModified:
+  - 2022-12-31 00:00:00 UTC
+  datePublished:
+  - 2000-01-01 00:00:00 UTC – 2022-12-31 00:00:00 UTC
+  description:
+  - EcoDataCube. A platform providing cloud-free reconstructed Landsat yearly blue
+    band data from 2000 to 2022.Blue band aggregated yearly from 30-m bi-monthly gapfilled
+    GLAD Landsat ARD blue band from 2000 to 2022.
+  inLanguage:
+  - English
+  keywords:
+  - landsat, blue, 30-m
+  license:
+  - CC-BY-SA-4.0
+  publisher:
+  - opengeohub
+  sameAs:
+  - https://doi.org/10.5281/zenodo.10851081
+  title:
+  - Cloud-free reconstructed Landsat yearly blue band
+https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/L-mHomzGRuKAHGMkUPjY9g:
+  dateModified:
+  - last updated 3 months ago
+  datePublished:
+  - '2017-01-31'
+  description:
+  - Ecotopenkaart Waddenzee 2017 is a dataset that represents an ecomorphological,
+    landscape mappable unit. The ecotope system is divided based on the criteria of
+    height, flow rate, wave height, dry fall duration, geomorphology, salinity, and
+    sediment composition.
+  inLanguage:
+  - Nederlands
+  keywords:
+  - Abiotisch, Morfologie, Ecotopenkaart, Zoute Ecotopenkaart, MWTL, Intergetijdengebied,
+    Ecotopen
+  publisher:
+  - Rijkswaterstaat
+  sameAs:
+  - https://viewer.openearth.nl/wadden-viewer/?folders=93790295%2C93793330%2C107902964&layers=100230540&layerNames=Ecotopenkaart+Waddenzee+%282017%29
+  title:
+  - Ecotopenkaart Waddenzee
+https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/0fe7e64b-50b3-4cee-b64a-02659fc2b6c7:
+  datePublished:
+  - '2025-04-11'
+  description:
+  - Waddenbalans 2024 provides a current picture of broad prosperity and economic
+    activities in the Wadden area
+  inLanguage:
+  - Dutch
+  keywords:
+  - Waddenbalans, Waddenprovinces, Broad prosperity, Economy
+  publisher:
+  - Het PON & Telos
+  sameAs:
+  - https://www.investeringskaderwaddengebied.nl/wp-content/uploads/2025/04/Waddenbalans-2024.def_.pdf
+  title:
+  - Waddenbalans 2024
+https://stac.ecodatacube.eu/green_glad.landsat.ard2.seasconv.m.yearly/collection.json: {}
+https://datahuiswadden.openearth.nl/geonetwork/srv/api/records/A0h06_NlSEuNlium5OO3FA:
+  dateModified:
+  - '2024-09-03'
+  datePublished:
+  - '2016-11-01'
+  description:
+  - Ecotopenkaart
+  inLanguage:
+  - Nederlands; Vlaams
+  keywords:
+  - Ecotopen, Waddenzee, TMAP
+  license:
+  - Geen gebruiks limitaties
+  publisher:
+  - Wageningen Marine Research
+  sameAs:
+  - Wageningen Marine Research
+  title:
+  - Waddenregister
