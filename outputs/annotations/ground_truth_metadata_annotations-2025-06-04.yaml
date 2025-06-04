@@ -971,6 +971,80 @@ https://www.gbif.org/dataset/74196cd9-7ebc-4b20-bc27-3c2d22e31ed7:
   Unique Identifier:
     findability: 1
     text: DOI10.15468/pg338w
+https://www.gbif.org/dataset/f9ba3c2e-0636-4f66-a4b5-b8c138046e9e:
+  Access rights:
+    findability: 0
+    text: N/A
+  Data contact point:
+    findability: 1
+    text: Julian Evans, jevansbio@gmail.com, Rotem Zilber, r.kadanzilber@uva.nl, W.
+      Daniel Kissling, wdkissling@gmail.com
+  Data creator:
+    findability: 1
+    text: Evans J Zilber R Kissling W D
+  Data publisher:
+    findability: 1
+    text: University of Amsterdam / IBED
+  Date last modified:
+    findability: 1
+    text: July 4, 2024
+  Date published:
+    findability: 2
+    text: July 4, 2024
+  Description:
+    findability: 1
+    text: Camera trap pilot 2 was a test of the difference in species detection and data accumulation between a Snyper Commander camera with a regular lens (52°) and one with a wide lens (100°). The cameras were deployed at 30 cm above the ground within the herbivore exclosure Zeeveld Noord in the Amsterdam Water Supply Dunes from 14th of August 2021 to 24th of September 2021. During this pilot, a solar panel failure caused the cameras to stop recording data from the 24th of August 2021 to the 6th of September (14 days). During annotation, only days in which both cameras were operational were annotated. This led to a total of 1,113 images over 28 days from the two cameras. A detailed description of the dataset can be found in a data paper published in the journal Data in Brief (Evans et al. 2024, https://doi.org/10.1016/j.dib.2024.110544).
+  Distribution access URL:
+    findability: 1
+    text: https://ipt.nlbif.nl/archive.do?r=awd_pilot2
+  Distribution byte size:
+    findability: 0
+    text: N/A
+  Distribution format:
+    findability: 2
+    text: Camera Trap Data Package
+  Keywords:
+    findability: 0
+    text: N/A
+  License:
+    findability: 1
+    text: CC BY 4.0
+  Metadata date:
+    findability: 1
+    text: July 4, 2024
+  Metadata language:
+    findability: 1
+    text: English
+  Resource type:
+    findability: 2
+    text: Occurrence dataset
+  Responsible organization metadata:
+    findability: 2
+    text: Netherlands Biodiversity Information Facility (NLBIF)
+  Same as:
+    findability: 0
+    text: N/A
+  Spatial coverage:
+    findability: 2
+    text: the herbivore exclosure Zeeveld Noord in the Amsterdam Water Supply Dunes
+  Spatial reference system:
+    findability: 0
+    text: N/A
+  Spatial resolution:
+    findability: 0
+    text: N/A
+  Temporal coverage:
+    findability: 2
+    text: 14th of August 2021 to 24th of September 2021.
+  Temporal resolution:
+    findability: 0
+    text: N/A
+  Title:
+    findability: 1
+    text: Camera trap data recorded during pilot studies in the Amsterdamse Waterleidingduinen - pilot 2
+  Unique Identifier:
+    findability: 1
+    text: DOI10.15468/nxwpw6
 https://www.gbif.org/dataset/bc0acb9a-131f-4085-93ae-a46e08564ac5:
   Access rights:
     findability: 0
