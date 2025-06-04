@@ -31,7 +31,6 @@ class Labels(object):
 
         self._findability_exists = False 
         self._findability_not_exists = False
-
         for url, md_vals in self.labels.items():
             assert isinstance(md_vals, dict), f"Metadata for {url} is not a dictionary."
             for md_field, md_val in md_vals.items():
@@ -46,7 +45,8 @@ class Labels(object):
                     assert all(k in ['text', 'findability'] for k in md_val.keys()), f"Metadata field {md_field} for {url} has unexpected keys: {md_val.keys()}."
                     self._findability_exists = True
                     assert not self._findability_not_exists, 'Expected only one of findability or findability_not_exists to be True.'
-
+                else:
+                    raise ValueError(f"Metadata field {md_field} for {url} has an unexpected type: {type(md_val)}. Expected list or dict.")
         if not self._findability_exists and not self._findability_not_exists:
             raise ValueError("Labels must contain either 'findability' or 'findability_not_exists' metadata fields.")
         if self._findability_exists:
@@ -109,13 +109,15 @@ class Labels(object):
     def __repr__(self):
         return f"Labels({len(self.labels)} URLs, {len(self.list_metadata_fields)} metadata fields: {self.list_metadata_fields})"
 
-def load_pred_and_annot(fp_pred, fp_annot, keep_annotated_fields_only=False):
+def load_pred_and_annot(fp_pred, fp_annot, keep_annotated_fields_only=False, metadata_format: str = 'cedar'):
     labels_annot = load_yaml(fp_annot)
     labels_pred = load_yaml(fp_pred)
+    labels_annot = specify_and_convert_metadata_fields(labels_annot, metadata_format)
+    labels_pred = specify_and_convert_metadata_fields(labels_pred, metadata_format)
     assert set(labels_annot.keys()) == set(labels_pred.keys()), f"Keys in annotation and prediction files do not match: {set(labels_annot.keys()).symmetric_difference(set(labels_pred.keys()))}"
     metadata_fields_annot = list(list(labels_annot.values())[0].keys())
 
-    if keep_annotated_fields_only:
+    if keep_annotated_fields_only:  # Only keep fields that are present in the annotations
         for url, vals in labels_pred.items():
             for key in list(vals.keys()):
                 if key not in metadata_fields_annot:
@@ -137,3 +139,54 @@ def load_pred_and_annot(fp_pred, fp_annot, keep_annotated_fields_only=False):
                     print(f"Multiple values for {l_name}: {meta_key} in {url}: {meta_vals}")
                     
     return labels_annot, labels_pred, (list_ds_urls, metadata_fields_annot)
+
+def specify_and_convert_metadata_fields(labels, metadata_format: str):
+    assert metadata_format in ['cedar', 'croissant']
+    if metadata_format == 'cedar':
+        metadata_fields = ['Access rights',
+                            'Data contact point',
+                            'Data creator',
+                            'Data publisher',
+                            'Description',
+                            'Distribution access URL',
+                            'Distribution byte size',
+                            'Distribution format',
+                            'Keywords',
+                            'License',
+                            'Metadata date',
+                            'Metadata language',
+                            'Resource type',
+                            'Responsible organization metadata',
+                            'Spatial coverage',
+                            'Spatial reference system',
+                            'Spatial resolution',
+                            'Temporal coverage',
+                            'Temporal resolution',
+                            'Title',
+                            'Unique Identifier']
+        metadata_fields_dict = {x: x for x in metadata_fields}
+    elif metadata_format == 'croissant':
+        metadata_fields_dict = {'creator': 'Data creator',
+                                'publisher': 'Data publisher',
+                                'dateModified': 'Date last modified',
+                                'datePublished': 'Date published',
+                                'description': 'Description',
+                                'keywords': 'Keywords',
+                                'license': 'License',
+                                'inLanguage': 'Metadata language',
+                                'sameAs': 'Same as',
+                                'name': 'Title'}
+        ## Also add value to value for annotated data that already uses these fields as keys.
+        metadata_fields_dict = {**metadata_fields_dict, **{v: v for v in metadata_fields_dict.values() if v not in metadata_fields_dict.keys()}}
+    else:
+        raise ValueError(f"Unknown metadata format: {metadata_format}")
+    
+    new_labels = {}
+    for url, vals in labels.items():
+        new_vals = {}
+        for meta_key, meta_val in vals.items():
+            if meta_key in metadata_fields_dict:
+                new_vals[metadata_fields_dict[meta_key]] = meta_val
+        new_labels[url] = new_vals
+
+    return new_labels
