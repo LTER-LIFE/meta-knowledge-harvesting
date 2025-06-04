@@ -71,7 +71,7 @@ https://datahuiswadden.openearth.nl/geonetwork/srv/api/records/A0h06_NlSEuNlium5
     text: N/A
   Temporal coverage:
     findability: 2
-    text: 2016
+    text: '2016'
   Temporal resolution:
     findability: 0
     text: N/A
@@ -154,7 +154,7 @@ https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/
     text: N/A
   Temporal coverage:
     findability: 2
-    text: 2024
+    text: '2024'
   Temporal resolution:
     findability: 0
     text: N/A
@@ -234,7 +234,7 @@ https://datahuiswadden.openearth.nl/geonetwork/srv/eng/catalog.search#/metadata/
     text: N/A
   Temporal coverage:
     findability: 2
-    text: 2017
+    text: '2017'
   Temporal resolution:
     findability: 0
     text: N/A
