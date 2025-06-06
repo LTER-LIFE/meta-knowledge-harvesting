@@ -1,14 +1,14 @@
 \begin{table}
-\caption{Fraction of metadata fields that were not identified by the LLMs. For available metadata, this includes structured fields that were not retrieved and unstructured fields that were not recognised (false negatives (FN)) . For unavailable metadata, this includes fields that were reported as unavailable (true negatives (TN)). Post-processed results for both CEDAR and Croissant formats was used.}
+\caption{Fraction of metadata fields that were not identified by the LLMs. For available metadata, this includes structured fields that were not retrieved and unstructured fields that were not recognised (false negatives (FN)) . For unavailable metadata, this includes fields that were reported as unavailable (true negatives (TN)). Post-processed results for both CEDAR and Croissant formats were used.}
 \label{tab:metadata_not_found}
 \begin{tabular}{lcc}
 \toprule
 llm_name & GPT4 & Gemini 2.5 Flash \\
 Metadata availability &  &  \\
 \midrule
-Available and structured metadata not retrieved (FN, $\%$) & 13.4 & 3.0 \\
-Available but unstructured metadata not recognised (FN, $\%$) & 28.8 & 9.6 \\
-Unavailable metadata reported as unavailable (TN, $\%$) & 70.3 & 40.7 \\
+Available and structured metadata not retrieved (FN, $\%$) & 12.5 & 0.0 \\
+Available but unstructured metadata not recognised (FN, $\%$) & 21.2 & 6.2 \\
+Unavailable metadata reported as unavailable (TN, $\%$) & 56.8 & 34.7 \\
 \bottomrule
 \end{tabular}
 \end{table}
