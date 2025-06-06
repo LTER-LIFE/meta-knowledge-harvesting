@@ -5,52 +5,19 @@ GRAPH_FIELD_SEP = "<SEP>"
 
 CHEATSHEETS: dict[str, Any] = {}
 
-CHEATSHEETS["cheat_sheet"] = """
-In scientific meta-analyses that explore how climate change affects crop yields,
-the relationships between variables like crop yield and climate drivers are 
-deeply interconnected—and critically shaped by the time and location of the
-experiments.
-
-Crops have many type, and each crop exhibits distinct phenological development characteristics
-throughout its growth cycle. These developmental stages—such as germination, vegetative growth,
-flowering, and maturation—vary in duration and intensity depending on the crop species and
-environmental conditions. The differences in phenological development directly influence
-the biomass accumulation, resource allocation, and ultimately the formation of yield. As a result,
-each crop type produces different levels of yield under given conditions. 
-
-Different crops exhibit distinct yield responses depending on the climate driver they
-face, such as elevated temperatures, CO₂ concentrations, drought, or combinations of these.
-For instance, crops like wheat and rice tend to show greater sensitivity to heat and CO₂
-changes compared to crops like maize and sorghum, which are more resilient in hot, arid
-climates. 
-
-The yield outcome also hinges on the timing of exposure to stress—especially during critical
-developmental phases like anthesis and grain filling. For example, heat stress during anthesis
-can cause a 30% reduction in crop yield, and the reduction is 10% in C4 crops. This highlights
-the importance of not only the stress type but also when it occurs within the crop’s lifecycle.
-
-Moreover, the location of an experiment determines the ambient climate baseline, which affects
-how far or close conditions are to a crop's optimal temperature range. This regional variability
-means that even the same crop can exhibit different yield responses in different climates or
-growing zones. For example, a degree of warming that harms yields in one area might have a
-neutral or even beneficial effect in another, depending on local conditions.
-
-Importantly, yield response isn’t always driven by single climate factors. The interaction of
-multiple stressors—like heat and drought occurring together—often has a more severe effect than
-each factor alone. These compound effects can reduce cereal grain yields by up to 60%, compared
-to 30–40% for single stress events. Such outcomes can also vary by crop species and depend on
-cultivar-specific traits, as well as soil conditions and water availability.
-
-Experimental design adds another layer of complexity. Controlled settings like FACE or open-top
-chambers simulate specific climate conditions to isolate variables, but their findings must be
-interpreted in the context of real-world environmental variability, where multiple stressors may
-co-occur unpredictably.
-
-Ultimately, any accurate interpretation of climate impact on crop yield must take into account
-not just the type of crop and climate variable involved, but also where and when the crop was
-grown, what combinations of stressors were presentd. These interdependent relationships form the 
-backbone of agricultural meta-analysis and are key to projecting how global food systems may evolve 
-in a changing climate.
+CHEATSHEETS["special_interests_croissant"] = """
+- description: Description of the dataset.
+- license: The license of the dataset. Croissant recommends using the URL of a known license, e.g.,
+    one of the licenses listed at https://spdx.org/licenses/.
+- name: The name of the dataset.
+- creator: The creator(s) of the dataset.
+- datePublished: The date the dataset was published.
+- keywords: A set of keywords associated with the dataset, either as free text, or a DefinedTerm with
+    a formal definition.
+- publisher: The publisher of the dataset, which may be distinct from its creator.
+- sameAs: The URL of another Web resource that represents the same dataset as this one.
+- dateModified: The date the dataset was last modified.
+- inLanguage: The language(s) of the content of the dataset.
 """
 
 CHEATSHEETS["special_interests"] = """
@@ -200,10 +167,23 @@ CHEATSHEETS["nightly_entity_template"] = """
 ("entity"{tuple_delimiter}"<Nightly Entity Name>"{tuple_delimiter}"Distribution byte size"{tuple_delimiter}"<Nightly Inference>"){record_delimiter}
 """
 
+CHEATSHEETS["nightly_entity_template_croissant"] = """
+("entity"{tuple_delimiter}"<Nightly Entity Name>"{tuple_delimiter}"description"{tuple_delimiter}"<Nightly Inference>"){record_delimiter}
+("entity"{tuple_delimiter}"<Nightly Entity Name>"{tuple_delimiter}"license"{tuple_delimiter}"<Nightly Inference>"){record_delimiter}
+("entity"{tuple_delimiter}"<Nightly Entity Name>"{tuple_delimiter}"name"{tuple_delimiter}"<Nightly Inference>"){record_delimiter}
+("entity"{tuple_delimiter}"<Nightly Entity Name>"{tuple_delimiter}"creator"{tuple_delimiter}"<Nightly Inference>"){record_delimiter}
+("entity"{tuple_delimiter}"<Nightly Entity Name>"{tuple_delimiter}"datePublished"{tuple_delimiter}"<Nightly Inference>"){record_delimiter}
+("entity"{tuple_delimiter}"<Nightly Entity Name>"{tuple_delimiter}"keywords"{tuple_delimiter}"<Nightly Inference>"){record_delimiter}
+("entity"{tuple_delimiter}"<Nightly Entity Name>"{tuple_delimiter}"publisher"{tuple_delimiter}"<Nightly Inference>"){record_delimiter}
+("entity"{tuple_delimiter}"<Nightly Entity Name>"{tuple_delimiter}"sameAs"{tuple_delimiter}"<Nightly Inference>"){record_delimiter}
+("entity"{tuple_delimiter}"<Nightly Entity Name>"{tuple_delimiter}"dateModified"{tuple_delimiter}"<Nightly Inference>"){record_delimiter}
+("entity"{tuple_delimiter}"<Nightly Entity Name>"{tuple_delimiter}"inLanguage"{tuple_delimiter}"<Nightly Inference>"){record_delimiter}
+"""
+
 CHEATSHEETS["post_processing"] = """
 ---Goal---
 Given a list of entities with metadata and related descriptive texts, extract concise information for each entity.
-Use {language} as the output language.
+Use {language} as the output language even if input language is not in {language}.
 
 ---Input Format---
 The input consists of a list of tuples in the following format:

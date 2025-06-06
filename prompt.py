@@ -16,6 +16,16 @@ PROMPTS["DEFAULT_ENTITY_TYPES"] = ["Metadata date", "Metadata language", "Respon
                                    "Spatial coverage", "Spatial resolution", "Spatial reference system",
                                    "Temporal coverage", "Temporal resolution", "License", "Access rights",
                                    "Distribution access URL", "Distribution format", "Distribution byte size"]
+PROMPTS["CROISSANT_ENTITY_TYPES"] = ["description",
+                                     "license",
+                                     "name",
+                                     "creator",
+                                     "datePublished",
+                                     "keywords",
+                                     "publisher",
+                                     "sameAs",
+                                     "dateModified",
+                                     "inLanguage"]
 
 PROMPTS["entity_extraction"] = """---Goal---
 Given a text document that is potentially relevant to this activity and a list of entity types, identify all entities of those types from the text and all relationships among the identified entities.

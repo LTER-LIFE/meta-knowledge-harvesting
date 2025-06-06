@@ -1,4 +1,5 @@
 from openai import OpenAI
+from google import genai
 from dotenv import load_dotenv
 from utils import (
     logger,
@@ -20,49 +21,87 @@ import tiktoken
 import re
 import os
 
+# llm_model = "gemini-2.5-flash-preview-05-20"
 llm_model = "gpt-4"
 load_dotenv()
 
+use_openai, use_gemini = False, False
+if llm_model.startswith("gpt"):
+    use_openai = True
+elif llm_model.startswith("gemini"):
+    use_gemini = True
+
 def chunk_text(text: str, max_tokens: int = 6000) -> list[str]:
     """Split text into chunks that fit within token limit"""
-    encoder = tiktoken.encoding_for_model(llm_model)
-    tokens = encoder.encode(text)
     chunks = []
     
-    current_chunk = []
-    current_length = 0
-    
-    for token in tokens:
-        if current_length + 1 > max_tokens:
-            # Convert chunk back to text
-            chunk_text = encoder.decode(current_chunk)
-            chunks.append(chunk_text)
-            current_chunk = []
-            current_length = 0
+    if use_openai:
+        encoder = tiktoken.encoding_for_model(llm_model)
+        tokens = encoder.encode(text)
         
-        current_chunk.append(token)
-        current_length += 1
+        current_chunk = []
+        current_length = 0
+        
+        for token in tokens:
+            if current_length + 1 > max_tokens:
+                # Convert chunk back to text
+                chunk_text = encoder.decode(current_chunk)
+                chunks.append(chunk_text)
+                current_chunk = []
+                current_length = 0
+            
+            current_chunk.append(token)
+            current_length += 1
+        
+        if current_chunk:
+            chunks.append(encoder.decode(current_chunk))
     
-    if current_chunk:
-        chunks.append(encoder.decode(current_chunk))
+    else:
+        # For non-OpenAI models, use character-based chunking
+        # Assuming average of 4 characters per token
+        char_limit = max_tokens * 4
+        
+        for i in range(0, len(text), char_limit):
+            chunk = text[i:i + char_limit]
+            # Try to break at sentence boundary
+            if i + char_limit < len(text):
+                last_period = chunk.rfind('.')
+                if last_period > 0:
+                    chunks.append(chunk[:last_period + 1])
+                    text = text[i + last_period + 1:]
+                else:
+                    chunks.append(chunk)
+            else:
+                chunks.append(chunk)
     
     return chunks
 
-def extract_entities(text: str, entity_types: list[str], special_interest: str = "") -> dict:
+def extract_entities(text: str, entity_types: list[str], special_interest: str = "", is_croissant=False) -> dict:
     # Split text into chunks
     chunks = chunk_text(text, max_tokens=4000)  # Leave room for completion
     
     all_nodes = defaultdict(list)
     all_edges = defaultdict(list)
-    
-    client = OpenAI(
-        api_key=os.getenv("OPENAI_API_KEY")
-    )
 
-    nightly_entities_prompt = CHEATSHEETS["nightly_entity_template"].format(
-        tuple_delimiter=PROMPTS["DEFAULT_TUPLE_DELIMITER"],
-        record_delimiter=PROMPTS["DEFAULT_RECORD_DELIMITER"],
-    )
+    if use_openai:
+        client = OpenAI(
+            api_key=os.getenv("OPENAI_API_KEY")
+        )
+    elif use_gemini:
+        client = genai.Client(
+            api_key=os.getenv("GEMINI_API_KEY")
+        )
+    if is_croissant:
+        # Use the croissant entity template for nightly entities
+        nightly_entities_prompt = CHEATSHEETS["nightly_entity_template_croissant"].format(
+            tuple_delimiter=PROMPTS["DEFAULT_TUPLE_DELIMITER"],
+            record_delimiter=PROMPTS["DEFAULT_RECORD_DELIMITER"],
+        )
+    else:
+        nightly_entities_prompt = CHEATSHEETS["nightly_entity_template"].format(
+            tuple_delimiter=PROMPTS["DEFAULT_TUPLE_DELIMITER"],
+            record_delimiter=PROMPTS["DEFAULT_RECORD_DELIMITER"],
+        )
 
     all_records = []
     
@@ -78,26 +117,34 @@ def extract_entities(text: str, entity_types: list[str], special_interest: str =
             "nightly_entities": nightly_entities_prompt,
             "input_text": chunk
         }
-        
-        response = client.chat.completions.create(
-            model=llm_model,
-            messages=[
-                {
-                    "role": "system",
-                    "content": "You are an AI trained to extract entities (meta data fields) and relationships from text."
-                },
-                {
-                    "role": "user",
-                    "content": _format_prompt(formatted_prompt)
-                }
-            ],
-            temperature=0.0,
-            max_tokens=2000
-        )
+        if use_openai:
+            response = client.chat.completions.create(
+                model=llm_model,
+                messages=[
+                    {
+                        "role": "system",
+                        "content": "You are an AI trained to extract entities (meta data fields) and relationships from text."
+                    },
+                    {
+                        "role": "user",
+                        "content": _format_prompt(formatted_prompt)
+                    }
+                ],
+                temperature=0.0,
+                max_tokens=2000
+            )
+            response_text = response.choices[0].message.content
+        elif use_gemini:
+            response = client.models.generate_content(
+                model=llm_model,
+                contents=_format_prompt(formatted_prompt)
+            )
+            response_text = response.text
+
 
         # Process the chunk results
         records = _process_extraction_result(
-            response.choices[0].message.content,
+            response_text,
             chunk_key=compute_mdhash_id(chunk),
             file_path="unknown_source"
         )
@@ -340,33 +387,50 @@ def _post_processing_records(all_records: list[str], chunk_key: str, file_path: 
         
         merged_records += f"(\"entity\"{context_base['tuple_delimiter']}{entity_type}{context_base['tuple_delimiter']}{entity_description}){context_base['record_delimiter']}\n"
 
-    client = OpenAI(
-        api_key=os.getenv("OPENAI_API_KEY")
-    )
+    if use_openai:
+        client = OpenAI(
+            api_key=os.getenv("OPENAI_API_KEY")
+        )
     
-    response = client.chat.completions.create(
-        model=llm_model,
-        messages=[
-            {
-                "role": "system",
-                "content": "You are an AI trained to extract entities (meta data fields) and relationships from text."
-            },
-            {
-                "role": "user",
-                "content": CHEATSHEETS["post_processing"].format(
-                    language="English",
-                    tuple_delimiter=context_base["tuple_delimiter"],
-                    record_delimiter=context_base["record_delimiter"],
-                    completion_delimiter=context_base["record_delimiter"],
-                    input_entities=merged_records,
-                )
-            }
-        ],
-        temperature=0.0,
-        max_tokens=2000
-    )
+        response = client.chat.completions.create(
+            model=llm_model,
+            messages=[
+                {
+                    "role": "system",
+                    "content": "You are an AI trained to extract entities (meta data fields) and relationships from text."
+                },
+                {
+                    "role": "user",
+                    "content": CHEATSHEETS["post_processing"].format(
+                        language="English",
+                        tuple_delimiter=context_base["tuple_delimiter"],
+                        record_delimiter=context_base["record_delimiter"],
+                        completion_delimiter=context_base["record_delimiter"],
+                        input_entities=merged_records,
+                    )
+                }
+            ],
+            temperature=0.0,
+            max_tokens=2000
+        )
 
-    result = response.choices[0].message.content
+        result = response.choices[0].message.content
+    elif use_gemini:
+        client = genai.Client(
+            api_key=os.getenv("GEMINI_API_KEY")
+        )
+
+        response = client.models.generate_content(
+            model=llm_model,
+            contents=CHEATSHEETS["post_processing"].format(
+                language="English",
+                tuple_delimiter=context_base["tuple_delimiter"],
+                record_delimiter=context_base["record_delimiter"],
+                completion_delimiter=context_base["record_delimiter"],
+                input_entities=merged_records,
+            )
+        )
+        result = response.text
 
     records = split_string_by_multi_markers(
         result,
