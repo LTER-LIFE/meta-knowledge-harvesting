@@ -391,8 +391,8 @@ https://lifesciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dan
     findability: 2
     text: Wageningen University & Research
   Same as:
-    findability: 0
-    text: N/A
+    findability: 2
+    text: https://doi.org/10.17026/dans-2bd-kskz
   Spatial coverage:
     findability: 1
     text: Netherlands
@@ -525,8 +525,8 @@ https://stac.ecodatacube.eu/blue_glad.landsat.ard2.seasconv.m.yearly/collection.
     findability: 0
     text: N/A
   Distribution format:
-    findability: 0
-    text: N/A
+    findability: 2
+    text: COG
   Keywords:
     findability: 1
     text: landsat, blue, 30m
@@ -599,8 +599,8 @@ https://stac.ecodatacube.eu/green_glad.landsat.ard2.seasconv.m.yearly/collection
     findability: 0
     text: N/A
   Distribution format:
-    findability: 0
-    text: N/A
+    findability: 2
+    text: COG
   Keywords:
     findability: 1
     text: landsat, green, 30m
@@ -673,8 +673,8 @@ https://stac.ecodatacube.eu/ndvi_glad.landsat.ard2.seasconv/collection.json?.lan
     findability: 0
     text: N/A
   Distribution format:
-    findability: 0
-    text: N/A
+    findability: 2
+    text: COG
   Keywords:
     findability: 1
     text: landsat, ndvi, 30m
@@ -703,8 +703,8 @@ https://stac.ecodatacube.eu/ndvi_glad.landsat.ard2.seasconv/collection.json?.lan
     findability: 0
     text: N/A
   Spatial resolution:
-    findability: 0
-    text: N/A
+    findability: 2
+    text: 30-m
   Temporal coverage:
     findability: 1
     text: 2000-01-01 00:00:00 UTC - 2022-12-31 00:00:00 UTC
@@ -748,8 +748,8 @@ https://stac.ecodatacube.eu/veg_quercus.robur_anv.eml/collection.json?.language=
     findability: 0
     text: N/A
   Distribution format:
-    findability: 0
-    text: N/A
+    findability: 2
+    text: COG
   Keywords:
     findability: 1
     text: species distribution model, tree species, landsat
@@ -946,8 +946,8 @@ https://www.gbif.org/dataset/74196cd9-7ebc-4b20-bc27-3c2d22e31ed7:
     findability: 2
     text: Netherlands Biodiversity Information Facility (NLBIF)
   Same as:
-    findability: 0
-    text: N/A
+    findability: 2
+    text: https://doi.org/10.15468/pg338w
   Spatial coverage:
     findability: 2
     text: locations Zilkerpad, van Limburgstirum Vallei and Wolfsveld in the Amsterdam
@@ -1022,8 +1022,8 @@ https://www.gbif.org/dataset/f9ba3c2e-0636-4f66-a4b5-b8c138046e9e:
     findability: 2
     text: Netherlands Biodiversity Information Facility (NLBIF)
   Same as:
-    findability: 0
-    text: N/A
+    findability: 2
+    text: https://doi.org/10.15468/nxwpw6
   Spatial coverage:
     findability: 2
     text: the herbivore exclosure Zeeveld Noord in the Amsterdam Water Supply Dunes
@@ -1106,8 +1106,8 @@ https://www.gbif.org/dataset/bc0acb9a-131f-4085-93ae-a46e08564ac5:
     findability: 2
     text: Netherlands Biodiversity Information Facility (NLBIF)
   Same as:
-    findability: 0
-    text: N/A
+    findability: 2
+    text: https://doi.org/10.15468/u88x5y
   Spatial coverage:
     findability: 2
     text: The area Westweg of the Amsterdam Water Supply Dunes
@@ -1198,8 +1198,8 @@ https://zenodo.org/records/11440456:
     findability: 0
     text: N/A
   Same as:
-    findability: 0
-    text: N/A
+    findability: 2
+    text: https://doi.org/10.5281/zenodo.11440456
   Spatial coverage:
     findability: 2
     text: Amsterdamse Waterleidingduinen
@@ -1294,8 +1294,8 @@ https://zenodo.org/records/8319440:
     findability: 0
     text: N/A
   Same as:
-    findability: 0
-    text: N/A
+    findability: 2
+    text: https://doi.org/10.5281/zenodo.8319440
   Spatial coverage:
     findability: 2
     text: Belgium

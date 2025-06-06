@@ -109,7 +109,7 @@ class Labels(object):
     def __repr__(self):
         return f"Labels({len(self.labels)} URLs, {len(self.list_metadata_fields)} metadata fields: {self.list_metadata_fields})"
 
-def load_pred_and_annot(fp_pred, fp_annot, keep_annotated_fields_only=False, metadata_format: str = 'cedar'):
+def load_pred_and_annot(fp_pred, fp_annot, keep_annotated_fields_only=True, metadata_format: str = 'cedar'):
     labels_annot = load_yaml(fp_annot)
     labels_pred = load_yaml(fp_pred)
     labels_annot = specify_and_convert_metadata_fields(labels_annot, metadata_format)
@@ -141,7 +141,7 @@ def load_pred_and_annot(fp_pred, fp_annot, keep_annotated_fields_only=False, met
     return labels_annot, labels_pred, (list_ds_urls, metadata_fields_annot)
 
 def specify_and_convert_metadata_fields(labels, metadata_format: str):
-    assert metadata_format in ['cedar', 'croissant']
+    assert metadata_format in ['cedar', 'croissant', 'all']
     if metadata_format == 'cedar':
         metadata_fields = ['Access rights',
                             'Data contact point',
@@ -178,6 +178,8 @@ def specify_and_convert_metadata_fields(labels, metadata_format: str):
                                 'name': 'Title'}
         ## Also add value to value for annotated data that already uses these fields as keys.
         metadata_fields_dict = {**metadata_fields_dict, **{v: v for v in metadata_fields_dict.values() if v not in metadata_fields_dict.keys()}}
+    elif metadata_format == 'all':
+        return labels
     else:
         raise ValueError(f"Unknown metadata format: {metadata_format}")
     
